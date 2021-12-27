@@ -1,0 +1,133 @@
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Validation Language Lines
+|--------------------------------------------------------------------------
+|
+| The following language lines contain the default error messages used by
+| the validator class. Some of these rules have multiple versions such
+| as the size rules. Feel free to tweak each of these messages here.
+|
+*/
+
+return [
+    'accepted'             => ' গ্রহণ করা আবশ্যক।',
+    'accepted_if'          => 'The  must be accepted when :other is :value.',
+    'active_url'           => 'এই  একটি বৈধ URL নয়।',
+    'after'                => ':date অবশ্যই  এর পরের একটি তারিখ হতে হবে।',
+    'after_or_equal'       => ' টি অবশ্যই :date এর সাথে মিল অথবা এর পরের একটি তারিখ হতে হবে।',
+    'alpha'                => ' শুধুমাত্র অক্ষর থাকতে পারে।',
+    'alpha_dash'           => ' শুধুমাত্র অক্ষর, সংখ্যা, এবং ড্যাশ থাকতে পারে।',
+    'alpha_num'            => ' শুধুমাত্র বর্ণ ও সংখ্যা থাকতে পারে।',
+    'array'                => ' একটি অ্যারে হতে হবে।',
+    'attached'             => 'এই  ইতিমধ্যে সংযুক্ত করা হয়.',
+    'before'               => ':date অবশ্যই  এর আগের একটি তারিখ হতে হবে।',
+    'before_or_equal'      => ' টি অবশ্যই :date এর সাথে মিল অথবা এর আগের একটি তারিখ হতে হবে।',
+    'between'              => [
+        'array'   => ':min এবং :max আইটেম  মধ্যে হতে হবে।',
+        'file'    => ':min এবং :max কিলোবাইট  মধ্যে হতে হবে।',
+        'numeric' => ':min এবং :max  মধ্যে হতে হবে।',
+        'string'  => ':min এবং :max অক্ষর  মধ্যে হতে হবে।',
+    ],
+    'boolean'              => ' স্থানে  সত্য বা মিথ্যা হতে হবে।',
+    'confirmed'            => ' নিশ্চিতকরণ এর  সাথে মিলছে না।',
+    'current_password'     => 'The password is incorrect.',
+    'date'                 => ' একটি বৈধ তারিখ নয়।',
+    'date_equals'          => 'দী  সমান তারিখ হতে হবে :date.',
+    'date_format'          => ', :format এর সাথে বিন্যাস মিলছে না।',
+    'different'            => ' এবং :other আলাদা হতে হবে।',
+    'digits'               => ' :digits অবশ্যই একটি সংখ্যার ডিজিট হতে হবে।',
+    'digits_between'       => ' অবশ্যই :min এবং :max ডিজিট এর মধ্যে হতে হবে।',
+    'dimensions'           => ' অবৈধ ইমেজ মাত্রা রয়েছে।',
+    'distinct'             => ' এর স্থানে একটি নকল মান আছে।',
+    'email'                => ' একটি বৈধ ইমেইল ঠিকানা হতে হবে।',
+    'ends_with'            => ' নিম্নলিখিত এক সঙ্গে শেষ করতে হবে: :values.',
+    'exists'               => 'নির্বাচিত  টি অবৈধ।',
+    'file'                 => ' একটি ফাইল হতে হবে।',
+    'filled'               => ' স্থানটি পূরণ করতে হবে।',
+    'gt'                   => [
+        'array'   => 'The  must have more than :value items.',
+        'file'    => 'The  must be greater than :value kilobytes.',
+        'numeric' => 'The  must be greater than :value.',
+        'string'  => 'The  must be greater than :value characters.',
+    ],
+    'gte'                  => [
+        'array'   => 'The  must have :value items or more.',
+        'file'    => 'The  must be greater than or equal :value kilobytes.',
+        'numeric' => 'The  must be greater than or equal :value.',
+        'string'  => 'The  must be greater than or equal :value characters.',
+    ],
+    'image'                => ' একটি ইমেজ হতে হবে।',
+    'in'                   => 'নির্বাচিত  টি অবৈধ।',
+    'in_array'             => ' উপাদানটি :other এ খুঁজে পাওয়া যায়নি।.',
+    'integer'              => ' একটি পূর্ণসংখ্যা হতে হবে।',
+    'ip'                   => ' একটি বৈধ  IP address হতে হবে।',
+    'ipv4'                 => ' টি একটি বৈধ IPv4 address হতে হবে।',
+    'ipv6'                 => ' টি একটি বৈধ IPv6 address হতে হবে।',
+    'json'                 => ' একটি বৈধ JSON স্ট্রিং হতে হবে।',
+    'lt'                   => [
+        'array'   => 'The  must have less than :value items.',
+        'file'    => 'The  must be less than :value kilobytes.',
+        'numeric' => 'The  must be less than :value.',
+        'string'  => 'The  must be less than :value characters.',
+    ],
+    'lte'                  => [
+        'array'   => 'The  must not have more than :value items.',
+        'file'    => 'The  must be less than or equal :value kilobytes.',
+        'numeric' => 'The  must be less than or equal :value.',
+        'string'  => 'The  must be less than or equal :value characters.',
+    ],
+    'max'                  => [
+        'array'   => ' এর মান :max টি উপাদানের চেয়ে বড় হতে পারেনা।',
+        'file'    => ' এর মান :max কিলোবাইট এর চেয়ে বড় হতে পারেনা।',
+        'numeric' => '  এর মান :max এর চেয়ে বড় হতে পারেনা।',
+        'string'  => ' এর মান :max অক্ষর এর চেয়ে বড় হতে পারেনা।',
+    ],
+    'mimes'                => ' এর একটি ফাইল হতে হবে: :values।',
+    'mimetypes'            => ' এর একটি ফাইল হতে হবে: :values।',
+    'min'                  => [
+        'array'   => ' অবশ্যই :min উপাদানের চেয়ে ছোট হতে হবে।',
+        'file'    => ' অবশ্যই :min কিলোবাইট এর চেয়ে ছোট হতে হবে।',
+        'numeric' => ' অবশ্যই :min এর চেয়ে ছোট হতে হবে।',
+        'string'  => ' অবশ্যই :min অক্ষর এর চেয়ে ছোট হতে হবে।',
+    ],
+    'multiple_of'          => 'দী  একটি একাধিক হতে হবে :value',
+    'not_in'               => 'নির্বাচিত  অবৈধ।',
+    'not_regex'            => ' বিন্যাস অবৈধ.',
+    'numeric'              => ' একটি সংখ্যা হতে হবে।',
+    'password'             => 'পাসওয়ার্ড ভুল.',
+    'present'              => ' ক্ষেত্র উপস্থিত থাকা আবশ্যক।',
+    'prohibited'           => 'দী  ক্ষেত্রের নিষিদ্ধ.',
+    'prohibited_if'        => 'এই  ক্ষেত্র নিষিদ্ধ করা হয়, যখন :other হয় :value.',
+    'prohibited_unless'    => 'এই  ক্ষেত্র নিষিদ্ধ করা হয়, যদি না, :other হয় :values.',
+    'prohibits'            => 'The  field prohibits :other from being present.',
+    'regex'                => ' বিন্যাস অবৈধ।',
+    'relatable'            => 'এই  এই সম্পদ সঙ্গে যুক্ত হতে পারে না.',
+    'required'             => ' স্থানটি পূরণ করা বাধ্যতামূলক।',
+    'required_if'          => ' স্থানটি পূরণ করা বাধ্যতামূলক যেখানে :other হল :value।',
+    'required_unless'      => ' স্থানটি পূরণ করা বাধ্যতামূলক যদি না :other, :values তে উপস্থিত থাকে।',
+    'required_with'        => ' স্থানটি পূরণ করা বাধ্যতামূলক যখন  :values উপস্থিত।',
+    'required_with_all'    => ' স্থানটি পূরণ করা বাধ্যতামূলক যখন :values উপস্থিত।',
+    'required_without'     => ' স্থানটি পূরণ করা বাধ্যতামূলক যখন :values অনুপস্থিত।',
+    'required_without_all' => ' স্থানটি পূরণ করা বাধ্যতামূলক যখন সকল :values অনুপস্থিত।',
+    'same'                 => ' এবং :other অবশ্যই মিলতে হবে।',
+    'size'                 => [
+        'array'   => ' অবশ্যই :size আইটেম হতে হবে।',
+        'file'    => ' অবশ্যই :size কিলোবাইট হতে হবে।',
+        'numeric' => ' অবশ্যই :size হতে হবে।',
+        'string'  => ' অবশ্যই :size অক্ষর হতে হবে।',
+    ],
+    'starts_with'          => 'দী  নিম্নলিখিত এক সঙ্গে শুরু হবে: :values.',
+    'string'               => ' একটি স্ট্রিং হতে হবে।',
+    'timezone'             => ' একটি বৈধ সময় অঞ্চল হতে হবে।',
+    'unique'               => ' ইতিমধ্যেই নেওয়া হয়েছে।',
+    'uploaded'             => ' আপলোড করতে ব্যর্থ হয়েছে।',
+    'url'                  => ' বিন্যাস অবৈধ।',
+    'uuid'                 => 'দী  একটি বৈধ ইউইউআইডি হতে হবে.',
+    'custom'               => [
+        'attribute-name' => [
+            'rule-name' => 'custom-message',
+        ],
+    ],
+];
