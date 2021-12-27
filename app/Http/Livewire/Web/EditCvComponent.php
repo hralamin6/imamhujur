@@ -12,12 +12,15 @@ use Carbon\Carbon;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Validation\Rule;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithFileUploads;
 use function PHPUnit\Framework\isFalse;
 
 class EditCvComponent extends Component
 {
+    use LivewireAlert;
+
     use WithFileUploads;
     public $districts=false, $upazilas=false, $unions=false;
     public $isProfession=false, $isQaumia=false, $isGeneral=false, $isJsc = false, $isSsc = false, $isHsc = false, $isImam=false, $isTeacher = false;
@@ -40,6 +43,7 @@ class EditCvComponent extends Component
         1=>[
             'name'=> 'required|min:4|max:66',
             'phone'=> 'required|digits:11',
+            'sex'=> 'required',
             'additional_phone'=> 'required|digits:11',
             'email'=> 'required|email',
             'marital_status'=> 'nullable',

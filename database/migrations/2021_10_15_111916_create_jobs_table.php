@@ -29,17 +29,12 @@ class CreateJobsTable extends Migration
             $table->bigInteger('district_id')->nullable();
             $table->bigInteger('upazila_id')->nullable();
             $table->bigInteger('union_id')->nullable();
-            $table->boolean('profession')->nullable();
-            $table->text('reason_of_leaving')->nullable();
             $table->boolean('hafiz')->nullable();
             $table->string('education_medium')->nullable();
             $table->boolean('daorah')->nullable();
             $table->boolean('jsc')->nullable();
-            $table->string('jsc_gpa')->nullable();
             $table->boolean('ssc')->nullable();
-            $table->string('ssc_gpa')->nullable();
             $table->boolean('hsc')->nullable();
-            $table->string('hsc_gpa')->nullable();
             $table->text('max_education')->nullable();
             $table->text('experience')->nullable();
             $table->text('majhab')->nullable();
@@ -62,7 +57,8 @@ class CreateJobsTable extends Migration
             $table->text('about')->nullable();
             $table->boolean('commitment')->nullable();
             $table->string('request_status')->nullable()->default('pending');
-            $table->string('status')->nullable()->default('active');
+            $table->string('status')->nullable()->default('inactive');
+
             $table->timestamps();
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
         });

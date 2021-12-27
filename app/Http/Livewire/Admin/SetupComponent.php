@@ -3,11 +3,13 @@
 namespace App\Http\Livewire\Admin;
 
 use App\Models\Setup;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithFileUploads;
 
 class SetupComponent extends Component
 {
+    use LivewireAlert;
     use WithFileUploads;
 
     public $logo, $cover, $imam, $teacher, $mosque, $madrasa, $locked, $login, $register, $setup;

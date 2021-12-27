@@ -3,11 +3,13 @@
 namespace App\Http\Livewire;
 
 use App\Models\Page;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithPagination;
 
 class AdminPageComponent extends Component
 {
+    use LivewireAlert;
 
     use WithPagination;
     public $deleteId=null, $pageId, $state = [], $product, $editmode, $orderBy='id', $serialize='desc', $paginate=10, $search='', $selectall = false, $selections = [];

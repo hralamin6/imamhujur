@@ -22,11 +22,9 @@ class CreateNewUser implements CreatesNewUsers
      */
     public function create(array $input)
     {
-//        dd($input['name']);
         Validator::make($input, [
             'name' => ['required', 'string', 'max:255'],
-             'type' => ['required'],
-            'sex' => ['required'],
+            'type' => ['required'],
             'email' => ['required', 'string', 'email', 'max:255', 'unique:users'],
             'password' => $this->passwordRules(),
             'terms' => Jetstream::hasTermsAndPrivacyPolicyFeature() ? ['required', 'accepted'] : '',
@@ -42,7 +40,6 @@ class CreateNewUser implements CreatesNewUsers
         if($input['type']=='imam' | $input['type']=='teacher'){
              Cv::create([
                 'user_id'=> $user->id,
-                'sex'=> $input['sex'],
                 'slug'=> uniqid('cv-'),
                 'email'=> $input['email'],
                 'name'=> $input['name'],
@@ -51,7 +48,6 @@ class CreateNewUser implements CreatesNewUsers
         }elseif($input['type']=='mosque' | $input['type']=='madrasa'){
              Job::create([
                  'user_id'=> $user->id,
-                 'sex'=> $input['sex'],
                  'slug'=> uniqid('job-'),
                  'email'=> $input['email'],
                  'name'=> $input['name'],

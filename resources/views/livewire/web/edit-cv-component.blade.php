@@ -1,6 +1,5 @@
 @section('subtitle', __("Edit CV"))
-<div>
-    <h2>asdfadfh</h2>
+<div xmlns:wire="http://www.w3.org/1999/xhtml">
     <div class="m-2 px-4 py-3 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 ">
         <div class="flex gap-3 flex-wrap justify-center">
 
@@ -56,7 +55,10 @@
             </label>
             <label class="block mt-3">
                 <span class="text-gray-700 dark:text-gray-400">{{__('Your gender')}}</span>
-                <input value="{{$type==='male'?__('Male'):__('Female')}}" type="text" readonly  class="form-control-tw @error('sex') is-invalid @enderror form-input" placeholder="{{__('')}}">
+                <select wire:model.lazy="sex" class="form-control-tw @error('sex') is-invalid @enderror form-input" name="sex" id="">
+                    <option value="male">{{__("Male")}}</option>
+                    <option value="female">{{__("Female")}}</option>
+                </select>
                 @error('sex')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
@@ -79,13 +81,15 @@
                 <input type="tel" name="phone" wire:model.lazy="additional_phone" class="form-control-tw @error('additional_phone') is-invalid @enderror form-input" placeholder="{{__('Enter your additional phone')}}">
                 @error('additional_phone')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
-            <div class="flex mt-3">
-                <label for="remember_me" class="flex items-center dark:text-gray-400">
-                    <input id="marital_status" name="remember" wire:model.lazy="marital_status" type="checkbox" class="text-purple-600 form-checkbox bg-gray-300 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray"/>
-                    <span for="marital_status" class="ml-2">{{__("Are you married?")}}</span>
-                    @error('marital_status')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
-                </label>
-            </div>
+            <label class="block mt-3">
+                <span class="text-gray-700 dark:text-gray-400">{{__('Are you married?')}}</span>
+                <select wire:model.lazy="marital_status" class="form-control-tw @error('marital_status') is-invalid @enderror form-input" name="marital_status" id="">
+                    <option value="0">{{__("Unmarried")}}</option>
+                    <option value="1">{{__("Married")}}</option>
+                </select>
+                @error('marital_status')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
+            </label>
+
             <label class="block mt-3">
                 <span class="text-gray-700 dark:text-gray-400">{{__('Enter your date of birth')}}</span>
                 <input type="date" name="dob" wire:model.lazy="dob" class="form-control-tw @error('dob') is-invalid @enderror form-input" placeholder="{{__('Enter your date of birth')}}">
@@ -218,8 +222,11 @@
                 @endif
             @endif
             <label class="block mt-3">
-                <input id="hafiz" type="checkbox" wire:model.lazy="hafiz" class="text-purple-600 form-checkbox bg-gray-300 focus:border-purple-400 focus:outline-none focus:shadow-outline-purple dark:focus:shadow-outline-gray">
-                <label for="hafiz" class="label15 text-dark">{{__("Are you hafiz?")}}</label>
+                <span class="text-gray-700 dark:text-gray-400">{{__("Are you hafiz?")}}</span>
+                <select wire:model.lazy="hafiz" class="form-control-tw @error('hafiz') is-invalid @enderror form-input" name="hafiz" id="">
+                    <option value="0">{{__("No")}}</option>
+                    <option value="1">{{__("Yes")}}</option>
+                </select>
                 @error('hafiz')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
@@ -235,33 +242,33 @@
         @endif
         @if ($currentPage===5)
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("Which Majhad do you follow? In details")}}</span>
-                <input type="text" wire:model.lazy="majhab" class="form-control-tw @error('majhab') is-invalid @enderror form-input" placeholder="{{__("Which Majhad do you follow? In details")}}">
+                <span class="text-gray-700 dark:text-gray-400">{{__("Which Majhad do you follow?")}}</span>
+                <input type="text" wire:model.lazy="majhab" class="form-control-tw @error('majhab') is-invalid @enderror form-input" placeholder="{{__("Which Majhad do you follow?")}}">
                 @error('majhab')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("Which political group do you follow? In details")}}</span>
-                <input type="text" wire:model.lazy="politics" class="form-control-tw @error('politics') is-invalid @enderror form-input" placeholder="{{__("Which political group do you follow? In details")}}">
+                <span class="text-gray-700 dark:text-gray-400">{{__("Which political group do you follow?")}}</span>
+                <input type="text" wire:model.lazy="politics" class="form-control-tw @error('politics') is-invalid @enderror form-input" placeholder="{{__("Which political group do you follow?")}}">
                 @error('politics')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Pir-Muridi? In details")}}</span>
-                <input type="text" wire:model.lazy="pir_muridi" class="form-control-tw @error('pir_muridi') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Pir-Muridi? In details")}}">
+                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Pir-Muridi?")}}</span>
+                <input type="text" wire:model.lazy="pir_muridi" class="form-control-tw @error('pir_muridi') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Pir-Muridi?")}}">
                 @error('pir_muridi')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about pir Milad? In details")}}</span>
-                <input type="text" wire:model.lazy="milad" class="form-control-tw @error('milad') is-invalid @enderror form-input" placeholder="{{__("What's your concept about pir Milad? In details")}}">
+                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Milad?")}}</span>
+                <input type="text" wire:model.lazy="milad" class="form-control-tw @error('milad') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Milad?")}}">
                 @error('milad')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Majar? In details")}}</span>
-                <input type="text" wire:model.lazy="majar" class="form-control-tw @error('majar') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Majar? In details")}}">
+                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Majar?")}}</span>
+                <input type="text" wire:model.lazy="majar" class="form-control-tw @error('majar') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Majar?")}}">
                 @error('majar')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Tabiz? In details")}}</span>
-                <input type="text" wire:model.lazy="tabiz" class="form-control-tw @error('tabiz') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Tabiz? In details")}}">
+                <span class="text-gray-700 dark:text-gray-400">{{__("What's your concept about Tabiz?")}}</span>
+                <input type="text" wire:model.lazy="tabiz" class="form-control-tw @error('tabiz') is-invalid @enderror form-input" placeholder="{{__("What's your concept about Tabiz?")}}">
                 @error('tabiz')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
         @endif
@@ -429,7 +436,7 @@
             </label>
         @endif
         @if($currentPage===9)
-            <div class="text-lg font-semibold px-6 mx-auto text-center"><span>{{__('Please be careful, You will not be able to edit your cv after submitting')}}</span></div>
+            <div class="text-lg font-semibold px-6 mx-auto text-center"><span>{{__('Please be careful! You will not be able to edit it again after submitting.')}}</span></div>
         @endif
     </div>
     <div class="flex justify-between mx-6 mb-3">

@@ -62,7 +62,7 @@ class CreateCvsTable extends Migration
             $table->text('about')->nullable();
             $table->boolean('commitment')->nullable();
             $table->string('request_status')->nullable()->default('pending');
-            $table->string('status')->nullable()->default('active');
+            $table->string('status')->nullable()->default('inactive');
             $table->timestamps();
             $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
         });

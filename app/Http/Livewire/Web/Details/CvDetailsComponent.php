@@ -3,6 +3,7 @@
 namespace App\Http\Livewire\Web\Details;
 
 use App\Models\Cv;
+use App\Models\Setup;
 use Illuminate\Support\Facades\Auth;
 use Livewire\Component;
 
@@ -41,6 +42,7 @@ class CvDetailsComponent extends Component
         }else{
             $cv = Cv::whereIdAndStatus($this->cvId, 'active')->firstOrFail();
         }
-        return view('livewire.web.details.cv-details-component', compact('cv'));
+        $setup = Setup::first();
+        return view('livewire.web.details.cv-details-component', compact('cv', 'setup'));
     }
 }

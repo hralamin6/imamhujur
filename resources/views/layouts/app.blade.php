@@ -20,83 +20,8 @@
     {{--    ></script>--}}
     <script src="{{asset('assets/js/init-alpine.js')}}"></script>
     @laravelPWA
-    <style>
-        .turbolinks-progress-bar {
-            /*height: 50px;*/
-            /*background-color: green;*/
-
-            all: revert;
-            position: fixed;
-            width: 100%;
-            height: 100vh;
-            z-index: 999999;
-        }
-        body {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            background: #000;
-        }
-        .middle {
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            position: absolute;
-        }
-        .bar {
-            width: 10px;
-            height: 70px;
-            background: #fff;
-            display: inline-block;
-            transform-origin: bottom center;
-            border-top-right-radius: 20px;
-            border-top-left-radius: 20px;
-            /*   box-shadow:5px 10px 20px inset rgba(255,23,25.2); */
-            animation: loader 1.2s linear infinite;
-        }
-        .bar1 {
-            animation-delay: 0.1s;
-        }
-        .bar2 {
-            animation-delay: 0.2s;
-        }
-        .bar3 {
-            animation-delay: 0.3s;
-        }
-        .bar4 {
-            animation-delay: 0.4s;
-        }
-        .bar5 {
-            animation-delay: 0.5s;
-        }
-        .bar6 {
-            animation-delay: 0.6s;
-        }
-        .bar7 {
-            animation-delay: 0.7s;
-        }
-        .bar8 {
-            animation-delay: 0.8s;
-        }
-
-        @keyframes loader {
-            0% {
-                transform: scaleY(0.1);
-                background: ;
-            }
-            50% {
-                transform: scaleY(1);
-                background: yellowgreen;
-            }
-            100% {
-                transform: scaleY(0.1);
-                background: transparent;
-            }
-        }
-
-    </style>
 </head>
-<body>
+<body class="font-serif">
 <div
     class="flex h-screen bg-gray-50 dark:bg-gray-900"
     :class="{ 'overflow-hidden': isSideMenuOpen }"
@@ -162,9 +87,7 @@
 </script>
 @stack('js')
 
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
-<x-livewire-alert::scripts />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.8/push.min.js"></script>
+{{--<script src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.8/push.min.js"></script>--}}
 <script>
     window.addEventListener('push', event => {
         Push.create("Hello world!", {
@@ -196,6 +119,9 @@
 
 {{--<script src="https://unpkg.com/@github/include-fragment-element "></script>--}}
 @livewireScripts
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+<x-livewire-alert::scripts />
+
 <script src="https://cdn.jsdelivr.net/gh/livewire/turbolinks@v0.1.x/dist/livewire-turbolinks.js" data-turbolinks-eval="false"></script>
 </body>
 </html>

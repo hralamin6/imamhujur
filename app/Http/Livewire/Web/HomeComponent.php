@@ -7,10 +7,13 @@ use App\Models\Job;
 use App\Models\Setup;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Cache;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 
 class HomeComponent extends Component
 {
+    use LivewireAlert;
+
     public $init=false;
 
     public function init()

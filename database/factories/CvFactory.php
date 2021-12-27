@@ -84,6 +84,7 @@ class CvFactory extends Factory
             'nurani' => $type==="teacher"?$this->faker->sentence(11):null,
             'about' => $this->faker->sentence(22),
             'commitment' => $this->faker->boolean(),
+            'status' => 'active',
             'request_status' => $this->faker->randomElement(['pending', 'requested']),
         ];
     }

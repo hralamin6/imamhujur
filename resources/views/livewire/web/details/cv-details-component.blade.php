@@ -293,48 +293,6 @@
                     </tbody>
                 </table>
             </div>
-            @auth()
-                @if(auth()->user()->type!=='admin')
-                    @if(auth()->user()->cv->id!=$cv->id)
-                        @if(auth()->user()->quantity>0)
-                            @if($cv->unlockedUsers()->where('user_id', Auth::id())->count()==0)
-                                <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
-                                    <div class="flex justify-center">
-                                        <button wire:click.prevent="unlockCv({{$cv->id}})" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
-                                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
-                                            </svg>
-                                            {{__('Unlock')}}
-                                        </button>
-                                    </div>
-                                </div>
-                            @endif
-                        @else
-                            <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
-                                <div class="flex justify-center">
-                                    <a href="{{route('contact.request')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
-                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
-                                        </svg>
-                                        {{__('Unlock')}}
-                                    </a>
-                                </div>
-                            </div>
-                        @endif
-                    @endif
-                @endif
-            @else
-                <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
-                    <div class="flex justify-center">
-                        <a href="{{route('login')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
-                            </svg>
-                            {{__('Unlock')}}
-                        </a>
-                    </div>
-                </div>
-            @endauth
 
         </div>
 
@@ -343,7 +301,7 @@
 
             <div class="bg-indigo-700 shadow-md rounded-md mb-2">
                 <div class="text-center">
-                    <h1 class="text-white font-bold mb-2">{{__('Your own image')}}</h1>
+                    <h1 class="text-white font-bold mb-2">{{__('Own image')}}</h1>
                 </div>
                 @auth()
                     @if(auth()->user()->type==='admin' || auth()->user()->unlockedCvs()->where('cv_id', $cv->id)->count()>0 ||auth()->user()->cv->id==$cv->id)
@@ -353,9 +311,12 @@
                             </div>
                         @endif
                     @else
-                        <div class="flex justify-center">
-                            <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="object-cover content-center">
-                        </div>
+                        @if($setup->getFirstMediaUrl('locked')!=null)
+                            <div class="flex justify-center">
+                                <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                            </div>
+                        @endif
+
                     @endif
                 @else
                     <div class="flex justify-center">
@@ -375,9 +336,11 @@
                             </div>
                         @endif
                     @else
-                        <div class="flex justify-center">
-                            <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="object-cover content-center">
-                        </div>
+                        @if($setup->getFirstMediaUrl('locked')!=null)
+                            <div class="flex justify-center">
+                                <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                            </div>
+                        @endif
                     @endif
                 @else
                     <div class="flex justify-center">
@@ -398,9 +361,11 @@
                             </div>
                         @endif
                     @else
-                        <div class="flex justify-center">
-                            <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="object-cover content-center">
-                        </div>
+                        @if($setup->getFirstMediaUrl('locked')!=null)
+                            <div class="flex justify-center">
+                                <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                            </div>
+                        @endif
                     @endif
                 @else
                     <div class="flex justify-center">
@@ -444,4 +409,50 @@
         </div>
 
     </div>
+    @auth()
+        <div class="mx-auto w-72">
+
+        @if(auth()->user()->type!=='admin')
+            @if(auth()->user()->cv->id!=$cv->id)
+                @if(auth()->user()->quantity>0)
+                    @if($cv->unlockedUsers()->where('user_id', Auth::id())->count()==0)
+                        <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+                            <div class="flex justify-center">
+                                <button wire:click.prevent="unlockCv({{$cv->id}})" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
+                                    </svg>
+                                    {{__('Unlock')}}
+                                </button>
+                            </div>
+                        </div>
+                    @endif
+                @else
+                    <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+                        <div class="flex justify-center">
+                            <a href="{{route('contact.request')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
+                                </svg>
+                                {{__('Unlock')}}
+                            </a>
+                        </div>
+                    </div>
+                @endif
+            @endif
+        @endif
+    @else
+            <div class="dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+                <div class="flex justify-center">
+                    <a href="{{route('login')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
+                        </svg>
+                        {{__('Unlock')}}
+                    </a>
+                </div>
+            </div>
+        </div>
+    @endauth
+
 </main>

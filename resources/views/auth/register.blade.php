@@ -16,29 +16,21 @@
                         <h1 class="mb-4 text-xl font-semibold text-gray-700 dark:text-gray-200 text-center">{{__('Register')}}</h1>
                         <label class="block mt-4 text-sm">
                             <span class="text-gray-700 dark:text-gray-400">{{__('Enter your name')}}</span>
-                            <input class="form-control-tw @error('name') is-invalid @enderror form-input" placeholder="{{__('Enter your name')}}" name="name" value="{{old('name')}}" required/>
+                            <input type="text" class="form-control-tw @error('name') is-invalid @enderror form-input" placeholder="{{__('Enter your name')}}" name="name" value="{{old('name')}}" required/>
                             @error('name')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                         </label>
                         <label class="block mt-4 text-sm">
                             <span class="text-gray-700 dark:text-gray-400">{{__('Enter your email')}}</span>
-                            <input class="form-control-tw @error('email') is-invalid @enderror form-input" placeholder="{{__('Enter your email')}}" name="email" value="{{old('email')}}" required/>
+                            <input type="email" class="form-control-tw @error('email') is-invalid @enderror form-input" placeholder="{{__('Enter your email')}}" name="email" value="{{old('email')}}" required/>
                             @error('email')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
-                        </label>
-                        <label class="block mt-4 text-sm">
-                            <span class="text-gray-700 dark:text-gray-400">{{__('Your gender')}}</span>
-                            <select class="form-control-tw @error('sex') is-invalid @enderror form-input" name="sex" id="">
-                                <option value="male">{{__("Male")}}</option>
-                                <option value="female">{{__("Female")}}</option>
-                            </select>
-                            @error('sex')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                         </label>
                         <label class="block mt-4 text-sm">
                             <span class="text-gray-700 dark:text-gray-400">{{__("What are you finding?")}}</span>
                             <select class="form-control-tw @error('type') is-invalid @enderror form-input" name="type" id="">
-                                <option value="imam">{{__('Imam')}}</option>
-                                <option value="teacher">{{__('Teacher')}}</option>
-                                <option value="mosque">{{__('Mosque')}}</option>
-                                <option value="madrasa">{{__('Madrasa')}}</option>
+                                <option value="imam">{{__('Mosque')}}</option>
+                                <option value="teacher">{{__('Madrasa')}}</option>
+                                <option value="mosque">{{__('Imam')}}</option>
+                                <option value="madrasa">{{__('Teacher')}}</option>
                             </select>
                             @error('type')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                         </label>

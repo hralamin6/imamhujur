@@ -6,10 +6,13 @@ use App\Events\MessageSentEvent;
 use App\Events\TypingEvent;
 use App\Models\Message;
 use Illuminate\Support\Facades\Auth;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 
 class ChatRoom extends Component
 {
+    use LivewireAlert;
+
     public $messages, $body=null;
     public $here = [];
     protected $listeners = [

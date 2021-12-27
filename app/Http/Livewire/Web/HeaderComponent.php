@@ -3,10 +3,12 @@
 namespace App\Http\Livewire\Web;
 
 use Illuminate\Support\Facades\App;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 
 class HeaderComponent extends Component
-{
+{    use LivewireAlert;
+
     public $lang = 'en';
 
     public function ChangeLang()

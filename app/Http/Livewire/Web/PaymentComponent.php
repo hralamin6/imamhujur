@@ -4,10 +4,13 @@ namespace App\Http\Livewire\Web;
 
 use App\Models\Payment;
 use Illuminate\Support\Facades\Auth;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 
 class PaymentComponent extends Component
 {
+    use LivewireAlert;
+
     public $phone, $trx_id, $amount, $quantity=1, $data=100;
 
     public function nagadPayment()

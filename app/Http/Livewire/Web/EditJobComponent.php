@@ -11,32 +11,35 @@ use App\Models\User;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithFileUploads;
 
 class EditJobComponent extends Component
 {
+    use LivewireAlert;
+
     use WithFileUploads;
     public $districts=false, $upazilas=false, $unions=false;
-    public $isProfession=false, $isQaumia=false, $isGeneral=false, $isJsc = false, $isSsc = false, $isHsc = false, $isImam=false, $isTeacher = false;
+    public $isQaumia=false, $isGeneral=false, $isJsc = false, $isSsc = false, $isHsc = false, $isImam=false, $isTeacher = false;
     protected $listeners = ['confirmed' => 'editJob'];
 
     public $currentPage = 1;
     public $pages = [
         1=>['heading'=>'first page heading'  ],
         2=>['heading'=>'second page heading'  ],
-        3=>['heading'=>'Third page heading'  ],
-        4=>['heading'=>'Fourth page heading'  ],
-        5=>['heading'=>'Fiveth page heading'  ],
-        6=>['heading'=>'six page heading'  ],
-        7=>['heading'=>'s page heading'  ],
-        8=>['heading'=>'e page heading'  ],
-        9=>['heading'=>'9 page heading'  ],
+        3=>['heading'=>'Fourth page heading'  ],
+        4=>['heading'=>'Fiveth page heading'  ],
+        5=>['heading'=>'six page heading'  ],
+        6=>['heading'=>'s page heading'  ],
+        7=>['heading'=>'e page heading'  ],
+        8=>['heading'=>'9 page heading'  ],
     ];
-    public $test = false, $experience, $type, $sex, $dob, $kitab, $nurani, $hafizi,  $image=null,$hand_writing=null,$certificate=null,$recitation=null, $about, $commitment, $job, $name, $phone, $additional_phone, $email, $division_id, $district_id, $upazila_id, $union_id, $profession, $reason_of_leaving, $hafiz, $education_medium, $daorah, $jsc, $jsc_gpa, $ssc, $ssc_gpa, $hsc, $hsc_gpa, $max_education, $majhab, $politics, $pir_muridi, $majar, $tabiz, $milad, $marital_status, $location_of_job, $monthly_hadia, $monthly_leave, $taking_meal, $staying_place, $maktob, $khatib, $muajjin;
+    public $test = false, $experience,  $type, $sex, $dob, $kitab, $nurani, $hafizi,  $image=null,$hand_writing=null,$certificate=null,$recitation=null, $about, $commitment, $job, $name, $phone, $additional_phone, $email, $division_id, $district_id, $upazila_id, $union_id, $hafiz, $education_medium, $daorah, $jsc, $ssc, $hsc, $max_education, $majhab, $politics, $pir_muridi, $majar, $tabiz, $milad, $marital_status, $location_of_job, $monthly_hadia, $monthly_leave, $taking_meal, $staying_place, $maktob, $khatib, $muajjin;
     private $validationRules = [
         1=>[
             'name'=> 'required|min:4|max:66',
+            'sex'=> 'required',
             'phone'=> 'required|digits:11',
             'additional_phone'=> 'required|digits:11',
             'email'=> 'required|email',
@@ -50,23 +53,16 @@ class EditJobComponent extends Component
             'union_id'=> 'required',
         ],
         3=>[
-            'profession'=> 'nullable',
-            'reason_of_leaving'=> 'required_if:profession,true',
-        ],
-        4=>[
             'education_medium'=> 'required',
             'daorah'=> 'nullable',
             'jsc'=> 'nullable',
-            'jsc_gpa'=> 'required_if:jsc,true',
             'ssc'=> 'nullable',
-            'ssc_gpa'=> 'required_if:ssc,true',
             'hsc'=> 'nullable',
-            'hsc_gpa'=> 'required_if:hsc,true',
             'max_education'=> 'required',
             'hafiz'=> 'nullable',
             'experience'=> 'required',
         ],
-        5=>[
+        4=>[
             'majhab'=> 'required',
             'politics'=> 'required',
             'pir_muridi'=> 'required',
@@ -74,7 +70,7 @@ class EditJobComponent extends Component
             'tabiz'=> 'required',
             'milad'=> 'required',
         ],
-        6=>[
+        5=>[
             'location_of_job'=> 'required',
             'monthly_hadia'=> 'numeric',
             'monthly_leave'=> 'numeric',
@@ -93,24 +89,23 @@ class EditJobComponent extends Component
             'hand_writing'=>  'nullable|image',
             'certificate'=>  'nullable|image',
         ],
-        8=>[
-            'about'=> 'required',
-            'commitment'=> 'required',
+        7=>[
+            'commitment'=> 'accepted',
+            'about'=> 'nullable',
         ],
-        9=>[
+        8=>[
             'about'=> 'nullable',
         ]
     ];
     public function updated($property){
-        if ($this->currentPage === 7){
+        if ($this->currentPage === 6){
             $this->validateOnly($property, $this->validationRules[0]);
         }else{
             $this->validateOnly($property, $this->validationRules[$this->currentPage]);
         }
     }
     public function nextPage(){
-//        dd($this->profession);
-        if ($this->currentPage === 7){
+        if ($this->currentPage === 6){
             $data = $this->validate($this->validationRules[0]);
             $this->validate($this->validationRules[0]);
             if (($this->image)) {
@@ -176,32 +171,26 @@ class EditJobComponent extends Component
         $this->unions = null;
         $this->unions = Union::where('upazila_id', $id)->get();
     }
-    public function updatedProfession($id){
-        $this->isProfession = false;
-        $id==true?$this->isProfession = true:$this->reset('reason_of_leaving');
-    }
+
     public function updatedEducationMedium($id){
         $this->isQaumia = false;
         $this->isGeneral = false;
         if ($id=='qaumia'){
-            $this->reset("jsc", "jsc_gpa", "ssc", "ssc_gpa", "hsc", "hsc_gpa");
+            $this->reset("jsc", "ssc", "hsc");
             $this->isQaumia = true;
         }
         $this->reset("daorah");
         if ($id=='general'){$this->isGeneral = true;}
     }
     public function updatedJsc($id){
-        $this->jsc_gpa = null;
         $this->isJsc = false;
         if ($id==true){$this->isJsc = true;}
     }
     public function updatedSsc($id){
-        $this->ssc_gpa = null;
         $this->isSsc = false;
         if ($id==true){$this->isSsc = true;}
     }
     public function updatedHsc($id){
-        $this->hsc_gpa = null;
         $this->isHsc = false;
         if ($id==true){$this->isHsc = true;}
     }
@@ -230,24 +219,17 @@ class EditJobComponent extends Component
         $this->division_id != null? $this->districts = District::where('division_id', $this->division_id)->get():'';
         $this->district_id != null? $this->upazilas = Upazila::where('district_id', $this->district_id)->get():'';
         $this->upazila_id != null? $this->unions = Union::where('upazila_id', $this->upazila_id)->get():'';
-        $this->profession = $job->profession?true:false;
-        $this->profession===true?$this->isProfession = true:'';
-        $this->reason_of_leaving = $job->reason_of_leaving;
 
         $this->education_medium = $job->education_medium;
         if($this->education_medium=='general'){$this->isGeneral = true;
         }elseif($this->education_medium=='qaumia'){$this->isQaumia = true;}
-        $this->reason_of_leaving = $job->reason_of_leaving;
         $this->daorah = $job->daorah;
         $this->jsc = $job->jsc;
         $this->jsc ==true?$this->isJsc = true:'';
-        $this->jsc_gpa = $job->jsc_gpa;
         $this->ssc = $job->ssc;
         $this->ssc ==true?$this->isSsc = true:'';
-        $this->ssc_gpa = $job->ssc_gpa;
         $this->hsc = $job->hsc;
         $this->hsc ==true?$this->isHsc = true:'';
-        $this->hsc_gpa = $job->hsc_gpa;
         $this->max_education = $job->max_education;
         $this->experience = $job->experience;
         $this->hafiz = $job->hafiz;
@@ -272,7 +254,7 @@ class EditJobComponent extends Component
     public function editJob()
     {
 //        $data = $this->validate(collect($this->validationRules)->collapse()->toArray());
-        if ($this->currentPage === 7){
+        if ($this->currentPage === 6){
             $this->validate($this->validationRules[0]);
         }else{
             $this->validate($this->validationRules[$this->currentPage]);
