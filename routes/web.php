@@ -58,3 +58,5 @@ Route::get('/page/{pageName?}',\App\Http\Livewire\PageComponent::class)->name('p
 //    $sitemap->writeToFile(public_path('sitemap.xml'));
 //});
 
+
+\PWA::routes();

@@ -1,4 +1,4 @@
-<div wire:init="init">
+<div>
     <div class="container px-6 mx-auto grid mt-4">
         <div class="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4">
 
@@ -45,16 +45,16 @@
 
         </div>
     </div>
-    @if($init==false)
-        <div class="w-full h-full fixed block top-0 left-0 bg-white opacity-75 z-50">
-  <span class="text-green-500 opacity-75 top-1/2 my-0 mx-auto block relative w-0 h-0" style=" top: 50%;">
-        <div class="flex justify-center items-center">
-            <div
-                class="animate-spin rounded-full h-32 w-32 border-b-2 border-gray-900"
-            ></div>
-        </div>
-  </span>
-        </div>
+{{--    @if($init==false)--}}
+{{--        <div class="w-full h-full fixed block top-0 left-0 bg-white opacity-75 z-50">--}}
+{{--  <span class="text-green-500 opacity-75 top-1/2 my-0 mx-auto block relative w-0 h-0" style=" top: 50%;">--}}
+{{--        <div class="flex justify-center items-center">--}}
+{{--            <div--}}
+{{--                class="animate-spin rounded-full h-32 w-32 border-b-2 border-gray-900"--}}
+{{--            ></div>--}}
+{{--        </div>--}}
+{{--  </span>--}}
+{{--        </div>--}}
         {{--        <div class="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-300 to-blue-400">--}}
 
         {{--            <!-- card -->--}}
@@ -86,7 +86,7 @@
         {{--            </div>--}}
 
         {{--        </div>  --}}
-    @else
+{{--    @else--}}
         <div class="bordered border-t border-purple-600">
             <div class="flex justify-between flex-1 px-2 pt-2 mx-6 text-white rounded-lg">
                 <div class="bg-green-500 px-2 py-1 rounded-lg">Latest 3 Imam</div>
@@ -273,7 +273,7 @@
                             </div>
                         </div>
                         <div class="flex items-center justify-center m-2">
-                            <a href="{{route('show.cv', $mosque->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                            <a href="{{route('show.job', $mosque->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                                 {{__("View Details")}}
                             </a>
                         </div>
@@ -338,7 +338,7 @@
                             </div>
                         </div>
                         <div class="flex items-center justify-center m-2">
-                            <a href="{{route('show.cv', $madrasa->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                            <a href="{{route('show.job', $madrasa->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                                 {{__("View Details")}}
                             </a>
                         </div>
@@ -348,7 +348,7 @@
                 @endforelse
             </div>
         </div>
-    @endif
+{{--    @endif--}}
 </div>
 
 

@@ -3,11 +3,14 @@
 namespace App\Http\Livewire\Blog;
 
 use App\Models\Blog;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithPagination;
 
 class BlogComponent extends Component
 {
+    use LivewireAlert;
+
     use WithPagination;
     protected $paginationTheme = 'bootstrap';
     public function render()

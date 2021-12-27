@@ -94,7 +94,7 @@
                                         <progress max="100" x-bind:value="progress"></progress>
                                     </div>
                                     @if($logo)
-                                        {{--                                        <img style="height: 66px; width: 66px;" src="{{ $logo->temporaryUrl() }}">--}}
+                                                                                <img style="height: 66px; width: 66px;" src="{{ $logo->temporaryUrl() }}">
                                     @elseif($setup->getFirstMediaUrl('logo')!=null)
                                         <img style="height: 66px; width: 66px;" src="{{$setup->getFirstMediaUrl('logo')}}" alt="">
                                     @endif

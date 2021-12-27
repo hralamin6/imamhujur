@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bf3a98a45e99bd6c6792cf42d8f93386",
+    "content-hash": "55c631a9872ad03623fe8d11d32da522",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -233,6 +233,84 @@
                 }
             ],
             "time": "2021-08-15T20:50:18+00:00"
+        },
+        {
+            "name": "codexshaper/laravel-pwa",
+            "version": "v1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Codexshaper/laravel-pwa.git",
+                "reference": "1931834ac41db320c906cbd6e7184781229c1486"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Codexshaper/laravel-pwa/zipball/1931834ac41db320c906cbd6e7184781229c1486",
+                "reference": "1931834ac41db320c906cbd6e7184781229c1486",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^5.6|^6.0|^7.0|^8.0",
+                "php": "^7.0|^7.1|^7.2|^7.3|^7.4|^8.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^4.0",
+                "phpunit/phpunit": "^7.0|^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "CodexShaper\\PWA\\PwaServiceProvider"
+                    ],
+                    "aliases": {
+                        "PWA": "CodexShaper\\PWA\\Facades\\PWA"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "CodexShaper\\PWA\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Md Abu Ahsan Basir",
+                    "email": "maab.career@gmail.com"
+                }
+            ],
+            "description": "Laravel Progressive Web App",
+            "homepage": "https://github.com/Codexshaper/laravel-pwa",
+            "keywords": [
+                "android",
+                "app",
+                "chrome",
+                "firefox",
+                "firefox-pwa",
+                "google-pwa",
+                "ios",
+                "ios-pwa",
+                "laravel",
+                "laravel-pwa",
+                "multi-tenancy",
+                "multitenancy",
+                "multitenant",
+                "progressive",
+                "progressive-web-app",
+                "pwa",
+                "pwa-laravel",
+                "safari",
+                "safari-pwa",
+                "web"
+            ],
+            "support": {
+                "issues": "https://github.com/Codexshaper/laravel-pwa/issues",
+                "source": "https://github.com/Codexshaper/laravel-pwa"
+            },
+            "time": "2021-12-27T14:47:49+00:00"
         },
         {
             "name": "dasprid/enum",
@@ -5209,56 +5287,6 @@
                 }
             ],
             "time": "2021-10-09T06:30:16+00:00"
-        },
-        {
-            "name": "silviolleite/laravelpwa",
-            "version": "2.0.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silviolleite/laravel-pwa.git",
-                "reference": "5f7135d2ee870af01793c9fdf6b1b932b546e20e"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silviolleite/laravel-pwa/zipball/5f7135d2ee870af01793c9fdf6b1b932b546e20e",
-                "reference": "5f7135d2ee870af01793c9fdf6b1b932b546e20e",
-                "shasum": ""
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "LaravelPWA\\Providers\\LaravelPWAServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "LaravelPWA\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Silvio Luis Leite",
-                    "email": "silviolleite@gmail.com"
-                }
-            ],
-            "description": "Looks like an app, feels like an app, but NOT an app.",
-            "keywords": [
-                "laravel",
-                "php",
-                "progressive web apps",
-                "pwa"
-            ],
-            "support": {
-                "issues": "https://github.com/silviolleite/laravel-pwa/issues",
-                "source": "https://github.com/silviolleite/laravel-pwa/tree/2.0.3"
-            },
-            "time": "2020-08-20T12:19:16+00:00"
         },
         {
             "name": "spatie/browsershot",

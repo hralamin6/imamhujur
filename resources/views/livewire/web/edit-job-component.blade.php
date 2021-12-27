@@ -255,7 +255,7 @@
                 <input type="text" wire:model.lazy="staying_place" class="form-control-tw @error('staying_place') is-invalid @enderror form-input" placeholder="{{__("How will be the staying place?")}}">
                 @error('staying_place')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
-            @if ($type=='imam')
+            @if ($type=='mosque')
                 <label class="block mt-3">
                     <span class="text-gray-700 dark:text-gray-400">{{__("Do you have a Moktob?")}}</span>
                     <input type="text" wire:model.lazy="maktob" class="form-control-tw @error('maktob') is-invalid @enderror form-input" placeholder="{{__("Do you have a Moktob?")}}">
@@ -272,7 +272,7 @@
                     @error('muajjin')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                 </label>
             @endif
-            @if ($type=='teacher')
+            @if ($type=='madrasa')
                 <label class="block mt-3">
                     <span class="text-gray-700 dark:text-gray-400">{{__("Should be proficient in Kitab department?")}}</span>
                     <input type="text" wire:model.lazy="kitab" class="form-control-tw @error('kitab') is-invalid @enderror form-input" placeholder="{{__("Should be proficient in Kitab department?")}}">
@@ -331,7 +331,7 @@
             </div>
 
             <label class="block mt-3">
-                <span class="text-gray-700 dark:text-gray-400">{{__("Have you any extra say your institution?")}}</span>
+                <span class="text-gray-700 dark:text-gray-400">{{__("Have you any extra say about your institution?")}}</span>
                 <input type="text" wire:model.lazy="about" class="form-control-tw @error('about') is-invalid @enderror form-input" placeholder="{{__("Have you any extra say your institution?")}}">
                 @error('about')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
@@ -341,7 +341,7 @@
         @endif
     </div>
     <div class="flex justify-between mx-6 mb-3">
-        <button wire:click.prevent="previousPage"  @if ($currentPage==1) @endif type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
+        <button wire:click.prevent="previousPage" type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
             <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
         </button>
         @if ($currentPage===count($pages))

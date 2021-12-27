@@ -12,12 +12,9 @@ class Setup extends Model implements HasMedia
 {
     use HasFactory;
     use InteractsWithMedia;
-//    public function registerMediaConversions(Media $media = null) : void
-//    {
-//        $this
-//            ->addMediaConversion('thumb')
-//            ->width('333')
-//            ->height('222');
-//    }
+    public function registerMediaConversions(Media $media = null) : void
+    {
+        $this->addMediaConversion('avatar')->width('300')->height('200')->performOnCollections('logo')->nonQueued();
+    }
 
 }

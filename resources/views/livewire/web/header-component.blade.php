@@ -23,8 +23,8 @@
         </button>
         <!-- Search input -->
         {{--        <div class="container mx-auto px-4 py-1 flex items-center">--}}
-        <div class="w-16 mr-auto">
-            <a class="w-8" href="{{route('home')}}"><img src="{{\App\Models\Setup::first()->getFirstMediaUrl('logo')}}" onerror="{{asset('frontend/images/logo.svg')}}" alt="logo"></a>
+        <div class="mr-auto">
+            <a class="" href="{{route('home')}}"><img class="w-24 h-12" src="{{\App\Models\Setup::first()->getFirstMediaUrl('logo')}}" onerror="{{asset('frontend/images/logo.svg')}}" alt="logo"></a>
         </div>
 
 {{--        <div class="flex justify-center flex-1 lg:mr-32 hidden lg:flex">--}}

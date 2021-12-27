@@ -160,16 +160,16 @@
                                 <td class="border border-gray-300 px-2"> {{$cv->hsc_gpa}}</td>
                             </tr>
                         @endif
-                        <tr class="capitalize">
-                            <th class="border border-gray-300 px-2">{{__("Are you hafiz?")}}</th>
-                            <td class="border border-gray-300 px-2"> {{$cv->hafiz==true?__("Yes"):__("No")}}</td>
-                        </tr>
-                        <tr class="capitalize">
-                            <th class="border border-gray-300 px-2">{{__("Your maximum educational qualification")}}</th>
-                            <td class="border border-gray-300 px-2"> {{$cv->max_education}}</td>
-                        </tr>
-
                     @endif
+                    <tr class="capitalize">
+                        <th class="border border-gray-300 px-2">{{__("Are you hafiz?")}}</th>
+                        <td class="border border-gray-300 px-2"> {{$cv->hafiz==true?__("Yes"):__("No")}}</td>
+                    </tr>
+                    <tr class="capitalize">
+                        <th class="border border-gray-300 px-2">{{__("Your maximum educational qualification")}}</th>
+                        <td class="border border-gray-300 px-2"> {{$cv->max_education}}</td>
+                    </tr>
+
                     </tbody>
                 </table>
             </div>
@@ -188,7 +188,7 @@
                         <th class="border border-gray-300 px-2">{{__("Have you previous or current profession?")}}</th>
                         <td class="border border-gray-300 px-2"> {{$cv->profession==true?__("Yes"):__("No")}}</td>
                     </tr>
-                    @if($cv->profession===true)
+                    @if($cv->profession===1)
                         <tr class="capitalize">
                             <th class="border border-gray-300 px-2">{{__("Why did left it or why do you want to leave it?")}}</th>
                             <td class="border border-gray-300 px-2"> {{$cv->reasion_of_leaving}}</td>
@@ -205,27 +205,27 @@
                 <table class="w-full border-t dark:text-white border-b border-gray-300 justify-start text-sm mt-4 p-0">
                     <tbody class="overflow-hidden">
                     <tr class="capitalize">
-                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("Which Majhad do you follow? In details")}}</th>
+                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("Which Majhad do you follow?")}}</th>
                         <td class="border border-gray-300 px-2">{{@$cv->majhab}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Majar? In details")}}</th>
+                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Majar?")}}</th>
                         <td class="border border-gray-300 px-2">{{@$cv->majar}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about pir Milad? In details")}}</th>
+                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Milad?")}}</th>
                         <td class="border border-gray-300 px-2">{{@$cv->milad}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Tabiz? In details")}}</th>
+                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Tabiz?")}}   </th>
                         <td class="border border-gray-300 px-2">{{@$cv->tabiz}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Pir-Muridi? In details")}}</th>
+                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("What's your concept about Pir-Muridi?")}}</th>
                         <td class="border border-gray-300 px-2">{{@$cv->pir_muridi}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("Which political group do you follow? In details")}}</th>
+                        <th style="width: 50%" class="border border-gray-300 px-2">{{__("Which political group do you follow?")}}</th>
                         <td class="border border-gray-300 px-2">{{@$cv->politics}}</td>
                     </tr>
                     </tbody>
@@ -309,6 +309,10 @@
                             <div class="flex justify-center">
                                 <img src="{{$cv->getFirstMediaUrl('cv', "thumb")}}" alt="" class="object-cover content-center">
                             </div>
+                            @else
+                                <div class="flex justify-center">
+                                    <img src="https://www.ncenet.com/wp-content/uploads/2020/04/No-image-found.jpg" alt="no image" class="object-cover content-center">
+                                </div>
                         @endif
                     @else
                         @if($setup->getFirstMediaUrl('locked')!=null)
@@ -319,9 +323,11 @@
 
                     @endif
                 @else
-                    <div class="flex justify-center">
-                        <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="object-cover content-center">
-                    </div>
+                    @if($setup->getFirstMediaUrl('locked')!=null)
+                        <div class="flex justify-center">
+                            <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                        </div>
+                    @endif
                 @endauth
             </div>
             <div class="bg-indigo-700 shadow-md rounded-md mb-2">
@@ -334,6 +340,11 @@
                             <div class="flex justify-center">
                                 <img src="{{$cv->getFirstMediaUrl('hand_writing', "thumb")}}" alt="" class="object-cover content-center">
                             </div>
+                        @else
+                            <div class="flex justify-center">
+                                <img src="https://www.ncenet.com/wp-content/uploads/2020/04/No-image-found.jpg" alt="no image" class="object-cover content-center">
+                            </div>
+
                         @endif
                     @else
                         @if($setup->getFirstMediaUrl('locked')!=null)
@@ -343,9 +354,11 @@
                         @endif
                     @endif
                 @else
-                    <div class="flex justify-center">
-                        <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="object-cover content-center">
-                    </div>
+                    @if($setup->getFirstMediaUrl('locked')!=null)
+                        <div class="flex justify-center">
+                            <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                        </div>
+                    @endif
                 @endauth
 
             </div>
@@ -359,6 +372,11 @@
                             <div class="flex justify-center">
                                 <img src="{{$cv->getFirstMediaUrl('certificate', "thumb")}}" alt="" class="object-cover content-center">
                             </div>
+                        @else
+                            <div class="flex justify-center">
+                                <img src="https://www.ncenet.com/wp-content/uploads/2020/04/No-image-found.jpg" alt="no image" class="object-cover content-center">
+                            </div>
+
                         @endif
                     @else
                         @if($setup->getFirstMediaUrl('locked')!=null)
@@ -368,9 +386,11 @@
                         @endif
                     @endif
                 @else
-                    <div class="flex justify-center">
-                        <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="object-cover content-center">
-                    </div>
+                    @if($setup->getFirstMediaUrl('locked')!=null)
+                        <div class="flex justify-center">
+                            <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                        </div>
+                    @endif
                 @endauth
 
             </div>
@@ -387,19 +407,26 @@
                                     Your browser does not support the audio element.
                                 </audio>
                             </div>
-                        @endif                    @else
+                        @else
+                           <h3 class="text-center text-red-600 font-semibold">{{__('Not found')}}</h3>
+
+                        @endif
+                    @else
                         <div class="flex justify-center">
-                            <audio controls>
-                                <source src="" type="audio/mpeg">
-                                Your browser does not support the audio element.
-                            </audio>
-                        </div>                    @endif
+                            @if($setup->getFirstMediaUrl('locked')!=null)
+                                <div class="flex justify-center">
+                                    <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                                </div>
+                            @endif
+                        </div>
+                    @endif
                 @else
                     <div class="flex justify-center">
-                        <audio controls>
-                            <source src="" type="audio/mpeg">
-                            Your browser does not support the audio element.
-                        </audio>
+                        @if($setup->getFirstMediaUrl('locked')!=null)
+                            <div class="flex justify-center">
+                                <img src="{{$setup->getFirstMediaUrl('locked', "thumb")}}" alt="" class="object-cover content-center">
+                            </div>
+                        @endif
                     </div>
                 @endauth
 
@@ -410,7 +437,7 @@
 
     </div>
     @auth()
-        <div class="mx-auto w-72">
+        <div class="mx-auto w-8/12">
 
         @if(auth()->user()->type!=='admin')
             @if(auth()->user()->cv->id!=$cv->id)
@@ -441,8 +468,11 @@
                 @endif
             @endif
         @endif
+        </div>
     @else
-            <div class="dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+                <div class="mx-auto w-8/12">
+
+                <div class="dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
                 <div class="flex justify-center">
                     <a href="{{route('login')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

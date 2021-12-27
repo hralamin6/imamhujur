@@ -3,11 +3,15 @@
 namespace App\Http\Livewire\Web\Details;
 
 use App\Models\Job;
+use App\Models\Setup;
 use Illuminate\Support\Facades\Auth;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 
 class JobDetailsComponent extends Component
 {
+    use LivewireAlert;
+
     public $jobId;
     public $unlocked;
     public function mount($id)
@@ -41,6 +45,8 @@ class JobDetailsComponent extends Component
         }else{
             $job = Job::whereIdAndStatus($this->jobId, 'active')->firstOrFail();
         }
-        return view('livewire.web.details.job-details-component', compact('job'));
+        $setup = Setup::first();
+
+        return view('livewire.web.details.job-details-component', compact('job', 'setup'));
     }
 }

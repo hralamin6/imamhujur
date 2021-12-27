@@ -17,6 +17,17 @@
       0 => 'Barryvdh\\TranslationManager\\ManagerServiceProvider',
     ),
   ),
+  'codexshaper/laravel-pwa' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'CodexShaper\\PWA\\PwaServiceProvider',
+    ),
+    'aliases' => 
+    array (
+      'PWA' => 'CodexShaper\\PWA\\Facades\\PWA',
+    ),
+  ),
   'facade/ignition' => 
   array (
     'providers' => 
@@ -155,13 +166,6 @@
     'providers' => 
     array (
       0 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
-    ),
-  ),
-  'silviolleite/laravelpwa' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'LaravelPWA\\Providers\\LaravelPWAServiceProvider',
     ),
   ),
   'spatie/laravel-medialibrary' => 

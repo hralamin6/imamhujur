@@ -199,7 +199,7 @@ class EditJobComponent extends Component
     {
         if (Auth::user()->type=='admin'){
             if (!is_null($id)){
-                $job = Job::find($id);
+                $job = Job::findorFail($id);
             }
         }else{
             $job = Job::whereUser_id(Auth::id())->firstOrFail();
@@ -276,19 +276,6 @@ class EditJobComponent extends Component
         ]);
     }
 
-    public function ChangePassword()
-    {
-        $this->validate([
-            'password' => 'required|password',
-            'newPassword' => 'required|min:4|max:22',
-        ]);
-        $user = User::find(Auth::id());
-        $user->password = Hash::make($this->newPassword);
-        $user->save();
-        $this->reset();
-        $this->alert('success', 'Successfully updated password');
-        $this->getDetails();
-    }
     public function render()
     {
         $divisions = Division::all();

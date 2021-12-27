@@ -1,7 +1,7 @@
 @section('subtitle', __("Edit CV"))
 <div xmlns:wire="http://www.w3.org/1999/xhtml">
     <div class="m-2 px-4 py-3 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 ">
-        <div class="flex gap-3 flex-wrap justify-center">
+        <div class="flex gap-3 flex-wrap justify-center cursor-pointer">
 
             <a wire:click.prevent="$set('currentPage', 1)" class="font-semibold {{$currentPage==1?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("General")}} {{__("Info")}}</a>
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -440,7 +440,7 @@
         @endif
     </div>
     <div class="flex justify-between mx-6 mb-3">
-        <button wire:click.prevent="previousPage" @if ($currentPage==1) disabled @endif type="button" class="btn btn-success @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
+        <button wire:click.prevent="previousPage" type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
             <span wire:loading wire:target="previousPage" class="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
         </button>
         @if ($currentPage===count($pages))

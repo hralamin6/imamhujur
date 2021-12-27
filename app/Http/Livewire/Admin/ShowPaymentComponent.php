@@ -4,11 +4,13 @@ namespace App\Http\Livewire\Admin;
 
 use App\Models\Payment;
 use Dotenv\Validator;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithPagination;
 
 class ShowPaymentComponent extends Component
 {
+    use LivewireAlert;
 
     use WithPagination;
     public $deleteId=null, $state = [], $payment, $editmode, $orderBy='id', $serialize='desc', $paginate=10, $search='', $selectall = false, $selections = [];

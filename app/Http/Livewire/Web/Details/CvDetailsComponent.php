@@ -5,10 +5,13 @@ namespace App\Http\Livewire\Web\Details;
 use App\Models\Cv;
 use App\Models\Setup;
 use Illuminate\Support\Facades\Auth;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 
 class CvDetailsComponent extends Component
 {
+    use LivewireAlert;
+
     public $cvId;
     public $unlocked;
     public function mount($id)

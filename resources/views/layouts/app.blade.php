@@ -19,7 +19,8 @@
     {{--        defer--}}
     {{--    ></script>--}}
     <script src="{{asset('assets/js/init-alpine.js')}}"></script>
-    @laravelPWA
+    @PWA
+    {{ pwa_meta() }}
 </head>
 <body class="font-serif">
 <div
@@ -37,7 +38,8 @@
             {{--                    <p>Loading tip…</p>--}}
             {{--                </include-fragment>--}}
             {{--            </div>--}}
-            {{$slot}}
+            {{@$slot}}
+            @yield('content')
         </main>
     </div>
 </div>
@@ -87,7 +89,7 @@
 </script>
 @stack('js')
 
-{{--<script src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.8/push.min.js"></script>--}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/push.js/1.0.8/push.min.js"></script>
 <script>
     window.addEventListener('push', event => {
         Push.create("Hello world!", {

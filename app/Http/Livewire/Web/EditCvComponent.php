@@ -94,7 +94,7 @@ class EditCvComponent extends Component
             'hafizi'=> 'nullable',
         ],
         0=>[
-            'recitation'=>  'nullable',
+            'recitation'=>  'nullable|mimes:application/octet-stream,audio/mpeg,mpga,mp3,wav',
             'image'=>  'nullable|image',
             'hand_writing'=>  'nullable|image',
             'certificate'=>  'nullable|image',
@@ -216,7 +216,7 @@ class EditCvComponent extends Component
     {
         if (Auth::user()->type=='admin'){
             if (!is_null($id)){
-                $cv = Cv::find($id);
+                $cv = Cv::findorFail($id);
             }
         }else{
         $cv = Cv::whereUser_id(Auth::id())->firstOrFail();
@@ -300,19 +300,6 @@ class EditCvComponent extends Component
         ]);
     }
 
-    public function ChangePassword()
-    {
-        $this->validate([
-            'password' => 'required|password',
-            'newPassword' => 'required|min:4|max:22',
-        ]);
-        $user = User::find(Auth::id());
-        $user->password = Hash::make($this->newPassword);
-        $user->save();
-        $this->reset();
-        $this->alert('success', 'Successfully updated password');
-        $this->getDetails();
-    }
     public function render()
     {
         $divisions = Division::all();

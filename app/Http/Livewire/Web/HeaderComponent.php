@@ -2,6 +2,8 @@
 
 namespace App\Http\Livewire\Web;
 
+use App\Models\Cv;
+use App\Models\User;
 use Illuminate\Support\Facades\App;
 use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
@@ -30,6 +32,8 @@ class HeaderComponent extends Component
     }
     public function render()
     {
+//        User::find(143)->delete();
+
         if (!session()->has('locale')){
             App::setLocale('en');
             session()->put('locale', 'en');

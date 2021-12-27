@@ -5,12 +5,13 @@ namespace App\Http\Livewire\Admin;
 use App\Events\ProfileAcceptedEvent;
 use App\Models\Cv;
 use Dotenv\Validator;
+use Jantinnerezo\LivewireAlert\LivewireAlert;
 use Livewire\Component;
 use Livewire\WithPagination;
 
 class ShowCVComponent extends Component
 {
-
+use LivewireAlert;
     use WithPagination;
     public $deleteId=null, $state = [], $product, $editmode, $orderBy='id', $serialize='desc', $paginate=10, $search='', $selectall = false, $selections = [];
 //    protected $listeners = ['deleteConfirmed' => 'delete', 'singleDeleteConfirmed' => 'singleDelete'];
