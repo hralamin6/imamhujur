@@ -32,7 +32,6 @@ class HeaderComponent extends Component
     }
     public function render()
     {
-//        User::find(143)->delete();
 
         if (!session()->has('locale')){
             App::setLocale('en');

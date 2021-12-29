@@ -167,7 +167,6 @@ class SetupComponent extends Component
     }
     public function render()
     {
-        dd(Setup::first()->getFirstMediaUrl('logo'));
         return view('livewire.admin.setup-component')->layout('layouts.app');
     }
 }

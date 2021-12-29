@@ -21,6 +21,9 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function () {
     Route::get('/edit-cv/{id?}',\App\Http\Livewire\Web\EditCvComponent::class)->name('edit.cv');
     Route::get('/edit-job/{id?}',\App\Http\Livewire\Web\EditJobComponent::class)->name('edit.job');
     Route::get('/contact-request',\App\Http\Livewire\Web\PaymentComponent::class)->name('contact.request');
+
+    Route::get('/message',\App\Http\Livewire\MessageComponent::class)->name('message');
+
 });
 Route::get('/',\App\Http\Livewire\Web\HomeComponent::class)->name('home');
 Route::get('/cv-details/{id}',\App\Http\Livewire\Web\Details\CvDetailsComponent::class)->name('show.cv');

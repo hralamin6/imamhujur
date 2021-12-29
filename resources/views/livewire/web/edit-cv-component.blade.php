@@ -440,9 +440,15 @@
         @endif
     </div>
     <div class="flex justify-between mx-6 mb-3">
-        <button wire:click.prevent="previousPage" type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
-            <span wire:loading wire:target="previousPage" class="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
-        </button>
+        @if ($currentPage==1)
+            <button type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
+                <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
+            </button>
+        @else
+            <button wire:click.prevent="previousPage" type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
+                <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
+            </button>
+        @endif
         @if ($currentPage===count($pages))
             <button wire:click.prevent="confirmation" type="button" class="btn btn-primary float-right">
                 {{__("Submit")}}

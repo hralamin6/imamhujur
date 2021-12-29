@@ -6,6 +6,7 @@
   'blog.blog-component' => 'App\\Http\\Livewire\\Blog\\BlogComponent',
   'blog.single-post-component' => 'App\\Http\\Livewire\\Blog\\SinglePostComponent',
   'chat-room' => 'App\\Http\\Livewire\\ChatRoom',
+  'message-component' => 'App\\Http\\Livewire\\MessageComponent',
   'page-component' => 'App\\Http\\Livewire\\PageComponent',
   'web.dashboard-component' => 'App\\Http\\Livewire\\Web\\DashboardComponent',
   'web.details.cv-details-component' => 'App\\Http\\Livewire\\Web\\Details\\CvDetailsComponent',

@@ -2,6 +2,7 @@
 
 namespace App\Actions\Fortify;
 
+use App\Models\Conversation;
 use App\Models\Cv;
 use App\Models\Job;
 use App\Models\User;
@@ -45,6 +46,14 @@ class CreateNewUser implements CreatesNewUsers
                 'name'=> $input['name'],
                 'type'=> $input['type'],
             ]);
+           $conversation = Conversation::create([
+                'sender_id'=> $user->id,
+                'receiver_id'=> User::find(1)->id,
+            ]);
+            $conversation->messages()->create([
+                'user_id' => 1,
+                'body' => 'Assalamu Alaikum, How can I help you?'
+            ]);
         }elseif($input['type']=='mosque' | $input['type']=='madrasa'){
              Job::create([
                  'user_id'=> $user->id,
@@ -53,6 +62,15 @@ class CreateNewUser implements CreatesNewUsers
                  'name'=> $input['name'],
                  'type'=> $input['type'],
             ]);
+            $conversation = Conversation::create([
+                'sender_id'=> $user->id,
+                'receiver_id'=> User::find(1)->id,
+            ]);
+            $conversation->messages()->create([
+                'user_id' => 1,
+                'body' => 'Assalamu Alaikum, How can I help you?'
+            ]);
+
         }
         return $user;
     }

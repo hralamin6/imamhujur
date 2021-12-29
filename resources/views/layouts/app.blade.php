@@ -11,6 +11,7 @@
     <style>
         .contain{width:100%}@media (min-width:640px){.container{max-width:640px}}@media (min-width:768px){.container{max-width:768px}}@media (min-width:1024px){.container{max-width:1024px}}@media (min-width:1280px){.container{max-width:1280px}}
     </style>
+
     @stack('css')
     @livewireStyles
     <script src="{{asset('js/app.js')}}" defer></script>
@@ -42,6 +43,16 @@
             @yield('content')
         </main>
     </div>
+
+
+    <div>
+        <!-- fixed bottom right screen -->
+        <div class="fixed bottom-1/2 right-0 ...">
+adsf        </div>
+        <!-- end fixed bottom right screen -->
+    </div>
+
+
 </div>
 
 <script>
