@@ -1,4 +1,4 @@
-@section('subtitle', __("Cv Details"))
+@section('subtitle', __("Biodata Details"))
 
 <main class="py-12 bg-gray-100 dark:bg-gray-900 min-h-screen">
     <div class="container mx-auto px-4 flex flex-wrap lg:flex-nowrap">

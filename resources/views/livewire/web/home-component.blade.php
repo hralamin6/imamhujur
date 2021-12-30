@@ -1,3 +1,7 @@
+@section('title', __('Home'))
+@section('description', __('find Imam Hujur Mosque Madrasa'))
+{{--@section('image', $post->image)--}}
+{{--@section('url', config('app.url').'post/'.$post->slug)--}}
 <div>
     <div class="container px-6 mx-auto grid mt-4">
         <div class="grid gap-6 mb-8 md:grid-cols-2 xl:grid-cols-4">
@@ -142,7 +146,7 @@
                             </div>
                         </div>
                         <div class="flex items-center justify-center m-2">
-                            <a href="{{route('show.cv', $imam->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                            <a href="{{route('show.cv', $imam)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                                 {{__("View Details")}}
                             </a>
                         </div>
@@ -208,7 +212,7 @@
                             </div>
                         </div>
                         <div class="flex items-center justify-center m-2">
-                            <a href="{{route('show.cv', $teacher->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                            <a href="{{route('show.cv', $teacher)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                                 {{__("View Details")}}
                             </a>
                         </div>
@@ -273,7 +277,7 @@
                             </div>
                         </div>
                         <div class="flex items-center justify-center m-2">
-                            <a href="{{route('show.job', $mosque->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                            <a href="{{route('show.job', $mosque)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                                 {{__("View Details")}}
                             </a>
                         </div>
@@ -338,7 +342,7 @@
                             </div>
                         </div>
                         <div class="flex items-center justify-center m-2">
-                            <a href="{{route('show.job', $madrasa->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                            <a href="{{route('show.job', $madrasa)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                                 {{__("View Details")}}
                             </a>
                         </div>

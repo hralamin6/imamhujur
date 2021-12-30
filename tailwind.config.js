@@ -4,25 +4,25 @@ const Color = require('color');
 
 module.exports = {
     darkMode: false,
-    // mode: 'jit',
-    // purge: [
-    //     './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
-    //     './vendor/laravel/jetstream/**/*.blade.php',
-    //     './storage/framework/views/*.php',
-    //     './resources/views/**/*.blade.php',
-    // ],
+    mode: 'jit',
+    purge: [
+        './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
+        './vendor/laravel/jetstream/**/*.blade.php',
+        './storage/framework/views/*.php',
+        './resources/views/**/*.blade.php',
+    ],
 
     theme: {
         themeVariants: ['dark'],
-        // customForms: (theme) => ({
-        //     default: {
-        //         'input, textarea': {
-        //             '&::placeholder': {
-        //                 color: theme('colors.gray.400'),
-        //             },
-        //         },
-        //     },
-        // }),
+        customForms: (theme) => ({
+            default: {
+                'input, textarea': {
+                    '&::placeholder': {
+                        color: theme('colors.gray.400'),
+                    },
+                },
+            },
+        }),
 
         screens: {
             sm: '576px',
@@ -221,7 +221,7 @@ module.exports = {
         require('@tailwindcss/typography'),
         require('tailwindcss-multi-theme'),
         require('@tailwindcss/custom-forms'),
-        // require('daisyui'),
+        require('daisyui'),
         plugin(({ addUtilities, e, theme, variants }) => {
             const newUtilities = {}
             Object.entries(theme('colors')).map(([name, value]) => {

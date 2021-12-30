@@ -1,3 +1,5 @@
+@section('title', __('Message'))
+{{--@section('description', __('find Imam Hujur Mosque Madrasa'))--}}
 <div class="flex flex-col  md:flex-row md:space-x-6" >
     {{--    @if(auth()->id()==1)--}}
     <div class="px-4 py-4 mx-auto border shadow-md bg-white w-full mb-3">

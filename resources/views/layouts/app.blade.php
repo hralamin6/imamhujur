@@ -3,18 +3,53 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
     <meta name="turbolinks-cache-control" content="no-cache">
+    <meta name="turbolinks-cache-control" content="no-preview">
+
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Windmill Dashboard</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
-    <link rel="stylesheet" href="{{asset('css/app.css')}}">
+{{--    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>--}}
+    <meta name="google-site-verification" content="d6Rv6yW5mtgpZrXVe6t3x_hgVfRr4FlFPW96BLduKh0" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    @php
+        $setup = \App\Models\Setup::first();
+    @endphp
+
+
+
+    <title>@yield('title', 'Home Page') - {{config('app.name')}}</title>
+    <meta name="description" content="@yield('description', 'This is site Description') - {{config('app.name')}}">
+
+    <meta property="og:title" content="@yield('title', 'Home Page') - {{config('app.name')}}" />
+    <meta property="og:description" content="@yield('description', 'This is site Description') - {{config('app.name')}}" />
+    <meta property="og:url" content="@yield('url', config('app.url'))" />
+    <meta property="og:image" content="@yield('image', $setup->logo)" />
+    <meta property="og:image:secure_url" content="@yield('image', $setup->logo)" />
+    <meta property="og:site_name" content="{{config('app.name')}}" />
+    <meta property="og:image:width" content="1536" />
+    <meta property="og:image:height" content="1024" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="@yield('description', 'This is site Description') - {{config('app.name')}}" />
+    <meta name="twitter:title" content="@yield('title', 'Home Page') - {{config('app.name')}}" />
+    <meta name="twitter:image" content="@yield('image', $setup->logo)" />
+
+    <link rel="shortcut icon" href="{{$setup->logo}}" type="image/x-icon">
+    <link rel="icon" href="{{$setup->logo}}" type="image/x-icon">
+
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+
+
+    <link href="{{ asset('/css/app.css') }}" rel="stylesheet" type="text/css" data-turbolinks-track="reload">
     <style>
         .contain{width:100%}@media (min-width:640px){.container{max-width:640px}}@media (min-width:768px){.container{max-width:768px}}@media (min-width:1024px){.container{max-width:1024px}}@media (min-width:1280px){.container{max-width:1280px}}
     </style>
 
     @stack('css')
     @livewireStyles
-    <script src="{{asset('js/app.js')}}" defer></script>
+    <script src="{{ asset('js/app.js') }}" data-turbolinks-track="reload" defer></script>
     {{--    <script--}}
     {{--        src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"--}}
     {{--        defer--}}
@@ -22,6 +57,8 @@
     <script src="{{asset('assets/js/init-alpine.js')}}"></script>
     @PWA
     {{ pwa_meta() }}
+
+
 </head>
 <body class="font-serif">
 <div
@@ -48,7 +85,10 @@
     <div>
         <!-- fixed bottom right screen -->
         <div class="fixed bottom-1/2 right-0 ...">
-adsf        </div>
+            <a href="{{\App\Models\Setup::first()->facebook}}">
+                <img class="w-6 h-6" src="https://icons-for-free.com/iconfiles/png/512/fb+icon+icon-1320194641178775596.png" alt="fb">
+            </a>
+        </div>
         <!-- end fixed bottom right screen -->
     </div>
 

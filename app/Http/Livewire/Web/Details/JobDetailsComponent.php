@@ -37,13 +37,13 @@ class JobDetailsComponent extends Component
     public function render()
     {
         if (Auth::check()){
-            if (Auth::user()->type==='admin' | @auth()->user()->job->id==$this->jobId){
+            if (Auth::user()->type==='admin' | @auth()->user()->job->slug==$this->jobId){
                 $job = Job::whereId($this->jobId)->firstOrFail();
             }else{
-                $job =Job::whereIdAndStatus($this->jobId, 'active')->firstOrFail();
+                $job =Job::whereSlugAndStatus($this->jobId, 'active')->firstOrFail();
             }
         }else{
-            $job = Job::whereIdAndStatus($this->jobId, 'active')->firstOrFail();
+            $job = Job::whereSlugAndStatus($this->jobId, 'active')->firstOrFail();
         }
         $setup = Setup::first();
 

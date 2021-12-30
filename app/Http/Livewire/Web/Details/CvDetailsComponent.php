@@ -37,13 +37,13 @@ class CvDetailsComponent extends Component
     public function render()
     {
         if (Auth::check()){
-            if (Auth::user()->type==='admin' | @auth()->user()->cv->id==$this->cvId){
+            if (Auth::user()->type==='admin' | @auth()->user()->cv->slug==$this->cvId){
                 $cv = Cv::whereId($this->cvId)->firstOrFail();
             }else{
-                $cv = Cv::whereIdAndStatus($this->cvId, 'active')->firstOrFail();
+                $cv = Cv::whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
             }
         }else{
-            $cv = Cv::whereIdAndStatus($this->cvId, 'active')->firstOrFail();
+            $cv = Cv::whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
         }
         $setup = Setup::first();
         return view('livewire.web.details.cv-details-component', compact('cv', 'setup'));

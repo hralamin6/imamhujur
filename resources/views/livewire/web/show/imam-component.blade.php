@@ -1,3 +1,4 @@
+@section('title', __('Find Imam'))
 <div>
     <div class="container px-6 mx-auto grid mt-4">
         <div class="grid gap-2 mb-0 grid-cols-2 md:grid-cols-2 xl:grid-cols-4">
@@ -88,7 +89,7 @@
                         </div>
                     </div>
                     <div class="flex items-center justify-center m-2">
-                        <a href="{{route('show.cv', $imam->id)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
+                        <a href="{{route('show.cv', $imam)}}" class="bg-blue-700 py-2 px-4 rounded-full text-white text-sm font-semibold hover:bg-purple-700 transition">
                             {{__("View Details")}}
                         </a>
                     </div>

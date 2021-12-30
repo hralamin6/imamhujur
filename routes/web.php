@@ -4,6 +4,7 @@ use App\Http\Controllers\BlogController;
 use App\Http\Controllers\SitemapXmlController;
 use Illuminate\Support\Facades\Route;
 use Spatie\Sitemap\Sitemap;
+use Spatie\Sitemap\SitemapGenerator;
 use Spatie\Sitemap\Tags\Url;
 
 
@@ -26,8 +27,8 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function () {
 
 });
 Route::get('/',\App\Http\Livewire\Web\HomeComponent::class)->name('home');
-Route::get('/cv-details/{id}',\App\Http\Livewire\Web\Details\CvDetailsComponent::class)->name('show.cv');
-Route::get('/job-details/{id}',\App\Http\Livewire\Web\Details\JobDetailsComponent::class)->name('show.job');
+Route::get('/biodata/{id:slug}',\App\Http\Livewire\Web\Details\CvDetailsComponent::class)->name('show.cv');
+Route::get('/circular/{id:slug}',\App\Http\Livewire\Web\Details\JobDetailsComponent::class)->name('show.job');
 Route::get('/imam',\App\Http\Livewire\Web\Show\ImamComponent::class)->name('imam');
 Route::get('/teacher',\App\Http\Livewire\Web\Show\TeacherComponent::class)->name('teacher');
 Route::get('/mosque',\App\Http\Livewire\Web\Show\MosqueComponent::class)->name('mosque');
@@ -49,17 +50,32 @@ Route::get('/page/{pageName?}',\App\Http\Livewire\PageComponent::class)->name('p
 
 //Route::get('/sitemap.xml', [SitemapXmlController::class, 'index']);
 
-//Route::get('/sitemap', function(){
-//    $sitemap = Sitemap::create()
-//        ->add(Url::create('/about-us'))
-//        ->add(Url::create('/contact_us'));
-//
-//    $post = \App\Models\Blog::all();
-//    foreach ($post as $post) {
-//        $sitemap->add(Url::create("/post/{$post->slug}"));
+Route::get('/sitemap', function(){
+    $sitemap = Sitemap::create()
+        ->add(Url::create('/home'))
+        ->add(Url::create('/faq'))
+        ->add(Url::create('/login'))
+        ->add(Url::create('/about-us'))
+        ->add(Url::create('/register'));
+
+//    $posts = \App\Models\Blog::all();
+//    foreach ($posts as $post) {
+//        $sitemap->add(Url::create("/post/{$post->id}"));
 //    }
-//    $sitemap->writeToFile(public_path('sitemap.xml'));
-//});
+    \App\Models\Page::all()->each(function (\App\Models\Page $item) use ($sitemap) {
+        $sitemap->add(Url::create("/page/{$item->name}"));
+    });
+    \App\Models\Cv::all()->each(function (\App\Models\Cv $item) use ($sitemap) {
+        $sitemap->add(Url::create("/biodata/{$item->slug}"));
+    });
+    \App\Models\Job::all()->each(function (\App\Models\Job $item) use ($sitemap) {
+        $sitemap->add(Url::create("/circular/{$item->slug}"));
+    });
+    $sitemap->writeToFile(public_path('sitemap.xml'));
+});
 
 
 \PWA::routes();
+Route::get('/a', function () {
+    SitemapGenerator::create('http://127.0.0.1:8000')->writeToFile(public_path('sitemap.xml'));
+});

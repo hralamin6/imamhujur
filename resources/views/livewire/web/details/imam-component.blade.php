@@ -1,4 +1,4 @@
-@section('subtitle', __("Imam Details"))
+@section('subtitle', __("Find Imam"))
 <main class="browse-section">
     <div class="container">
         <div class="row">

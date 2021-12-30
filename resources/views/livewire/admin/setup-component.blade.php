@@ -49,6 +49,12 @@
 
                             </div>
                             <div class="form-group">
+                                <label>Site url</label>
+                                <input wire:model.defer="logoUrl" type="url" class="form-control" placeholder="Enter site url">
+                                @error('logoUrl') <span class="text-danger text-bold"> {{$message}}</span>@enderror
+
+                            </div>
+                            <div class="form-group">
                                 <label>Facobook url</label>
                                 <input wire:model.defer="facebook" type="url" class="form-control" placeholder="Enter facebook url">
                                 @error('facebook') <span class="text-danger text-bold"> {{$message}}</span>@enderror

@@ -1,3 +1,5 @@
+@section('title', __('Payment'))
+{{--@section('description', __('find Imam Hujur Mosque Madrasa'))--}}
 <div class="grid lg:grid-cols-1 grid-cols-1 items-center gap-3 mt-4 m-4">
     <div class="bg-white m-4 shadow-md rounded-md lg:w-8/12 mx-auto p-4 dark:bg-gray-800">
         <h1 class="dark:text-white font-semibold mb-2 text-center">কত সংখ্যক বায়োডাটার যোগাযোগের তথ্য চাচ্ছেন?</h1>

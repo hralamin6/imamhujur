@@ -1,4 +1,4 @@
-@section('subtitle', __("Edit job"))
+@section('title', __('Create Circular'))
 <div xmlns:wire="http://www.w3.org/1999/xhtml">
     <div class="m-2 px-4 py-3 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 ">
         <div class="flex gap-3 flex-wrap justify-center cursor-pointer">

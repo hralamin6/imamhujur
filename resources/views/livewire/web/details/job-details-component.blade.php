@@ -1,4 +1,4 @@
-@section('subtitle', __("job Details"))
+@section('subtitle', __("Circular Details"))
 
 <main class="py-12 bg-gray-100 dark:bg-gray-900 min-h-screen">
     <div class="container mx-auto px-4 flex flex-wrap lg:flex-nowrap">
@@ -23,11 +23,11 @@
                         <td class="border border-gray-300 px-2">{{$job->dob}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th class="border border-gray-300 px-2">{{auth()->user()->type==='mosque'?__('Imams'):__('Teachers')}} {{__('Gender')}}</th>
+                        <th class="border border-gray-300 px-2">{{__('Gender of applicant')}}</th>
                         <td class="border border-gray-300 px-2">{{$job->sex==='male'?__('Male'):__('Female')}}</td>
                     </tr>
                     <tr class="capitalize">
-                        <th class="border border-gray-300 px-2">{{auth()->user()->type==='mosque'?__('Imams'):__('Teachers')}} {{__('Marital status')}}</th>
+                        <th class="border border-gray-300 px-2">{{__('Marital status')}}</th>
                         <td class="border border-gray-300 px-2">{{$job->marital_status==true?__("Married"):__("Unmarried")}}</td>
                     </tr>
                     <tr class="capitalize">
@@ -144,7 +144,7 @@
                         </tr>
                     @endif
                     <tr class="capitalize">
-                        <th class="border border-gray-300 px-2">{{auth()->user()->type==='mosque'?__('Imam'):__('Teacher')}} {{__('Must be a hafiz')}}</th>
+                        <th class="border border-gray-300 px-2">{{__('Must be a hafiz')}}</th>
                         <td class="border border-gray-300 px-2"> {{$job->hafiz==true?__("Yes"):__("No")}}</td>
                     </tr>
                     <tr class="capitalize">

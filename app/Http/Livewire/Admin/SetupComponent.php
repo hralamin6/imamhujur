@@ -12,7 +12,7 @@ class SetupComponent extends Component
     use LivewireAlert;
     use WithFileUploads;
 
-    public $logo, $cover, $imam, $teacher, $mosque, $madrasa, $locked, $login, $register, $setup;
+    public $logo,$logoUrl, $cover, $imam, $teacher, $mosque, $madrasa, $locked, $login, $register, $setup;
 
     public $site_url, $admin, $site_name, $email, $phone, $location, $facebook, $twitter, $youtube, $about;
 
@@ -24,6 +24,7 @@ class SetupComponent extends Component
             $this->setup = $setup;
             $this->site_url = $setup->site_url;
             $this->admin = $setup->admin;
+            $this->logoUrl = $setup->logo;
             $this->site_name = $setup->site_name;
             $this->email = $setup->email;
             $this->phone = $setup->phone;
@@ -40,6 +41,7 @@ class SetupComponent extends Component
     {
         $this->validate([
             'site_url' => 'url',
+            'logoUrl' => 'nullable',
             'admin' => 'required',
             'email' => 'email',
             'phone' => 'numeric',
@@ -54,6 +56,7 @@ class SetupComponent extends Component
         $setup = Setup::first();
         $setup->site_url = $this->site_url;
         $setup->admin = $this->admin;
+        $setup->logo = $this->logoUrl;
         $setup->site_name = $this->site_name;
         $setup->email = $this->email;
         $setup->phone = $this->phone;
