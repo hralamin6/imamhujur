@@ -4,13 +4,13 @@ const Color = require('color');
 
 module.exports = {
     darkMode: false,
-    // mode: 'jit',
-    // purge: [
-    //     './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
-    //     './vendor/laravel/jetstream/**/*.blade.php',
-    //     './storage/framework/views/*.php',
-    //     './resources/views/**/*.blade.php',
-    // ],
+    mode: 'jit',
+    purge: [
+        './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
+        './vendor/laravel/jetstream/**/*.blade.php',
+        './storage/framework/views/*.php',
+        './resources/views/**/*.blade.php',
+    ],
 
     theme: {
         themeVariants: ['dark'],
