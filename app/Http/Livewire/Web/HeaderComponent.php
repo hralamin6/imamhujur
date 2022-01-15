@@ -33,10 +33,10 @@ class HeaderComponent extends Component
     public function render()
     {
 
-        if (!session()->has('locale')){
-            App::setLocale('en');
-            session()->put('locale', 'en');
-        }
+//        if (!session()->has('locale')){
+//            App::setLocale('en');
+//            session()->put('locale', 'en');
+//        }
         return view('livewire.web.header-component');
     }
 }

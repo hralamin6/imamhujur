@@ -11,6 +11,7 @@ use Spatie\Sitemap\Tags\Url;
 Route::middleware(['auth:sanctum', 'verified', 'admin'])->prefix('admin')->group(function () {
     Route::get('/setup',\App\Http\Livewire\Admin\SetupComponent::class)->name('admin.setup');
     Route::get('/show-cv',\App\Http\Livewire\Admin\ShowCVComponent::class)->name('admin.show.cv');
+    Route::get('/show-job',\App\Http\Livewire\Admin\ShowJobComponent::class)->name('admin.show.job');
     Route::get('/show-payment',\App\Http\Livewire\Admin\ShowPaymentComponent::class)->name('admin.show.payment');
 
 });
@@ -22,6 +23,7 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function () {
     Route::get('/edit-cv/{id?}',\App\Http\Livewire\Web\EditCvComponent::class)->name('edit.cv');
     Route::get('/edit-job/{id?}',\App\Http\Livewire\Web\EditJobComponent::class)->name('edit.job');
     Route::get('/contact-request',\App\Http\Livewire\Web\PaymentComponent::class)->name('contact.request');
+    Route::get('/unlocked-profile',\App\Http\Livewire\Web\UnlockedProfileComponent::class)->name('unlocked.profile');
 
     Route::get('/message',\App\Http\Livewire\MessageComponent::class)->name('message');
 

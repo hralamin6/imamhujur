@@ -35,7 +35,7 @@ class EditJobComponent extends Component
         7=>['heading'=>'e page heading'  ],
         8=>['heading'=>'9 page heading'  ],
     ];
-    public $test = false, $experience,  $type, $sex, $dob, $kitab, $nurani, $hafizi,  $image=null,$hand_writing=null,$certificate=null,$recitation=null, $about, $commitment, $job, $name, $phone, $additional_phone, $email, $division_id, $district_id, $upazila_id, $union_id, $hafiz, $education_medium, $daorah, $jsc, $ssc, $hsc, $max_education, $majhab, $politics, $pir_muridi, $majar, $tabiz, $milad, $marital_status, $location_of_job, $monthly_hadia, $monthly_leave, $taking_meal, $staying_place, $maktob, $khatib, $muajjin;
+    public $test = false, $experience,  $type, $sex, $dob, $kitab, $nurani, $hafizi,  $image=null, $about, $commitment, $job, $name, $phone, $additional_phone, $email, $division_id, $district_id, $upazila_id, $union_id, $hafiz, $education_medium, $daorah, $jsc, $ssc, $hsc, $max_education, $majhab, $politics, $pir_muridi, $majar, $tabiz, $milad, $marital_status, $location_of_job, $monthly_hadia, $monthly_leave, $taking_meal, $staying_place, $maktob, $khatib, $muajjin;
     private $validationRules = [
         1=>[
             'name'=> 'required|min:4|max:66',
@@ -84,10 +84,7 @@ class EditJobComponent extends Component
             'hafizi'=> 'nullable',
         ],
         0=>[
-            'recitation'=>  'nullable',
-            'image'=>  'nullable|image',
-            'hand_writing'=>  'nullable|image',
-            'certificate'=>  'nullable|image',
+            'image'=>  'nullable|image|max:512',
         ],
         7=>[
             'commitment'=> 'accepted',
@@ -112,22 +109,7 @@ class EditJobComponent extends Component
                 $this->job->clearMediaCollection('job');
                 $this->job->addMedia($this->image->getRealPath())->toMediaCollection('job');
             }
-            if (($this->hand_writing)) {
-                $this->job->clearMediaCollection('hand_writing');
-                $this->job->addMedia($this->hand_writing->getRealPath())->toMediaCollection('hand_writing');
-            }
-            if (($this->certificate)) {
-                $this->job->clearMediaCollection('certificate');
-                $this->job->addMedia($this->certificate->getRealPath())->toMediaCollection('certificate');
-            }
-            if (($this->recitation)) {
-                $this->job->clearMediaCollection('recitation');
-                $this->job->addMedia($this->recitation->getRealPath())->toMediaCollection('recitation');
-            }
             $this->image = null;
-            $this->hand_writing = null;
-            $this->certificate = null;
-            $this->recitation = null;
 
             $this->alert('success', 'Successfully saved');
             $this->currentPage++;

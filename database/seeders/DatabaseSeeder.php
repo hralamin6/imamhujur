@@ -37,12 +37,12 @@ class DatabaseSeeder extends Seeder
         $this->call(UnionSeeder::class);
 
 //        $numberOfUser = $this->command->ask('How many users do you need ?', 20);
-        \App\Models\User::factory(50)->create(['type'=>'imam']);
-        \App\Models\User::factory(50)->create(['type'=>'teacher']);
-        \App\Models\User::factory(50)->create(['type'=>'mosque']);
-        \App\Models\User::factory(50)->create(['type'=>'madrasa']);
-        \App\Models\Cv::factory(100)->create();
-        \App\Models\Job::factory(100)->create();
+        \App\Models\User::factory(5)->create(['type'=>'imam']);
+        \App\Models\User::factory(5)->create(['type'=>'teacher']);
+        \App\Models\User::factory(5)->create(['type'=>'mosque']);
+        \App\Models\User::factory(5)->create(['type'=>'madrasa']);
+        \App\Models\Cv::factory(10)->create();
+        \App\Models\Job::factory(10)->create();
         \App\Models\Blog::factory(10)->create();
     }
 }

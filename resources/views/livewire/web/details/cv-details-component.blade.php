@@ -309,10 +309,10 @@
                             <div class="flex justify-center">
                                 <img src="{{$cv->getFirstMediaUrl('cv', "thumb")}}" alt="" class="object-cover content-center">
                             </div>
-                            @else
-                                <div class="flex justify-center">
-                                    <img src="https://www.ncenet.com/wp-content/uploads/2020/04/No-image-found.jpg" alt="no image" class="object-cover content-center">
-                                </div>
+                        @else
+                            <div class="flex justify-center">
+                                <img src="https://www.ncenet.com/wp-content/uploads/2020/04/No-image-found.jpg" alt="no image" class="object-cover content-center">
+                            </div>
                         @endif
                     @else
                         @if($setup->getFirstMediaUrl('locked')!=null)
@@ -408,7 +408,7 @@
                                 </audio>
                             </div>
                         @else
-                           <h3 class="text-center text-red-600 font-semibold">{{__('Not found')}}</h3>
+                            <h3 class="text-center text-red-600 font-semibold">{{__('Not found')}}</h3>
 
                         @endif
                     @else
@@ -439,40 +439,41 @@
     @auth()
         <div class="mx-auto w-8/12">
 
-        @if(auth()->user()->type!=='admin')
-            @if(auth()->user()->cv->id!=$cv->id)
-                @if(auth()->user()->quantity>0)
+            @if(auth()->user()->type!=='admin')
+                @if(auth()->user()->cv->id!=$cv->id)
                     @if($cv->unlockedUsers()->where('user_id', Auth::id())->count()==0)
-                        <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
-                            <div class="flex justify-center">
-                                <button wire:click.prevent="unlockCv({{$cv->id}})" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
-                                    </svg>
-                                    {{__('Unlock')}}
-                                </button>
+                        @if(auth()->user()->quantity>0)
+                            <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+                                <div class="flex justify-center">
+                                    <button wire:click.prevent="unlockCv({{$cv->id}})" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
+                                        </svg>
+                                        {{__('Unlock')}}
+                                    </button>
+                                </div>
                             </div>
-                        </div>
+                        @else
+                            <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+                                <div class="flex justify-center">
+                                    <a href="{{route('contact.request')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
+                                        </svg>
+                                        {{__('Unlock')}}
+                                    </a>
+                                </div>
+                            </div>
+                        @endif
                     @endif
-                @else
-                    <div class="bg-white dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
-                        <div class="flex justify-center">
-                            <a href="{{route('contact.request')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
-                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 11V7a4 4 0 118 0m-4 8v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2z" />
-                                </svg>
-                                {{__('Unlock')}}
-                            </a>
-                        </div>
-                    </div>
+
                 @endif
             @endif
-        @endif
         </div>
     @else
-                <div class="mx-auto w-8/12">
+        <div class="mx-auto w-8/12">
 
-                <div class="dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
+            <div class="dark:bg-gray-800 shadow-md rounded-md border-t-2 border-indigo-600 mt-4">
                 <div class="flex justify-center">
                     <a href="{{route('login')}}" class="flex w-full items-center justify-center gap-2 px-4 py-2 text-md font-bold text-white transition-colors duration-150 bg-purple-600 border border-transparent rounded-lg active:bg-purple-600 hover:bg-purple-700 focus:outline-none focus:shadow-outline-purple">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

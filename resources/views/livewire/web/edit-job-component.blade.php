@@ -1,37 +1,37 @@
 @section('title', __('Create Circular'))
 <div xmlns:wire="http://www.w3.org/1999/xhtml">
-    <div class="m-2 px-4 py-3 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 ">
-        <div class="flex gap-3 flex-wrap justify-center cursor-pointer">
+    <div class="m-2 px-2 py-2 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 ">
+        <div class="flex gap-1 flex-wrap justify-center text-sm font-semibold">
 
-            <a wire:click.prevent="$set('currentPage', 1)" class="font-semibold {{$currentPage==1?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("General")}} {{__("Info")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 1)" class="font-semibold cursor-pointer {{$currentPage==1?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("General")}} {{__("Info")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 2)" class="font-semibold {{$currentPage==2?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Address")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 2)" class="font-semibold cursor-pointer {{$currentPage==2?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Address")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 3)" class="font-semibold {{$currentPage==3?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Qualification")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 3)" class="font-semibold cursor-pointer {{$currentPage==3?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Qualification")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 4)" class="font-semibold {{$currentPage==4?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Opinion")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 4)" class="font-semibold cursor-pointer {{$currentPage==4?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Opinion")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 5)" class="font-semibold {{$currentPage==5?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Preference")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 5)" class="font-semibold cursor-pointer {{$currentPage==5?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Preference")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 6)" class="font-semibold {{$currentPage==6?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Attachment")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 6)" class="font-semibold cursor-pointer {{$currentPage==6?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Attachment")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 7)" class="font-semibold {{$currentPage==7?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Commitment")}}</a>
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a wire:click.prevent="$set('currentPage', 7)" class="font-semibold cursor-pointer {{$currentPage==7?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Commitment")}}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7" />
             </svg>
-            <a wire:click.prevent="$set('currentPage', 8)" class="font-semibold {{$currentPage==8?'bg-indigo-700 px-2 pb-1 text-white rounded-md':'text-info'}}">{{__("Submit")}}</a>
+            <a wire:click.prevent="$set('currentPage', 8)" class="font-semibold cursor-pointer {{$currentPage==8?'bg-indigo-700 px-3 py-1 text-white rounded-md':'text-indigo-700'}}">{{__("Submit")}}</a>
         </div>
     </div>
 
@@ -332,7 +332,7 @@
 
             <label class="block mt-3">
                 <span class="text-gray-700 dark:text-gray-400">{{__("Have you any extra say about your institution?")}}</span>
-                <input type="text" wire:model.lazy="about" class="form-control-tw @error('about') is-invalid @enderror form-input" placeholder="{{__("Have you any extra say your institution?")}}">
+                <input type="text" wire:model.lazy="about" class="form-control-tw @error('about') is-invalid @enderror form-input" placeholder="{{__("Have you any extra say about your institution?")}}">
                 @error('about')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
         @endif

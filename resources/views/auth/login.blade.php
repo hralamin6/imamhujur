@@ -17,15 +17,12 @@
                         </h1>
                         <label class="block text-sm">
                             <span class="text-gray-700 dark:text-gray-400">{{__('Enter your email')}}</span>
-                            <input class="form-control-tw @error('email') is-invalid @enderror form-input" placeholder="{{__('Enter your email')}}" name="email" value="{{old('email')}}" required/>
+                            <input class="form-control-tw @error('email') is-invalid @enderror form-input" type="email"  placeholder="{{__('Enter your email')}}" name="email" value="{{old('email')}}" required/>
                             @error('email')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                         </label>
                         <label class="block mt-4 text-sm">
                             <span class="text-gray-700 dark:text-gray-400">{{__('Enter your password')}}</span>
-                            <input
-                                class="form-control-tw @error('password') is-invalid @enderror form-input"
-                                type="password" placeholder="{{__('Enter your password')}}" name="password" required autocomplete="current-password"
-                            />
+                            <input class="form-control-tw @error('password') is-invalid @enderror form-input" type="password" placeholder="{{__('Enter your password')}}" name="password" required autocomplete="current-password"/>
                             @error('password')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                         </label>
                         <div class="flex mt-6 text-sm">

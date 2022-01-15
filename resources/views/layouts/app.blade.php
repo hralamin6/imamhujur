@@ -84,9 +84,9 @@
 
     <div>
         <!-- fixed bottom right screen -->
-        <div class="fixed bottom-1/2 right-0 ...">
+        <div class="fixed bottom-0 left-0 m-2">
             <a href="{{\App\Models\Setup::first()->facebook}}">
-                <img class="w-6 h-6" src="https://icons-for-free.com/iconfiles/png/512/fb+icon+icon-1320194641178775596.png" alt="fb">
+                <img class="lg:w-12 lg:h-12 w-8 h-8" src="https://icons-for-free.com/iconfiles/png/512/fb+icon+icon-1320194641178775596.png" alt="fb">
             </a>
         </div>
         <!-- end fixed bottom right screen -->

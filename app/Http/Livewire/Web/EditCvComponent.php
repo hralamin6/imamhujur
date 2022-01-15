@@ -94,10 +94,10 @@ class EditCvComponent extends Component
             'hafizi'=> 'nullable',
         ],
         0=>[
-            'recitation'=>  'nullable|mimes:application/octet-stream,audio/mpeg,mpga,mp3,wav',
-            'image'=>  'nullable|image',
-            'hand_writing'=>  'nullable|image',
-            'certificate'=>  'nullable|image',
+            'recitation'=>  'nullable|mimes:application/octet-stream,audio/mpeg,mpga,mp3,wav|max:1024',
+            'image'=>  'nullable|image|max:512',
+            'hand_writing'=>  'nullable|image|max:512',
+            'certificate'=>  'nullable|image|max:512',
         ],
         8=>[
             'about'=> 'required',

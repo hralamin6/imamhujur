@@ -11,7 +11,7 @@ class PaymentComponent extends Component
 {
     use LivewireAlert;
 
-    public $phone, $trx_id, $amount, $quantity=1, $data=100;
+    public $phone, $trx_id, $amount=50, $data=50, $quantity=1;
 
     public function nagadPayment()
     {
@@ -37,6 +37,18 @@ class PaymentComponent extends Component
         $payment->save();
         $this->alert('success', 'Successfully requested, wait for confirmation or contact');
         $this->reset();
+    }
+
+    public function updatedQuantity($value)
+    {
+        if ($this->quantity==1){
+            $this->amount = $this->data;
+        }elseif ($this->quantity=2){
+            $this->amount = $this->data*2-$this->data*20/100*2;
+        }elseif ($this->quantity=3){
+            $this->amount = $this->data*3-$this->data*20/100*3;
+        }
+
     }
 
 //    public function updatedQuantity($value)
@@ -70,6 +82,7 @@ class PaymentComponent extends Component
     }
     public function render()
     {
-        return view('livewire.web.payment-component');
+        $payments = Payment::where('user_id', Auth::id())->orderBy('id', 'desc')->paginate(10);
+        return view('livewire.web.payment-component', compact('payments'));
     }
 }

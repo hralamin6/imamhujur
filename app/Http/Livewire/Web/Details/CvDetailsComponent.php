@@ -38,12 +38,12 @@ class CvDetailsComponent extends Component
     {
         if (Auth::check()){
             if (Auth::user()->type==='admin' | @auth()->user()->cv->slug==$this->cvId){
-                $cv = Cv::whereId($this->cvId)->firstOrFail();
+                $cv = Cv::with('division', 'district')->whereId($this->cvId)->firstOrFail();
             }else{
-                $cv = Cv::whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
+                $cv = Cv::with('division', 'district')->whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
             }
         }else{
-            $cv = Cv::whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
+            $cv = Cv::with('division', 'district')->whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
         }
         $setup = Setup::first();
         return view('livewire.web.details.cv-details-component', compact('cv', 'setup'));

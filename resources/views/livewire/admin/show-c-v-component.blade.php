@@ -63,7 +63,7 @@
                             >
                                 <img
                                     class="object-cover w-full h-full rounded-full"
-                                    src="https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&ixid=eyJhcHBfaWQiOjE3Nzg0fQ"
+                                    src="https://www.gravatar.com/avatar/{{md5($cv->email)}}?d=mp"
                                     alt=""
                                     loading="lazy"
                                 />
@@ -81,18 +81,18 @@
                         </div>
                     </td>
                     <td class="px-4 py-3 text-sm">
-                        <span class="uppercase px-2 py-1 font-semibold leading-tight {{$cv->type==='imam'?'text-blue-700 bg-green-100':'text-purple-700 bg-purple-100'}}  rounded-full ">{{$cv->type}}</span> </td>
+                        <span class="uppercase px-2 py-1 leading-tight {{$cv->type==='imam'?'text-blue-700 bg-green-100':'text-purple-700 bg-purple-100'}}  rounded-full ">{{$cv->type}}</span> </td>
                     <td class="px-4 py-3 text-sm">
-                        <span class="uppercase px-2 py-1 font-semibold leading-tight {{$cv->sex==='male'?'text-blue-700 bg-green-100':'text-purple-700 bg-purple-100'}}  rounded-full ">{{$cv->sex}}</span></td>
+                        <span class="uppercase px-2 py-1 leading-tight {{$cv->sex==='male'?'text-blue-700 bg-green-100':'text-purple-700 bg-purple-100'}}  rounded-full ">{{$cv->sex}}</span></td>
                     <td class="px-4 py-3 text-xs">
-                        <button class="uppercase px-2 py-1 font-semibold leading-tight {{$cv->request_status==='requested'?'text-green-700 bg-green-100':'text-red-700 bg-red-100'}}  rounded-full " wire:click.prevent="updateRequestStatus({{ $cv->id }})">{{$cv->request_status}}
+                        <button class="uppercase px-2 py-1 leading-tight {{$cv->request_status==='requested'?'text-green-700 bg-green-100':'text-red-700 bg-red-100'}}  rounded-full " wire:click.prevent="updateRequestStatus({{ $cv->id }})">{{$cv->request_status}}
                         <span wire:loading wire:target="updateRequestStatus({{ $cv->id }})" class="animate-spin rounded-full h-4 w-4 border-2 border-black"></span></button>
                     </td>
                     <td class="px-4 py-3 text-xs">
-                        <button class="uppercase px-2 py-1 font-semibold leading-tight {{$cv->status==='active'?'text-green-700 bg-green-100':'text-red-700 bg-red-100'}}  rounded-full " wire:click.prevent="updateStatus({{ $cv->id }})">{{ $cv->status }}
+                        <button class="uppercase px-2 py-1 leading-tight {{$cv->status==='active'?'text-green-700 bg-green-100':'text-red-700 bg-red-100'}}  rounded-full " wire:click.prevent="updateStatus({{ $cv->id }})">{{ $cv->status }}
                         <span wire:loading wire:target="updateStatus({{ $cv->id }})" class="animate-spin rounded-full h-4 w-4 border-2 border-black"></span></button>
                     </td>
-                    <td>{{\Carbon\Carbon::parse($cv->created_at)->diffForHumans()}}</td>
+                    <td class="px-4 py-3 text-xs">{{\Carbon\Carbon::parse($cv->created_at)->diffForHumans()}}</td>
 
                     <td class="px-4 py-3">
                         <div class="flex items-center space-x-4 text-sm">

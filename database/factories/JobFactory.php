@@ -46,7 +46,7 @@ class JobFactory extends Factory
             'email' => $this->faker->email(),
             'dob' =>now(),
             'type' => $type,
-            'sex' => $type==="teacher"?$sex:"male",
+            'sex' => $sex,
             'division_id' => $division,
             'district_id' => $district,
             'upazila_id' => $upazila,

@@ -52,7 +52,9 @@ class MessageComponent extends Component
         }
 
         $this->viewMessage($this->selectedConversation->id);
-        $this->reset('body');
+        $this->dispatchBrowserEvent('scrollHeight');
+
+        $this->reset('body', 'image');
     }
 
     public function deleteMessage(Message $message)
@@ -63,12 +65,12 @@ class MessageComponent extends Component
 
     public function render()
     {
-//        $last_message = $this->selectedConversation->messages->last();
-//        if ($this->selectedConversation!=null && $last_message->user_id!=Auth::id()){
-//            foreach ($this->selectedConversation->messages->where('status',0) as $message){
-//                $message->update(['status'=>1]);
-//            }
-//        }
+        $last_message = $this->selectedConversation->messages->last();
+        if ($this->selectedConversation!=null && $last_message->user_id!=Auth::id()){
+            foreach ($this->selectedConversation->messages->where('status',0) as $message){
+                $message->update(['status'=>1]);
+            }
+        }
         $conversations = Conversation::query()
             ->where('sender_id', auth()->id())
             ->orWhere('receiver_id', auth()->id())

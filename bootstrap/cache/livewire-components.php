@@ -2,6 +2,7 @@
   'admin-page-component' => 'App\\Http\\Livewire\\AdminPageComponent',
   'admin.setup-component' => 'App\\Http\\Livewire\\Admin\\SetupComponent',
   'admin.show-c-v-component' => 'App\\Http\\Livewire\\Admin\\ShowCVComponent',
+  'admin.show-job-component' => 'App\\Http\\Livewire\\Admin\\ShowJobComponent',
   'admin.show-payment-component' => 'App\\Http\\Livewire\\Admin\\ShowPaymentComponent',
   'blog.blog-component' => 'App\\Http\\Livewire\\Blog\\BlogComponent',
   'blog.single-post-component' => 'App\\Http\\Livewire\\Blog\\SinglePostComponent',
@@ -22,4 +23,5 @@
   'web.show.mosque-component' => 'App\\Http\\Livewire\\Web\\Show\\MosqueComponent',
   'web.show.teacher-component' => 'App\\Http\\Livewire\\Web\\Show\\TeacherComponent',
   'web.sidebar-component' => 'App\\Http\\Livewire\\Web\\SidebarComponent',
+  'web.unlocked-profile-component' => 'App\\Http\\Livewire\\Web\\UnlockedProfileComponent',
 );
