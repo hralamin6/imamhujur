@@ -24,46 +24,19 @@
         <!-- Search input -->
         {{--        <div class="container mx-auto px-4 py-1 flex items-center">--}}
         <div class="mr-auto">
-            <a class="" href="{{route('home')}}"><img class="w-24 h-12" src="{{\App\Models\Setup::first()->getFirstMediaUrl('logo')}}" onerror="{{asset('frontend/images/logo.svg')}}" alt="logo"></a>
+            <a class="" href="{{route('home')}}"><img class="h-10" src="{{$setup->getFirstMediaUrl('logo')}}" onerror="{{asset('frontend/images/logo.svg')}}" alt="logo"></a>
         </div>
-
-{{--        <div class="flex justify-center flex-1 lg:mr-32 hidden lg:flex">--}}
-{{--            <div--}}
-{{--                class="relative w-full max-w-xl mr-6 focus-within:text-purple-500"--}}
-{{--            >--}}
-{{--                <div class="absolute inset-y-0 flex items-center pl-2">--}}
-{{--                    <svg--}}
-{{--                        class="w-4 h-4"--}}
-{{--                        aria-hidden="true"--}}
-{{--                        fill="currentColor"--}}
-{{--                        viewBox="0 0 20 20"--}}
-{{--                    >--}}
-{{--                        <path--}}
-{{--                            fill-rule="evenodd"--}}
-{{--                            d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"--}}
-{{--                            clip-rule="evenodd"--}}
-{{--                        ></path>--}}
-{{--                    </svg>--}}
-{{--                </div>--}}
-{{--                <input--}}
-{{--                    class="w-full pl-8 pr-2 text-sm text-gray-700 placeholder-gray-600 bg-gray-100 border-0 rounded-md dark:placeholder-gray-500 dark:focus:shadow-outline-gray dark:focus:placeholder-gray-600 dark:bg-gray-700 dark:text-gray-200 focus:placeholder-gray-500 focus:bg-white focus:border-purple-300 focus:outline-none focus:shadow-outline-purple form-input"--}}
-{{--                    type="text"--}}
-{{--                    placeholder="Search for projects"--}}
-{{--                    aria-label="Search"--}}
-{{--                />--}}
-{{--            </div>--}}
-{{--        </div>--}}
         <ul class="flex items-center flex-shrink-0 space-x-6">
             <!-- Theme toggler -->
             <li class="flex">
                 <button  wire:click.prevent="ChangeLang">
-{{--                    {{session()->get('locale')=='en'?'BN':'EN'}}--}}
+                    {{--                    {{session()->get('locale')=='en'?'BN':'EN'}}--}}
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
                     </svg>
                 </button>
             </li>
-                <li class="flex">
+            <li class="flex">
                 <button
                     class="rounded-md focus:outline-none focus:shadow-outline-purple"
                     @click="toggleTheme"
@@ -84,11 +57,16 @@
             <!-- Notifications menu -->
             @auth()
                 <li class="flex">
-                    <a href="{{route('message')}}">
-                        10
+                    <a class="relative inline-block" href="{{route('message')}} ">
+
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                         </svg>
+                        @if(auth()->id()>1)
+                        @if($conversation->messages->last()->user_id!=auth()->id() & $conversation->messages()->whereStatus(0)->count()>0)
+                            <span class="absolute top-0 right-0 inline-flex items-center justify-center px-2 py-1 text-xs font-bold leading-none text-red-100 transform translate-x-1/2 -translate-y-1/2 bg-red-600 rounded-full">{{$conversation->messages()->whereStatus(0)->count()}}</span>
+                        @endif
+                        @endif
                     </a>
                 </li>
 

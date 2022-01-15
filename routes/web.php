@@ -9,6 +9,7 @@ use Spatie\Sitemap\Tags\Url;
 
 
 Route::middleware(['auth:sanctum', 'verified', 'admin'])->prefix('admin')->group(function () {
+    Route::get('/user',\App\Http\Livewire\Admin\UserComponent::class)->name('admin.user');
     Route::get('/setup',\App\Http\Livewire\Admin\SetupComponent::class)->name('admin.setup');
     Route::get('/show-cv',\App\Http\Livewire\Admin\ShowCVComponent::class)->name('admin.show.cv');
     Route::get('/show-job',\App\Http\Livewire\Admin\ShowJobComponent::class)->name('admin.show.job');
@@ -78,6 +79,3 @@ Route::get('/sitemap', function(){
 
 
 \PWA::routes();
-Route::get('/a', function () {
-    SitemapGenerator::create('http://127.0.0.1:8000')->writeToFile(public_path('sitemap.xml'));
-});

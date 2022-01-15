@@ -39,8 +39,8 @@ class CvFactory extends Factory
         $hsc = $this->faker->boolean();
         return [
             'user_id' => $this->faker->unique->randomElement(User::where('type', 'imam')->orWhere('type', 'teacher')->pluck('id', 'id')->toArray()),
-            'name' => $this->faker->name('male'),
-            'slug' => uniqid('cv-'),
+            'name' => $this->faker->name('male').' dummy',
+            'slug' => uniqid('bio-'),
             'phone' =>"017".rand(11111111, 99999999),
             'additional_phone' =>"017".rand(11111111, 99999999),
             'email' => $this->faker->email(),

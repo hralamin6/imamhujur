@@ -34,7 +34,7 @@ class ShowJobComponent extends Component
 //        $this->alert('success', 'Status successfully ' .$product->status.'d');
 //        $this->dispatchBrowserEvent('push');
 
-        Broadcast(new ProfileAcceptedEvent($product))->toOthers();
+//        Broadcast(new ProfileAcceptedEvent($product))->toOthers();
 
     }
     public function updateRequestStatus($id)
@@ -98,7 +98,7 @@ class ShowJobComponent extends Component
 
     public function getProductsProperty()
     {
-        return Job::where('name', 'like', '%'.$this->search.'%')->orderBy($this->orderBy, $this->serialize)->paginate($this->paginate);
+        return Job::where('slug', 'like', '%'.$this->search.'%')->orderBy($this->orderBy, $this->serialize)->paginate($this->paginate);
     }
 
     public function Function()

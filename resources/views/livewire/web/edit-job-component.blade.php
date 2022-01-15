@@ -52,6 +52,7 @@
             <label class="block mt-3">
                 <span class="text-gray-700 dark:text-gray-400">{{$type==='mosque'?__('Imams'):__('Teachers')}} {{__('Gender')}}</span>
                 <select wire:model.lazy="sex" class="form-control-tw @error('sex') is-invalid @enderror form-input" name="sex" id="">
+                    <option value="">{{__("Select Gender")}}</option>
                     <option value="male">{{__("Male")}}</option>
                     <option value="female">{{__("Female")}}</option>
                 </select>

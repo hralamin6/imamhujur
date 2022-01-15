@@ -35,7 +35,7 @@ use LivewireAlert;
 //        $this->alert('success', 'Status successfully ' .$product->status.'d');
 //        $this->dispatchBrowserEvent('push');
 
-        Broadcast(new ProfileAcceptedEvent($product))->toOthers();
+//        Broadcast(new ProfileAcceptedEvent($product))->toOthers();
 
     }
     public function updateRequestStatus($id)
@@ -99,7 +99,7 @@ use LivewireAlert;
 
     public function getProductsProperty()
     {
-        return Cv::where('name', 'like', '%'.$this->search.'%')->orderBy($this->orderBy, $this->serialize)->paginate($this->paginate);
+        return Cv::where('slug', 'like', '%'.$this->search.'%')->orderBy($this->orderBy, $this->serialize)->paginate($this->paginate);
     }
 
     public function Function()

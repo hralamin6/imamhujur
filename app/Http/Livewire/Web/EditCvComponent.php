@@ -214,6 +214,7 @@ class EditCvComponent extends Component
 
     public function mount($id=null)
     {
+
         if (Auth::user()->type=='admin'){
             if (!is_null($id)){
                 $cv = Cv::findorFail($id);
@@ -221,6 +222,7 @@ class EditCvComponent extends Component
         }else{
         $cv = Cv::whereUser_id(Auth::id())->firstOrFail();
         }
+
         $this->cv = $cv;
         $this->name = $cv->name;
         $this->type = $cv->type;

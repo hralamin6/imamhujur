@@ -38,7 +38,7 @@ class JobDetailsComponent extends Component
     {
         if (Auth::check()){
             if (Auth::user()->type==='admin' | @auth()->user()->job->slug==$this->jobId){
-                $job = Job::whereId($this->jobId)->firstOrFail();
+                $job = Job::whereSlug($this->jobId)->firstOrFail();
             }else{
                 $job =Job::whereSlugAndStatus($this->jobId, 'active')->firstOrFail();
             }

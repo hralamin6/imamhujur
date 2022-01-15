@@ -4,6 +4,7 @@
   'admin.show-c-v-component' => 'App\\Http\\Livewire\\Admin\\ShowCVComponent',
   'admin.show-job-component' => 'App\\Http\\Livewire\\Admin\\ShowJobComponent',
   'admin.show-payment-component' => 'App\\Http\\Livewire\\Admin\\ShowPaymentComponent',
+  'admin.user-component' => 'App\\Http\\Livewire\\Admin\\UserComponent',
   'blog.blog-component' => 'App\\Http\\Livewire\\Blog\\BlogComponent',
   'blog.single-post-component' => 'App\\Http\\Livewire\\Blog\\SinglePostComponent',
   'chat-room' => 'App\\Http\\Livewire\\ChatRoom',

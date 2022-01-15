@@ -16,6 +16,7 @@ class CvDetailsComponent extends Component
     public $unlocked;
     public function mount($id)
     {
+
         $this->cvId = $id;
     }
     public function unlockCv(Cv $cv)
@@ -36,9 +37,10 @@ class CvDetailsComponent extends Component
     }
     public function render()
     {
+
         if (Auth::check()){
             if (Auth::user()->type==='admin' | @auth()->user()->cv->slug==$this->cvId){
-                $cv = Cv::with('division', 'district')->whereId($this->cvId)->firstOrFail();
+                $cv = Cv::with('division', 'district')->whereSlug($this->cvId)->firstOrFail();
             }else{
                 $cv = Cv::with('division', 'district')->whereSlugAndStatus($this->cvId, 'active')->firstOrFail();
             }

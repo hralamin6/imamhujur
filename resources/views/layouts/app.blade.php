@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <meta name="turbolinks-cache-control" content="no-cache">
-    <meta name="turbolinks-cache-control" content="no-preview">
+{{--    <meta name="turbolinks-cache-control" content="no-cache">--}}
+{{--    <meta name="turbolinks-cache-control" content="no-preview">--}}
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
 {{--    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>--}}
@@ -25,18 +25,18 @@
     <meta property="og:title" content="@yield('title', 'Home Page') - {{config('app.name')}}" />
     <meta property="og:description" content="@yield('description', 'This is site Description') - {{config('app.name')}}" />
     <meta property="og:url" content="@yield('url', config('app.url'))" />
-    <meta property="og:image" content="@yield('image', $setup->logo)" />
-    <meta property="og:image:secure_url" content="@yield('image', $setup->logo)" />
+    <meta property="og:image" content="@yield('image', $setup->getFirstMediaUrl('logo'))" />
+    <meta property="og:image:secure_url" content="@yield('image', $setup->getFirstMediaUrl('logo'))" />
     <meta property="og:site_name" content="{{config('app.name')}}" />
     <meta property="og:image:width" content="1536" />
     <meta property="og:image:height" content="1024" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="@yield('description', 'This is site Description') - {{config('app.name')}}" />
     <meta name="twitter:title" content="@yield('title', 'Home Page') - {{config('app.name')}}" />
-    <meta name="twitter:image" content="@yield('image', $setup->logo)" />
+    <meta name="twitter:image" content="@yield('image', $setup->getFirstMediaUrl('logo'))" />
 
-    <link rel="shortcut icon" href="{{$setup->logo}}" type="image/x-icon">
-    <link rel="icon" href="{{$setup->logo}}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{$setup->getFirstMediaUrl('logo')}}" type="image/x-icon">
+    <link rel="icon" href="{{$setup->getFirstMediaUrl('logo')}}" type="image/x-icon">
 
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
@@ -50,10 +50,6 @@
     @stack('css')
     @livewireStyles
     <script src="{{ asset('js/app.js') }}" data-turbolinks-track="reload" defer></script>
-    {{--    <script--}}
-    {{--        src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"--}}
-    {{--        defer--}}
-    {{--    ></script>--}}
     <script src="{{asset('assets/js/init-alpine.js')}}"></script>
     @PWA
     {{ pwa_meta() }}

@@ -17,7 +17,7 @@
                             <div class="text-xs text-gray-500">{{ \Illuminate\Support\Str::limit(@$conversation->messages->last()->body, 25) }}</div>
                         </div>
                         @if($conversation->messages->last()->user_id!=auth()->id())
-                            <span class="mx-auto text-red-700">{{$conversation->messages()->whereStatus(0)->count()}}</span>
+                            <span class="mx-auto text-red-700">{{$conversation->messages()->whereStatus(0)->count()>0?$conversation->messages()->whereStatus(0)->count():''}}</span>
                         @endif
                         <div class="text-gray-600 ml-auto">
                             @if(Cache::has('is_online' . $conversation->receiver->id))
@@ -59,7 +59,7 @@
                                 <div class="text-xs text-gray-500">{{ \Illuminate\Support\Str::limit(@$conversation->messages->last()->body, 25) }}</div>
                             </div>
                             @if($conversation->messages->last()->user_id!=auth()->id())
-                                <span class="mx-auto text-red-700">{{$conversation->messages()->whereStatus(0)->count()}}</span>
+                                <span class="mx-auto text-red-700">{{$conversation->messages()->whereStatus(0)->count()>0?$conversation->messages()->whereStatus(0)->count():''}}</span>
                             @endif
                             <div class="text-gray-600 ml-auto">
                                 @if(Cache::has('is_online' . $conversation->sender->id))
@@ -138,7 +138,7 @@
 
         <!-- Component Start -->
         <div class="flex flex-col flex-grow w-full max-w-xl bg-white shadow-xl rounded-lg">
-            <div class="flex flex-col flex-grow h-0 p-4 overflow-y-auto overflow-x-hidden" id="messagess">
+            <div class="flex flex-col flex-grow h-0 p-4 overflow-y-auto overflow-x-hidden" id="messagess" wire:poll.5555ms>
                 @foreach ($selectedConversation->messages as $message)
                     @if($message->user_id != auth()->id())
                         <div class="flex w-10/12 mt-2 space-x-3 max-w-xs">
@@ -183,52 +183,51 @@
 
                     @endif
             </div>
-        </div>
-
-                <form action="" wire:submit.prevent="addMessage">
-                    <div class="flex items-center border-t p-2">
-                        <label class="block mt-3">
-                            <div class="list-inline flex justify-between"  x-data="{ isUploading: false, progress: 0 }" x-on:livewire-upload-start="isUploading = true" x-on:livewire-upload-finish="isUploading = false" x-on:livewire-upload-error="isUploading = false" x-on:livewire-upload-progress="progress = $event.detail.progress">
-                                <label class="cursor-pointer flex justify-content-start gap-2">
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
-                                    </svg>
-                                    <input type="file" class="hidden" wire:model.lazy="image">
-                                </label>
-                                <div class="col-md-4 list-inline-item" x-show="isUploading">
-                                    <progress max="100" x-bind:value="progress"></progress>
-                                </div>
-                            </div>
-                        </label>
-                        @error('image')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
-                        <div class="w-full mx-2 @error('body') is-invalid @enderror">
-                            <input hidden type="file" id="file">
-                            <input wire:model.lazy="body" class="w-full rounded-full border border-gray-200" type="text" value="" placeholder="Type your message…" autofocus />
-                        </div>
-                            <div>
-                            <button class="inline-flex hover:bg-indigo-50 rounded-full p-2" type="submit">
+            <form action="" wire:submit.prevent="addMessage">
+                <div class="flex items-center border-t p-2">
+                    <label class="block mt-3">
+                        <div class="list-inline flex justify-between"  x-data="{ isUploading: false, progress: 0 }" x-on:livewire-upload-start="isUploading = true" x-on:livewire-upload-finish="isUploading = false" x-on:livewire-upload-error="isUploading = false" x-on:livewire-upload-progress="progress = $event.detail.progress">
+                            <label class="cursor-pointer flex justify-content-start gap-2">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                          d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
                                 </svg>
-                            </button>
+                                <input type="file" class="hidden" wire:model.lazy="image">
+                            </label>
+                            <div class="col-md-4 list-inline-item" x-show="isUploading">
+                                <progress max="100" x-bind:value="progress"></progress>
+                            </div>
                         </div>
+                    </label>
+                    @error('image')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
+                    <div class="w-full mx-2 @error('body') is-invalid @enderror">
+                        <input hidden type="file" id="file">
+                        <input wire:model.lazy="body" class="w-full rounded-full border border-gray-200" type="text" value="" placeholder="Type your message…" autofocus />
                     </div>
-                    <span class="px-12">@error('body')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror</span>
-                </form>
+                    <div>
+                        <button class="inline-flex hover:bg-indigo-50 rounded-full p-2" type="submit">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                      d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <span class="px-12">@error('body')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror</span>
+            </form>
+        </div>
 
     </div>
 
 
+    <script>
+        const el = document.getElementById('messagess');
+        el.scrollTop = el.scrollHeight
+    </script>
 
 
 </div>
 
 @push('js')
-    <script>
-        const el = document.getElementById('messagess');
-        el.scrollTop = el.scrollHeight
-    </script>
     <script>
         window.addEventListener('scrollHeight', event => {
             const el = document.getElementById('messagess');

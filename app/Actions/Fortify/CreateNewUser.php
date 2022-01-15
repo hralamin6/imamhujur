@@ -41,7 +41,7 @@ class CreateNewUser implements CreatesNewUsers
         if($input['type']=='imam' | $input['type']=='teacher'){
              Cv::create([
                 'user_id'=> $user->id,
-                'slug'=> uniqid('cv-'),
+                'slug'=> uniqid('bio-'),
                 'email'=> $input['email'],
                 'name'=> $input['name'],
                 'type'=> $input['type'],
@@ -59,7 +59,7 @@ class CreateNewUser implements CreatesNewUsers
                  'user_id'=> $user->id,
                  'slug'=> uniqid('job-'),
                  'email'=> $input['email'],
-                 'name'=> $input['name'],
+//                 'name'=> $input['name'],
                  'type'=> $input['type'],
             ]);
             $conversation = Conversation::create([

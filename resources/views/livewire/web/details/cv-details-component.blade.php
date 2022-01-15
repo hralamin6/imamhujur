@@ -1,12 +1,19 @@
-@section('subtitle', __("Biodata Details"))
+@section('title', $cv->name)
+@section('description', $cv->about)
+@if($cv->type==='imam')
+    @section('image', $setup->getFirstMediaUrl('imam'))
+@else
+    @section('image', $setup->getFirstMediaUrl('teacher'))
+@endif
+@section('url', config('app.url').'/biodata/'.$cv->slug)
 
 <main class="py-12 bg-gray-100 dark:bg-gray-900 min-h-screen">
     <div class="container mx-auto px-4 flex flex-wrap lg:flex-nowrap">
         <div class="md:w-8/12 w-full md:mx-6">
             <div class="bg-indigo-700 text-white p-4 shadow-md rounded-md mb-4">
-                <img src="https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg" alt="" class="h-20 w-full object-cover content-center rounded-t-lg">
+                <img src="{{$setup->getFirstMediaUrl('cover')}}" onerror="this.src='https://i.ytimg.com/vi/mtXQ-m2xPEY/maxresdefault.jpg'" alt="cover" class="h-20 w-full object-cover content-center rounded-t-lg">
                 <div class="flex justify-center">
-                    <img src="https://img.freepik.com/free-photo/handsome-confident-smiling-man-witd-hands-crossed-chest_176420-18743.jpg?size=626&amp;ext=jpg" alt="" class="w-20 h-20 rounded-full object-cover content-center -mt-10 border-4 border-white dark:border-gray-600">
+                    <img class="w-20 h-20 rounded-full object-cover content-center -mt-10 border-4 border-white dark:border-gray-600" src="{{$setup->getFirstMediaUrl('imam')}}" onerror="this.src='https://img.freepik.com/free-photo/handsome-confident-smiling-man-witd-hands-crossed-chest_176420-18743.jpg?size=626&amp;ext=jpg'" alt="imam">
                 </div>
                 <table class="w-full border-t border-b border-gray-300 justify-start text-sm mt-6   ">
                     <tbody>
@@ -432,11 +439,20 @@
 
 
             </div>
+            <div class="flex justify-between gap-5 mb-3">
+                <a href="https://www.facebook.com/sharer.php?u={{config('app.url').'/biodata/'.$cv->slug}}&t={{$cv->name}}" target="_blank" class="w-36">
+                    <img src="https://giveeasy.zendesk.com/hc/article_attachments/360029896734/mceclip2.png" alt="">
+                </a>
+                <a href="http://twitter.com/share?text={{$cv->name}}&url={{config('app.url').'/biodata/'.$cv->slug}}" target="_blank" class="w-36">
+                    <img src="https://images.squarespace-cdn.com/content/v1/563e2841e4b09a6ae020bd67/1526818589152-JWCARBDQTDQ3SG4KESOE/twittershare.png" alt="">
+                </a>
+            </div>
 
         </div>
 
     </div>
-    @auth()
+
+@auth()
         <div class="mx-auto w-8/12">
 
             @if(auth()->user()->type!=='admin')
@@ -485,5 +501,4 @@
             </div>
         </div>
     @endauth
-
 </main>

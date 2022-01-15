@@ -19,22 +19,11 @@ class ImamComponent extends Component
 
     public function updatedDivisionId($id){
         $this->reset('districts', 'district_id', 'nameOrId', 'marital_status', 'hafiz');
-//        $this->districts = null;
-//        $this->upazilas = null;
-//        $this->unions = null;
         $this->districts = District::where('division_id', $id)->get();
     }
     public function updateddistrictid($id){
         $this->reset('nameOrId', 'marital_status', 'hafiz');
-
-//        $this->upazilas = null;
-//        $this->unions = null;
-//        $this->upazilas = Upazila::where('district_id', $id)->get();
     }
-//    public function updatedUpazilaId($id){
-//    $this->unions = null;
-//    $this->unions = Union::where('upazila_id', $id)->get();
-//}
     public function render()
     {
         $imams = Cv::where('type', 'imam')->where('status', 'active')->
@@ -43,7 +32,7 @@ class ImamComponent extends Component
         })->when($this->marital_status, function($query) {
             return $query->where('marital_status', $this->marital_status);
         })->when($this->nameOrId, function($query) {
-            return $query->where('name', 'like', '%'.$this->nameOrId.'%')->orWhere('id', 'like', '%'.$this->nameOrId.'%');
+            return $query->where('name', 'like', '%'.$this->nameOrId.'%')->orWhere('slug', 'like', '%'.$this->nameOrId.'%');
         })->when($this->division_id, function($query) {
             return $query->where('division_id',$this->division_id);
         })->when($this->district_id, function($query) {

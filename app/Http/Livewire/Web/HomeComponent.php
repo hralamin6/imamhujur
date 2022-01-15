@@ -31,6 +31,6 @@ class HomeComponent extends Component
                     $mosques = Job::with('division', 'district')->where('type', 'mosque')->where('status', 'active')->select('id', 'name', 'type', 'slug', 'sex', 'division_id', 'district_id', 'marital_status', 'hafiz', 'hsc', 'education_medium', 'daorah', 'monthly_hadia' )->latest()->limit(3)->get();
                     $madrasas = Job::with('division', 'district')->where('type', 'madrasa')->where('status', 'active')->select('id', 'name', 'type', 'slug', 'sex', 'division_id', 'district_id', 'marital_status', 'hafiz', 'hsc', 'education_medium', 'daorah', 'monthly_hadia' )->latest()->limit(3)->get();
                 $setup = Setup::first();
-                return view('livewire.web.home-component', compact('setup', 'imams', 'teachers', 'mosques', 'madrasas'));
+                return view('livewire.web.home-component', compact('setup', 'imams', 'teachers', 'mosques', 'madrasas', 'imam_count', 'teacher_count', 'mosque_count', 'madrasa_count'));
     }
 }

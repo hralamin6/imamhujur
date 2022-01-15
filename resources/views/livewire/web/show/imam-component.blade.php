@@ -1,9 +1,11 @@
-@section('title', __('Find Imam'))
+@section('title', __('Biodata of all imam'))
+@section('description', __('Easily find your preferred one from all imam'))
+@section('image', $setup->getFirstMediaUrl('imam'))
+@section('url', config('app.url').'/imam')
 <div>
     <div class="container px-6 mx-auto grid mt-4">
         <div class="grid gap-2 mb-0 grid-cols-2 md:grid-cols-2 xl:grid-cols-4">
             <label class="block">
-{{--                <span class="text-gray-700 dark:text-gray-400">{{__("Where is your division?")}}</span>--}}
                 <select class="form-control-tw @error('division_id') is-invalid @enderror form-input" name="" wire:model.lazy="division_id" id="">
                     <option value="">{{__("Select division")}}</option>
                     @foreach ($divisions as $item)
@@ -13,7 +15,6 @@
             </label>
 
             <label class="block">
-{{--                <span class="text-gray-700 dark:text-gray-400">{{__("Where is your district?")}}</span>--}}
                 <select class="form-control-tw @error('district_id') is-invalid @enderror form-input" name="" wire:model.lazy="district_id" id="">
                     <option value="">{{__("Select district")}}</option>
                     @if ($districts)
@@ -24,7 +25,6 @@
                 </select>
             </label>
             <label class="block">
-{{--                <span class="text-gray-700 dark:text-gray-400">{{__("Search by name or id")}}</span>--}}
                 <input type="text" wire:model.debounce.1000ms="nameOrId" class="form-control-tw @error('nameOrId') is-invalid @enderror form-input" placeholder="{{__("Search by name or id")}}">
             </label>
             <div class="flex justify-between">
@@ -41,6 +41,8 @@
 
     </div>
     <div>
+        <h1 class="dark:text-white text-indigo-800 font-semibold m-2 text-center">{{__('Biodata of all Imam')}}</h1>
+
         <div class="grid lg:grid-cols-3 grid-cols-1 items-center gap-3 mx-2">
             @forelse($imams as $imam)
                 <div class="border-2 border-purple-600 rounded-md shadow-md m-3">
@@ -98,7 +100,7 @@
                 <h2 class="text-danger text-center">No data found</h2>
             @endforelse
         </div>
-        <div class="flex justify-center">
+        <div class="flex justify-center my-6">
             {{$imams->links()}}
         </div>
 

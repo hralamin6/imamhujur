@@ -40,7 +40,7 @@ class MessageComponent extends Component
     {
         $this->validate([
             'body'=>'required|max:999',
-            'image'=>'nullable|image'
+            'image'=>'nullable|image|max:555'
         ]);
        $message = $this->selectedConversation->messages()->create([
             'user_id'=>auth()->id(),
