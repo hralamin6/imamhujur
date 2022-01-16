@@ -166,11 +166,11 @@
                             </a>
                         </li>
                         <li class="relative px-6 py-3">
-                            @if(Route::is('show.cv', auth()->user()->cv->id))
+                            @if(Route::is('show.cv', auth()->user()->cv))
                                 <span class="absolute inset-y-0 left-0 w-1 bg-purple-600 rounded-tr-lg rounded-br-lg" aria-hidden="true"></span>
                             @endif
-                            <a class="{{Route::is('show.cv', auth()->user()->cv->id)?'text-purple-600':''}} inline-flex items-center w-full text-sm font-semibold transition-colors duration-150 hover:text-purple-800 dark:hover:text-gray-200"
-                               href="{{route('show.cv', auth()->user()->cv->id)}}">
+                            <a class="{{Route::is('show.cv', auth()->user()->cv)?'text-purple-600':''}} inline-flex items-center w-full text-sm font-semibold transition-colors duration-150 hover:text-purple-800 dark:hover:text-gray-200"
+                               href="{{route('show.cv', auth()->user()->cv)}}">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
@@ -194,11 +194,11 @@
                             </a>
                         </li>
                         <li class="relative px-6 py-3">
-                            @if(Route::is('show.job', auth()->user()->job->id))
+                            @if(Route::is('show.job', auth()->user()->job))
                                 <span class="absolute inset-y-0 left-0 w-1 bg-purple-600 rounded-tr-lg rounded-br-lg" aria-hidden="true"></span>
                             @endif
-                            <a class="{{Route::is('show.job', auth()->user()->job->id)?'text-purple-600':''}} inline-flex items-center w-full text-sm font-semibold transition-colors duration-150 hover:text-purple-800 dark:hover:text-gray-200"
-                               href="{{route('show.job', auth()->user()->job->id)}}">
+                            <a class="{{Route::is('show.job', auth()->user()->job)?'text-purple-600':''}} inline-flex items-center w-full text-sm font-semibold transition-colors duration-150 hover:text-purple-800 dark:hover:text-gray-200"
+                               href="{{route('show.job', auth()->user()->job)}}">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />

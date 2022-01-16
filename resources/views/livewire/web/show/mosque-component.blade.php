@@ -1,7 +1,7 @@
 @section('title', __('Biodata of all mosque'))
 @section('description', __('Easily find your preferred one from all mosque'))
 @section('image', $setup->getFirstMediaUrl('mosque'))
-@section('url', config('app.url').'/mosque)
+@section('url', config('app.url').'/mosque')
 <div>
     <div class="container px-6 mx-auto grid mt-4">
         <div class="grid gap-2 mb-0 grid-cols-2 md:grid-cols-2 xl:grid-cols-4">

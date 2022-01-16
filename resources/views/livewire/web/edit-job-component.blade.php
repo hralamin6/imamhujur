@@ -41,6 +41,9 @@
     {{--        </div>--}}
     {{--    </div>--}}
 
+    @if($cv->status==='pending')
+        <h1 class="dark:text-white text-pink-700 font-semibold mb-2 text-center">{{__('Your Profile has not been approved yet, This page is visible to only you. To approve this page you must complete the profile.')}}</h1>
+    @endif
 
     <div class="mx-3 px-4 py-3 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 grid lg:grid-cols-2 grid-cols-1 lg:gap-3">
         @if ($currentPage==1)

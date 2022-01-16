@@ -27,6 +27,7 @@ class DatabaseSeeder extends Seeder
             'username' => implode('@', explode('@',"imamhujur0@gmail.com", -1)),
             'type'=> 'admin',
             'phone'=> '01650286494',
+            'email_verified_at' => now(),
             'profile_photo_path' => 'https://via.placeholder.com/640x480.png/00ddff?text=Admin',
             'password'=>Hash::make('000000')
         ]);

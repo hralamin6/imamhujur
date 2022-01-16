@@ -7,7 +7,11 @@
 @endif
 @section('url', config('app.url').'/biodata/'.$cv->slug)
 
-<main class="py-12 bg-gray-100 dark:bg-gray-900 min-h-screen">
+<main class="py-4 bg-gray-100 dark:bg-gray-900 min-h-screen">
+    @if($cv->status==='inactive')
+        <h1 class="dark:text-white text-pink-700 font-semibold mb-2 text-center">{{__('Your Profile has not been approved yet, This page is visible to only you. To approve this page you must complete the profile.')}}</h1>
+    @endif
+
     <div class="container mx-auto px-4 flex flex-wrap lg:flex-nowrap">
         <div class="md:w-8/12 w-full md:mx-6">
             <div class="bg-indigo-700 text-white p-4 shadow-md rounded-md mb-4">

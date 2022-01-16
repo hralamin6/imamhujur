@@ -1,14 +1,14 @@
-@section('subtitle', 'verify email')
+@section('title', 'verify email')
 <x-guest-layout>
-    <main class="browse-section">
+    <main class="browse-section mx-auto w-8/12 bg-white p-4 border border-blue-500 shadow-xl my-6">
         <div class="container">
             <div class="row justify-content-md-center">
                 <div class="col-md-6">
                     <div class="lg_form">
                         <div class="main-heading">
-                            <h2>Verify email address</h2>
+                            <h2>{{ __('Verify email address') }}</h2>
                             <div class="line-shape1">
-                                <img src="{{ asset('frontend') }}/images/line.svg" alt="">
+                                <img src="{{\App\Models\Setup::first()->getFirstMediaUrl('logo')}}" alt="">
                             </div>
                         </div>
 

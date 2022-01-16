@@ -42,21 +42,22 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
 
 
-    <link href="{{ asset('/css/app.css') }}" rel="stylesheet" type="text/css" data-turbolinks-track="reload">
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
     <style>
+        [x-cloak] { display: none !important; }
         .contain{width:100%}@media (min-width:640px){.container{max-width:640px}}@media (min-width:768px){.container{max-width:768px}}@media (min-width:1024px){.container{max-width:1024px}}@media (min-width:1280px){.container{max-width:1280px}}
     </style>
 
     @stack('css')
     @livewireStyles
-    <script src="{{ asset('js/app.js') }}" data-turbolinks-track="reload" defer></script>
+    <script src="{{ asset('js/app.js') }}" defer></script>
     <script src="{{asset('assets/js/init-alpine.js')}}"></script>
     @PWA
     {{ pwa_meta() }}
 
 
 </head>
-<body class="font-serif">
+<body class="font-serif" x-cloak>
 <div
     class="flex h-screen bg-gray-50 dark:bg-gray-900"
     :class="{ 'overflow-hidden': isSideMenuOpen }"

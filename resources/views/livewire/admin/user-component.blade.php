@@ -45,7 +45,7 @@
                     <th class="px-4 py-3">Slug</th>
                     <th class="px-4 py-3">Quantity</th>
                     <th class="px-4 py-3">Last_seen</th>
-                    <th class="px-4 py-3">Created_at</th>
+                    <th class="px-4 py-3">Verified_at</th>
                     <th class="px-4 py-3">Actions</th>
                 </tr>
                 </thead>
@@ -75,10 +75,11 @@
                                 </div>
                             </div>
                         </td>
+                        <td>{{$user->type}}</td>
                         <td>@if($user->type==='imam' || $user->type==='teacher') {{$user->cv->slug}} @else {{$user->job->slug}} @endif</td>
                         <td>{{$user->quantity}}</td>
                         <td>{{\Carbon\Carbon::parse($user->last_seen)->diffForHumans()}}</td>
-                        <td>{{$user->created_at}}</td>
+                        <td>{{$user->email_verified_at}}</td>
                         <td class="px-4 py-3">
                             <div class="flex items-center space-x-4 text-sm">
                                 <a wire:click.prevent="confirmDeletion({{ $user->id }})"

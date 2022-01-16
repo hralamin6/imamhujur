@@ -44,6 +44,9 @@
     {{--            <h1 tabindex="0" class="focus:outline-none text-xl font-medium pr-2 leading-5 text-gray-800">{{ $pages[$currentPage]['heading'] }}</h1>--}}
     {{--        </div>--}}
     {{--    </div>--}}
+    @if($cv->status==='pending')
+        <h1 class="dark:text-white text-pink-700 font-semibold mb-2 text-center">{{__('Your Profile has not been approved yet, This page is visible to only you. To approve this page you must complete the profile.')}}</h1>
+    @endif
 
 
     <div class="mx-3 px-4 py-3 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 grid lg:grid-cols-2 grid-cols-1 lg:gap-3">
@@ -56,6 +59,7 @@
             <label class="block mt-3">
                 <span class="text-gray-700 dark:text-gray-400">{{__('Your gender')}}</span>
                 <select wire:model.lazy="sex" class="form-control-tw @error('sex') is-invalid @enderror form-input" name="sex" id="">
+                    <option value="">{{__("Select Gender")}}</option>
                     <option value="male">{{__("Male")}}</option>
                     <option value="female">{{__("Female")}}</option>
                 </select>
@@ -445,7 +449,7 @@
                 <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
             </button>
         @else
-            <button wire:click.prevent="previousPage" type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
+            <button wire:click.prevent="previousPage" type="button" class="btn btn-primary">{{__("Back")}}
                 <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
             </button>
         @endif
