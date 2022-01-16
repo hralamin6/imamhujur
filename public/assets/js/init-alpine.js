@@ -6,10 +6,10 @@ function data() {
     }
 
     // else return their preferences
-    return (
-      !!window.matchMedia &&
-      window.matchMedia('(prefers-color-scheme: dark)').matches
-    )
+    // return (
+    //   !!window.matchMedia &&
+    //   window.matchMedia('(prefers-color-scheme: dark)').matches
+    // )
   }
 
   function setThemeToLocalStorage(value) {
