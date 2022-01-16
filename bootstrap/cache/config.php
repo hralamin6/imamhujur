@@ -938,15 +938,6 @@
         0 => 'C:\\xampp\\htdocs\\imamhujur\\resources\\views/vendor/mail',
       ),
     ),
-    'stream' => 
-    array (
-      'ssl' => 
-      array (
-        'allow_self_signed' => true,
-        'verify_peer' => false,
-        'verify_peer_name' => false,
-      ),
-    ),
   ),
   'media-library' => 
   array (
