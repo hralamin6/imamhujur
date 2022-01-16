@@ -100,7 +100,7 @@
                                     <tbody class="bg-white divide-y-2 dark:divide-gray-700 dark:bg-gray-800">
                                     <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
                                         <td>{{__('What should be education medium?')}}</td>
-                                        <td>{{@$cv->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
+                                        <td>{{@$imam->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
                                     </tr>
                                     @if($imam->education_medium==="qaumia")
                                         <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
@@ -161,7 +161,7 @@
                                     <tbody class="bg-white divide-y-2 dark:divide-gray-700 dark:bg-gray-800">
                                     <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
                                         <td>{{__('What should be education medium?')}}</td>
-                                        <td>{{@$cv->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
+                                        <td>{{@$teacher->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
                                     </tr>
                                     @if($teacher->education_medium==="qaumia")
                                         <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
@@ -221,7 +221,7 @@
                                     <tbody class="bg-white divide-y-2 dark:divide-gray-700 dark:bg-gray-800">
                                     <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
                                         <td>{{__('What should be education medium?')}}</td>
-                                        <td>{{@$cv->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
+                                        <td>{{@$mosque->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
                                     </tr>
                                     @if($mosque->education_medium==="qaumia")
                                         <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
@@ -281,7 +281,7 @@
                                     <tbody class="bg-white divide-y-2 dark:divide-gray-700 dark:bg-gray-800">
                                     <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
                                         <td>{{__('What should be education medium?')}}</td>
-                                        <td>{{@$cv->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
+                                        <td>{{@$madrasa->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
                                     </tr>
                                     @if($madrasa->education_medium==="qaumia")
                                         <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">

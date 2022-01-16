@@ -313,17 +313,17 @@
             @if ($type=='teacher')
                 <label class="block mt-3">
                     <span class="text-gray-700 dark:text-gray-400">{{__("Are you able to teach Kitab section?")}}</span>
-                    <input type="text" wire:model.lazy="kitab" class="form-control-tw @error('kitab') is-invalid @enderror form-input" placeholder="{{__("Do you must need a kitab?")}}">
+                    <input type="text" wire:model.lazy="kitab" class="form-control-tw @error('kitab') is-invalid @enderror form-input" placeholder="{{__("Are you able to teach Kitab section?")}}">
                     @error('kitab')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                 </label>
                 <label class="block mt-3">
-                    <span class="text-gray-700 dark:text-gray-400">{{__("Are you able to teach Nurani section??")}}</span>
-                    <input type="text" wire:model.lazy="nurani" class="form-control-tw @error('nurani') is-invalid @enderror form-input" placeholder="{{__("Do you must want to be nurani?")}}">
+                    <span class="text-gray-700 dark:text-gray-400">{{__("Are you able to teach Nurani section?")}}</span>
+                    <input type="text" wire:model.lazy="nurani" class="form-control-tw @error('nurani') is-invalid @enderror form-input" placeholder="{{__("Are you able to teach Nurani section?")}}">
                     @error('nurani')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                 </label>
                 <label class="block mt-3">
                     <span class="text-gray-700 dark:text-gray-400">{{__("Are you able to teach Hafizi section?")}}</span>
-                    <input type="text" wire:model.lazy="hafizi" class="form-control-tw @error('hafizi') is-invalid @enderror form-input" placeholder="{{__("Do you must need a hafizi?")}}">
+                    <input type="text" wire:model.lazy="hafizi" class="form-control-tw @error('hafizi') is-invalid @enderror form-input" placeholder="{{__("Are you able to teach Hafizi section?")}}">
                     @error('hafizi')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
                 </label>
             @endif
@@ -444,23 +444,21 @@
         @endif
     </div>
     <div class="flex justify-between mx-6 mb-3">
-        @if ($currentPage==1)
-            <button type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
-                <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
-            </button>
+        @if ($currentPage===1)
+{{--            <button type="button" class="btn btn-primary">{{__("Back")}}</button>--}}
         @else
             <button wire:click.prevent="previousPage" type="button" class="btn btn-primary">{{__("Back")}}
-                <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
+                <span  wire:target="previousPage" wire:loading class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
             </button>
         @endif
         @if ($currentPage===count($pages))
             <button wire:click.prevent="confirmation" type="button" class="btn btn-primary float-right">
                 {{__("Submit")}}
-                <span wire:loading wire:target="confirmation" class="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
+                <span wire:loading wire:target="confirmation" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
             </button>
         @else
             <button wire:click.prevent="nextPage" type="button" class="btn btn-primary ml-auto">{{ __('Next')}}
-                <span wire:loading wire:target="nextPage" class="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
+                <span wire:loading wire:target="nextPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
             </button>
         @endif
     </div>

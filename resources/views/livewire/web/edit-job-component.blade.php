@@ -41,7 +41,7 @@
     {{--        </div>--}}
     {{--    </div>--}}
 
-    @if($cv->status==='pending')
+    @if($job->status==='pending')
         <h1 class="dark:text-white text-pink-700 font-semibold mb-2 text-center">{{__('Your Profile has not been approved yet, This page is visible to only you. To approve this page you must complete the profile.')}}</h1>
     @endif
 
@@ -345,13 +345,11 @@
         @endif
     </div>
     <div class="flex justify-between mx-6 mb-3">
-        @if ($currentPage==1)
-            <button type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
-                <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
-            </button>
-            @else
-            <button wire:click.prevent="previousPage" type="button" class="btn btn-primary @if ($currentPage==1) opacity-50 cursor-not-allowed @endif">{{__("Back")}}
-                <span wire:loading wire:target="previousPage" class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
+        @if ($currentPage===1)
+            {{--            <button type="button" class="btn btn-primary">{{__("Back")}}</button>--}}
+        @else
+            <button wire:click.prevent="previousPage" type="button" class="btn btn-primary">{{__("Back")}}
+                <span  wire:target="previousPage" wire:loading class="ml-2 animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
             </button>
         @endif
         @if ($currentPage===count($pages))

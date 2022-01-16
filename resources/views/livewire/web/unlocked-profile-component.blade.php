@@ -22,30 +22,29 @@
                             <table class="w-full whitespace-no-wrap">
                                 <tbody class="bg-white divide-y-2 dark:divide-gray-700 dark:bg-gray-800">
                                 <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
-                                    <td>{{__('Medium')}}</td>
-                                    <td>{{@$cv->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
+                                    <td>{{__('What should be education medium?')}}</td>
+                                    <td>{{@$imam->education_medium=='qaumia'?__("Qaumia"):__("General")}}</td>
                                 </tr>
                                 @if($imam->education_medium==="qaumia")
                                     <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
-                                        <td>{{__("Have you finished daorah?")}}</td>
+                                        <td>{{__("Is daorah pass required?")}}</td>
                                         <td>{{$imam->daorah==true?__("Yes"):__("No")}}</td>
                                     </tr>
                                 @else
                                     <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
-                                        <td>{{__("Have you finished hsc?")}}</td>
+                                        <td>{{__("Is hsc pass required?")}}</td>
                                         <td>{{$imam->hsc==true?__("Yes"):__("No")}}</td>
                                     </tr>
                                 @endif
                                 <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
-                                    <td>{{__("Are you hafiz?")}}</td>
+                                    <td>{{__("Must be a hafiz?")}}</td>
                                     <td>{{$imam->hafiz==true?__("Yes"):__("No")}}</td>
                                 </tr>
 
                                 <tr class="px-2 py-1 text-gray-700 dark:text-gray-400 capitalize flex justify-between">
-                                    <td>{{__('Material status')}}</td>
+                                    <td>{{__('What should be Material status')}}</td>
                                     <td>{{$imam->marital_status==true?__("Married"):__("Unmarried")}}</td>
                                 </tr>
-
                                 </tbody>
                             </table>
                         </div>

@@ -77,12 +77,12 @@
             </label>
             <label class="block mt-4 text-sm">
                 <span class="text-gray-700 dark:text-gray-400">{{__('Mobile Number')}}</span>
-                <input type="tel" wire:model.lazy="phone" class="form-control-tw @error('phone') is-invalid @enderror form-input" placeholder="Enter Mobile Number" name="phone" value="{{old('phone')}}" required/>
+                <input type="tel" wire:model.lazy="phone" class="form-control-tw @error('phone') is-invalid @enderror form-input" placeholder="{{__('Enter Mobile Number')}}" name="phone" value="{{old('phone')}}" required/>
                 @error('phone')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <label class="block mt-4 text-sm">
                 <span class="text-gray-700 dark:text-gray-400">{{__('Transaction Id')}}</span>
-                <input type="text" wire:model.lazy="trx_id" class="form-control-tw @error('trx_id') is-invalid @enderror form-input" placeholder="Enter Transaction Id" name="trx_id" value="{{old('trx_id')}}" required/>
+                <input type="text" wire:model.lazy="trx_id" class="form-control-tw @error('trx_id') is-invalid @enderror form-input" placeholder="{{__('Enter Transaction Id')}}" name="trx_id" value="{{old('trx_id')}}" required/>
                 @error('trx_id')<span class="text-sm text-red-600 dark:text-red-400">{{ $message }}</span>@enderror
             </label>
             <div class="flex justify-center my-2" x-show="show=='bkash'">
