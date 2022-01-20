@@ -6,6 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
+        "asantibanez/livewire-select": "^2.1",
         "barryvdh/laravel-translation-manager": "^0.5.10",
         "codexshaper/laravel-pwa": "^1.2",
         "fakerphp/faker": "^1.9.1",

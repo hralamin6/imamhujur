@@ -890,11 +890,11 @@
       'smtp' => 
       array (
         'transport' => 'smtp',
-        'host' => 'smtp.googlemail.com',
+        'host' => 'mail.imamhujur.com',
         'port' => '465',
         'encryption' => 'ssl',
-        'username' => 'imamhujur0@gmail.com',
-        'password' => 'fdqcztehvnkwzqkc',
+        'username' => 'admin@imamhujur.com',
+        'password' => 'Qqqqqqqq1@1%',
         'timeout' => NULL,
         'auth_mode' => NULL,
       ),
@@ -927,7 +927,7 @@
     ),
     'from' => 
     array (
-      'address' => 'imamhujur0@gmail.com',
+      'address' => 'admin@imamhujur.com',
       'name' => 'Laravel',
     ),
     'markdown' => 
@@ -1241,6 +1241,9 @@
       0 => 'C:\\xampp\\htdocs\\imamhujur\\resources\\views',
     ),
     'compiled' => 'C:\\xampp\\htdocs\\imamhujur\\storage\\framework\\views',
+  ),
+  'livewire-select' => 
+  array (
   ),
   'config' => 
   array (

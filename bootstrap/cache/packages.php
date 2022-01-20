@@ -1,4 +1,15 @@
 <?php return array (
+  'asantibanez/livewire-select' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Asantibanez\\LivewireSelect\\LivewireSelectServiceProvider',
+    ),
+    'aliases' => 
+    array (
+      'LivewireSelect' => 'Asantibanez\\LivewireSelect\\LivewireSelectFacade',
+    ),
+  ),
   'barryvdh/laravel-translation-manager' => 
   array (
     'providers' => 

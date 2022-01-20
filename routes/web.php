@@ -79,3 +79,6 @@ Route::get('/sitemap', function(){
 
 
 \PWA::routes();
+
+
+Route::get('/college',\App\Http\Livewire\CollegeListComponent::class)->name('college');

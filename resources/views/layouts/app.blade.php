@@ -40,7 +40,10 @@
 
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
-
+    <link
+        href="https://cdn.jsdelivr.net/npm/tom-select/dist/css/tom-select.css"
+        rel="stylesheet"
+    />
 
     <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
     <style>
@@ -55,7 +58,7 @@
     @PWA
     {{ pwa_meta() }}
 
-
+    @stack('js')
 </head>
 <body class="font-serif" x-cloak>
 <div

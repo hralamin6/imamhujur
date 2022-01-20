@@ -1,0 +1,1523 @@
+Dhaka Dhamrai 107959 AFAZUDDIN SCHOOL AND COLLEGE Day Bangla Science Both 4.00 1.00 0.00 160
+Dhaka Dhamrai 107959 AFAZUDDIN SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 150
+Dhaka Dhamrai 107959 AFAZUDDIN SCHOOL AND COLLEGE Day Bangla Humanities Both 3.00 1.00 0.00 350
+Dhaka Dhamrai 138055 AMIN MODEL TOWN COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka Dhamrai 138055 AMIN MODEL TOWN COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Dhaka Dhamrai 138055 AMIN MODEL TOWN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Dhaka Dhamrai 107955 BHALUM ATAUR RAHMAN KHAN COLLEGE Day Bangla Business Studies Both 2.75 0.00 0.00 150
+Dhaka Dhamrai 107955 BHALUM ATAUR RAHMAN KHAN COLLEGE Day Bangla Science Both 3.50 0.00 0.00 75
+Dhaka Dhamrai 107955 BHALUM ATAUR RAHMAN KHAN COLLEGE Day Bangla Humanities Both 2.75 0.00 0.00 400
+Dhaka Dhamrai 107919 DHAMRAI HARDINGE HIGH SCHOOL AND COLLEGE Day Bangla Science Both 4.00 3.00 0.00 150
+Dhaka Dhamrai 107919 DHAMRAI HARDINGE HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.00 2.00 0.00 100
+Dhaka Dhamrai 107919 DHAMRAI HARDINGE HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 3.00 2.00 0.00 180
+Dhaka Dhamrai 138809 DHAMRAI MODEL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka Dhamrai 138809 DHAMRAI MODEL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Dhaka Dhamrai 138809 DHAMRAI MODEL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 75
+Dhaka Dhamrai 107953 GOVT. DHAMRAI COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 525
+Dhaka Dhamrai 107953 GOVT. DHAMRAI COLLEGE Day Bangla Science Both 4.00 0.00 0.00 250
+Dhaka Dhamrai 107953 GOVT. DHAMRAI COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 500
+Dhaka Dhamrai 107927 JADABPUR B. M. SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka Dhamrai 107927 JADABPUR B. M. SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka Dhamrai 107927 JADABPUR B. M. SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Dhamrai 107954 NABAJUG COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka Dhamrai 107954 NABAJUG COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka Dhamrai 107954 NABAJUG COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 250
+Dhaka Dhamrai 136304 RAJAPUR BEGUM ANOWARA GIRLS COLLEGE Day Bangla Humanities Female 2.00 0.00 0.00 125
+Dhaka Dhamrai 136304 RAJAPUR BEGUM ANOWARA GIRLS COLLEGE Day Bangla Business Studies Female 2.00 0.00 0.00 100
+Dhaka Dhamrai 107924 SUAPUR NANNAR SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Dhamrai 107924 SUAPUR NANNAR SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka Dhamrai 107924 SUAPUR NANNAR SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka Dohar 107994 BEGUM AYESHA PILOT GIRLS HIGH SCHOOL AND COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka Dohar 107994 BEGUM AYESHA PILOT GIRLS HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 100
+Dhaka Dohar 108010 JOYPARA COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka Dohar 108010 JOYPARA COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 500
+Dhaka Dohar 108010 JOYPARA COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 450
+Dhaka Dohar 139221 KOTHABARI COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka Dohar 139221 KOTHABARI COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka Dohar 139221 KOTHABARI COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka Dohar 108011 MALIKANDA MEGHULA SCHOOL AND COLLEGE Day Bangla Science Both 2.00 1.00 0.00 50
+Dhaka Dohar l080l 1 MALIKANDA MEGHULA SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka Dohar 108011 MALIKANDA MEGHULA SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 250
+Dhaka Dohar 108009 PADMA GOVT. COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 300
+Dhaka Dohar 108009 PADMA GOVT. COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 400
+Dhaka Dohar 108009 PADMA GOVT. COLLEGE Day Bangla Science Both 3.50 0.00 0.00 75
+Dhaka Keraniganj 108074 ADHYAPAK HAMIDUR RAHMAN SCHOOL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka Keraniganj 108074 ADHYAPAK HAMIDUR RAHMAN SCHOOL COLLEGE Day Bangla Science Both 2.00 1.00 0.00 100
+Dhaka Keraniganj 108074 ADHYAPAK HAMIDUR RAHMAN SCHOOL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka Keraniganj 108085 ATI BHAWAL UCHCHA MADHAMIK BIDYALAYA Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Keraniganj 108085 ATI BHAWAL UCHCHA MADHAMIK BIDYALAYA Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Keraniganj 108085 ATI BHAWAL UCHCHA MADHAMIK BIDYALAYA Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka Keraniganj 108120 BAGHAPUR UCCHA MADYAMIC BIDDALAYA Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka Keraniganj 108120 BAGHAPUR UCCHA MADYAMIC BIDDALAYA Day Bangla Humanities Both 1.00 1.00 0.00 250
+Dhaka Keraniganj 108120 BAGHAPUR UCCHA MADYAMIC BIDDALAYA Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka Keraniganj 108119 BORISHUR ANCHALIC UCHCHA MADYAMIc BIDYALAYA Day Bangla Business Studies Both 1.00 1.00 0.00 60
+Dhaka Keraniganj 108119 BORISHUR ANCHALIC UCHCHA MADYAMIc BI DYALAYA Day Bangla Humanities Both 1.00 1.00 0.00 60
+Dhaka Keraniganj 108112 DOLESHWAR ABDUL MANNAN ADARSHA MAHABIDYALAYA Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka Keraniganj 108112 DOLESHWAR ABDUL MANNAN ADARSHA MAHABIDYALAYA Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka Keraniganj 108112 DOLESHWAR ABDUL MANNAN ADARSHA MAHABIDYALAYA Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka Keraniganj 108115 KALATIA COLLEGE Day Bangla Humanities Both 1.20 0.00 0.00 250
+Dhaka Keraniganj 108115 KALATIA COLLEGE Day Bangla Business Studies Both 1.20 0.00 0.00 200
+Dhaka Keraniganj 108115 KALATIA COLLEGE Day Bangla Science Both 1.20 0.00 0.00 50
+Dhaka Keraniganj 108121 KERANIGANJ GIRLS SCHOOL AND COLLEGE Day Bangla Business Studies Female 2.00 1.00 0.00 150
+Dhaka Keraniganj 108121 KERANIGANJ GIRLS SCHOOL AND COLLEGE Day Bangla Humanities Female 2.00 1.00 0.00 200
+Dhaka Keraniganj 108121 KERANIGANJ GIRLS SCHOOL AND COLLEGE Day Bangla Science Female 3.00 1.00 0.00 75
+Dhaka Keraniganj 108117 KERANIGANJ MOHILA COLLEGE Day Bangla Science Female 2.00 0.00 0.00 50
+Dhaka Keraniganj 108117 KERANIGANJ MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 150
+Dhaka Keraniganj 108117 KERANIGANJ MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 250
+Dhaka Keraniganj 130773 KERANIGONJ RESIDENTIAL COLLEGE Day Bangla Science Both 2.50 0.00 0.00 40
+Dhaka Keraniganj 130773 KERANIGONJ RESIDENTIAL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 50
+Dhaka Keraniganj 130773 KERANIGONJ RESIDENTIAL COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 50
+Dhaka Keraniganj 108113 NAYABAZAR COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 250
+Dhaka Keraniganj 108113 NAYABAZAR COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 300
+Dhaka Keraniganj 108113 NAYABAZAR COLLEGE Day Bangla Science Both 3.00 0.00 0.00 75
+Dhaka Keraniganj 108098 RAJABARI SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka Keraniganj 108098 RAJABARI SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Keraniganj 108098 RAJABARI SCHOOL & COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka Keraniganj 138777 RAJDHANI GIRLS COLLEGE Day Bangla Humanities Female 1.50 1.00 0.00 150
+Dhaka Keraniganj 138777 RAJDHANI GIRLS COLLEGE Day Bangla Science Female 2.50 1.00 0.00 100
+Dhaka Keraniganj 138777 RAJDHANI GIRLS COLLEGE Day Bangla Business Studies Female 2.00 1.00 0.00 150
+Dhaka Keraniganj 108116 RAMERKANDA ISPAHANI COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 410
+Dhaka Keraniganj 108116 RAMERKANDA ISPAHANI COLLEGE Day Bangla Science Both 3.00 0.00 0.00 180
+Dhaka Keraniganj 108116 RAMERKANDA ISPAHANI COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 360
+Dhaka Keraniganj 108114 SHAHID PRESIDENT ZIAUR RAHMAN COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 300
+Dhaka Keraniganj 108114 SHAHID PRESIDENT ZIAUR RAHMAN COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka Keraniganj 108114 SHAHID PRESIDENT ZIAUR RAHMAN COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka Keraniganj 136262 SOUTHERN CITY COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka Keraniganj 136262 SOUTHERN CITY COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka Keraniganj 136262 SOUTHERN CITY COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Dhaka Keraniganj 108118 ZINZIRA P. M. PILOT HIGHER SECONDARY SCHOOL Day Bangla Business Studies Both 1.00 1.00 0.00 225
+Dhaka Keraniganj 108118 ZINZIRA P. M. PILOT HIGHER SECONDARY SCHOOL Day Bangla Humanities Both 1.00 1.00 0.00 225
+Dhaka Keraniganj 108118 ZINZIRA P. M. PILOT HIGHER SECONDARY SCHOOL Day Bangla Science Both 1.00 1.00 0.00 85
+Dhaka Nawabganj 108282 BANDURA HOLY CROSS SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka Nawabganj 108282 BANDURA HOLY CROSS SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108282 BANDURA HOLY CROSS SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108318 DOHAR NABABGANJ COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 700
+Dhaka Nawabganj 108318 DOHAR NABABGANJ COLLEGE Day Bangla Science Both 3.00 0.00 0.00 250
+Dhaka Nawabganj 108318 DOHAR NABABGANJ COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 420
+Dhaka Nawabganj 108319 ICHHAMATI COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Dhaka Nawabganj 108319 ICHHAMATI COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka Nawabganj 108319 ICHHAMATI COLLEGE Day Bangla Humanities Both 1.80 0.00 0.00 275
+Dhaka Nawabganj 108298 NAWABGONJ PILOT HIGH SCHOOL & COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka Nawabganj 108298 NAWABGONJ PILOT HIGH SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka Nawabganj 108320 NAWABGONJ PILOT UCHCHA MADYAMIC BALIKA BIDYALAYA Day Bangla Humanities Female 2.00 1.00 0.00 160
+Dhaka Nawabganj 108320 NAWABGONJ PILOT UCHCHA MADYAMIC BALIKA BIDYALAYA Day Bangla Business Studies Female 2.00 1.00 0.00 120
+Dhaka Nawabganj 108311 P. K. B. SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108311 P. K. B. SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108311 P. K. B. SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka Nawabganj 108281 PARAGRAM HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108281 PARAGRAM HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108321 SHOLLA HIGHER SECONDARY SCHOOL NAWABGONJ Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Nawabganj 108321 SHOLLA HIGHER SECONDARY SCHOOL NAWABGONJ Day Bangla Humanities Both 1.00 1.00 0.00 250
+Dhaka Nawabganj 108289 ST. EUPHRASIES GIRLS HIGH SCHOOL & COLLEGE Day Bangla Science Female 3.00 1.00 0.00 50
+Dhaka Nawabganj 108289 ST. EUPHRASIES GIRLS HIGH SCHOOL & COLLEGE Day Bangla Humanities Female 2.00 1.00 0.00 100
+Dhaka Nawabganj 108289 ST. EUPHRASIES GIRLS HIGH SCHOOL & COLLEGE Day Bangla Business Studies Female 2.00 1.00 0.00 100
+Dhaka Nawabganj 108317 TOFAZZAL HOSSAIN CHOWDHURY COLLEGE SHIKARIPARA Day Bangla Science Both 2.50 1.00 0.00 50
+Dhaka Nawabganj 108317 TOFAZZAL HOSSAIN CHOWDHURY COLLEGE SHIKARIPARA Day Bangla Humanities Both 1.00 1.00 0.00 400
+Dhaka Nawabganj 108317 TOFAZZAL HOSSAIN CHOWDHURY COLLEGE SHIKARIPARA Day Bangla Business Studies Both 1.00 1.00 0.00 225
+Dhaka Savar 108406 AERE SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka Savar 108406 AERE SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka Savar 108406 AERE SCHOOL AND COLLEGE Day Bangla Science Both 3.50 1.00 0.00 100
+Dhaka Savar 108449 ALHAJ ABDUL MANNAN COLLEGE Day Bangla Science Both 3.00 0.00 0.00 190
+Dhaka Savar 108449 ALHAJ ABDUL MANNAN COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 450
+Dhaka Savar 108449 ALHAJ ABDUL MANNAN COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 205
+Dhaka Savar 108456 ASHULIA UCHCHA MADHYAMIC BIDHYALAYA Day Bangla Science Both 3.50 1.00 0.00 100
+Dhaka Savar 108456 ASHULIA UCHCHA MADHYAMIC BIDHYALAYA Day Bangla Humanities Both 3.00 1.00 0.00 160
+Dhaka Savar 108456 ASHULIA UCHCHA MADHYAMIC BIDHYALAYA Day Bangla Business Studies Both 3.00 1.00 0.00 200
+Dhaka Savar 108461 B P A T C SCHOOL & COLLEGE Day Bangla Business Studies Both 3.50 1.00 3.00 205
+Dhaka Savar 108461 B P A T C SCHOOL & COLLEGE Day Bangla Humanities Both 3.00 1.00 2.50 135
+Dhaka Savar 108461 B P A T C SCHOOL & COLLEGE Day Bangla Science Both 4.00 1.00 4.00 255
+Dhaka Savar 108458 BEPZA PUBLIC COLLEGE Day Bangla Humanities Both 3.50 2.00 0.00 250
+Dhaka Savar 108458 BEPZA PUBLIC COLLEGE Day Bangla Business Studies Both 4.00 3.00 0.00 170
+Dhaka Savar 108458 BEPZA PUBLIC COLLEGE Day Bangla Science Both 5.00 4.50 0.00 250
+Dhaka Savar 108418 BHAKURTA UNION HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka Savar 108418 BHAKURTA UNION HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka Savar 136894 CANADIAN COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka Savar 136894 CANADIAN COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Savar 131047 COLLEGE OF FINANCE & MANAGEMENT Day Bangla Business Studies Both 2.00 0.00 0.00 250
+Dhaka Savar 131047 COLLEGE OF FINANCE & MANAGEMENT Day Bangla Science Both 3.00 0.00 0.00 150
+Dhaka Savar 131047 COLLEGE OF FINANCE & MANAGEMENT Day Bangla Humanities Both 2.00 0.00 0.00 250
+Dhaka Savar 131670 COLLEGEX Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka Savar 131670 COLLEGEX Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka Savar 131670 COLLEGEX Day Bangla Science Both 3.00 0.00 0.00 50
+Dhaka Savar 108463 DOSHAID A. K. UCHCHA MADHYAMIC BIDYALAYA SAVAR Day Bangla Humanities Both 2.50 1.00 0.00 300
+Dhaka Savar 108463 DOSHAID A. K. UCHCHA MADHYAMIC BIDYALAYA SAVAR Day Bangla Business Studies Both 2.50 1.00 0.00 200
+Dhaka Savar 108463 DOSHAID A. K. UCHCHA MADHYAMIC BIDYALAYA SAVAR Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka Savar 108416 GAZIRCHAT A.M. HIGH SCHOOL AND COLLEGE Day Bangla Science Both 3.50 1.00 0.00 125
+Dhaka Savar 108416 GAZIRCHAT A.M. HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka Savar 108416 GAZIRCHAT A.M. HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 250
+Dhaka Savar 130704 GOPALBARI NABIN PROGOTI SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka Savar 130704 GOPALBARI NABIN PROGOTI SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka Savar 130704 GOPALBARI NABIN PROGOTI SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka Savar 136308 HAZI YUNUS ALI COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 120
+Dhaka Savar 136308 HAZI YUNUS ALI COLLEGE Day Bangla Science Both 3.50 1.00 0.00 50
+Dhaka Savar 136308 HAZI YUNUS ALI COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 75
+Dhaka Savar 108460 JAHANGIR NAGAR UNIVERSITY SCHOOL AND COLLEGE Day Bangla Science Both 4.50 3.94 4.00 190
+Dhaka Savar 108460 JAHANGIR NAGAR UNIVERSITY SCHOOL AND COLLEGE Day Bangla Humanities Both 3.00 2.00 2.00 215
+Dhaka Savar 108460 JAHANGIR NAGAR UNIVERSITY SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.50 3.00 3.30 210
+Dhaka Savar 136277 LEGEND COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Dhaka Savar 136277 LEGEND COLLEGE Day Bangla Science Both 2.00 0.00 0.00 200
+Dhaka Savar 136277 LEGEND COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 300
+Dhaka Savar 136876 MAESTRO CROWN COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 200
+Dhaka Savar 136876 MAESTRO CROWN COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka Savar 136876 MAESTRO CROWN COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 100
+Dhaka Savar 108462 MIRPUR MOFID-E-AM UCHCHA MADHYAMIc BIDHYALAYA Day Bangla Science Both 3.00 1.00 0.00 75
+Dhaka Savar 108462 MIRPUR MOFID-E-AM UCHCHA MADHYAMIc BIDHYALAYA Day Bangla Business Studies Both 2.50 1.00 0.00 200
+Dhaka Savar 108462 MIRPUR MOFID-E-AM UCHCHA MADHYAMIc BIDHYALAYA Day Bangla Humanities Both 2.00 1.00 0.00 150
+Dhaka Savar 108450 MIRZA GOLAM HAFIZ COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 300
+Dhaka Savar 108450 MIRZA GOLAM HAFIZ COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 500
+Dhaka Savar 108450 MIRZA GOLAM HAFIZ COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Dhaka Savar 108452 MOFAZZAL-MOMENA CHAKLADAR MOHILA COLLEGE Day Bangla Humanities Female 1.50 0.00 0.00 350
+Dhaka Savar 108452 MOFAZZAL-MOMENA CHAKLADAR MOHILA COLLEGE Day Bangla Science Female 3.00 0.00 0.00 100
+Dhaka Savar 108452 MOFAZZAL-MOMENA CHAKLADAR MOHILA COLLEGE Day Bangla Business Studies Female 2.50 0.00 0.00 200
+Dhaka Savar 108429 MOHAMMAD ALI YEAKUB ALI SCHOOL & COLLEGE Day Bangla Science Both 0.00 0.00 0.00 1
+Dhaka Savar 108429 MOHAMMAD ALI YEAKUB ALI SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka Savar 108429 MOHAMMAD ALI YEAKUB ALI SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 250
+Dhaka Savar 134793 MORNING GLORY SCHOOL & COLLEGE Day English Science Both 4.00 1.00 1.00 80
+Dhaka Savar 108459 SAVAR CANTONMENT PUBLIC SCHOOL AND COLLEGE Day Bangla Science Both 4.75 4.50 1.00 350
+Dhaka Savar 108459 SAVAR CANTONMENT PUBLIC SCHOOL AN‘ COLLEGE Day Bangla Humanities Both 3.00 3.00 1.00 170
+Dhaka Savar 108459 SAVAR CANTONMENT PUBLIC SCHOOL AND COLLEGE Day English Science Both 4.00 4.00 1.00 60
+Dhaka Savar 108459 SAVAR CANTONMENT PUBLIC SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.50 3.50 1.00 160
+Dhaka Savar 138811 SAVAR CITY COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 150
+Dhaka Savar 138811 SAVAR CITY COLLEGE Day Bangla Science Both 3.00 0.00 0.00 150
+Dhaka Savar 13881 l SAVAR CITY COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka Savar 108453 SAVAR GOVT. COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 550
+Dhaka Savar 108453 SAVAR GOVT. COLLEGE Day Bangla Science Both 4.00 0.00 0.00 275
+Dhaka Savar 108453 SAVAR GOVT. COLLEGE Day Bangla Business Studies Both 3.50 0.00 0.00 450
+Dhaka Savar 131845 SAVAR LABORATORY COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 150
+Dhaka Savar 131845 SAVAR LABORATORY COLLEGE Day Bangla Humanities Both 2.20 1.00 0.00 275
+Dhaka Savar 131845 SAVAR LABORATORY COLLEGE Day Bangla Science Both 3.50 1.00 0.00 400
+Dhaka Savar 108451 SAVAR MODEL COLLEGE Day Bangla Science Both 4.00 0.00 0.00 360
+Dhaka Savar 108451 SAVAR MODEL COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 300
+Dhaka Savar 108451 SAVAR MODEL COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 300
+Dhaka Savar 134152 SENA PUBLIC SCHOOL AND COLLEGE Day Bangla Science Both 5.00 1.00 0.00 150
+Dhaka Savar 130700 ST. JOSEPHS HIGH SCHOOL AND COLLEGE DHARENDA Morning Bangla Humanities Female 2.50 1.00 0.00 100
+Dhaka Savar 130700 ST. JOSEPHS HIGH SCHOOL AND COLLEGE DHARENDA Morning Bangla Science Female 3.00 1.00 0.00 100
+Dhaka Savar 130700 ST. JOSEPHS HIGH SCHOOL AND COLLEGE DHARENDA Morning Bangla Business Studies Female 3.00 1.00 0.00 100
+Dhaka Savar 138235 TANGAIL RESIDENTIAL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka Savar 138235 TANGAIL RESIDENTIAL COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka Savar 138235 TANGAIL RESIDENTIAL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 200
+Dhaka Savar 108448 TETULJHORA COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 250
+Dhaka Savar 108448 TETULJHORA COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 100
+Dhaka Savar 108448 TETULJHORA COLLEGE Day Bangla Science Both 3.00 0.00 0.00 70
+Dhaka Savar 108454 ZIRABO DEWAN IDRIS COLLEGE SAVAR Day Bangla Business Studies Both 2.50 0.00 0.00 100
+Dhaka Savar 108454 ZIRABO DEWAN IDRIS COLLEGE SAVAR Day Bangla Humanities Both 2.50 0.00 0.00 200
+Dhaka Savar 108454 ZIRABO DEWAN IDRIS COLLEGE SAVAR Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka Turag 136942 AMZAD IDEAL COLLEGE Morning Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Badda 107974 DHAKA IMPERIAL COLLEGE Morning Bangla Business Studies Both 3.50 0.00 0.00 550
+Dhaka  Badda 107974 DHAKA IMPERIAL COLLEGE Morning Bangla Science Both 4.50 0.00 0.00 1000
+Dhaka  Badda 107974 DHAKA IMPERIAL COLLEGE Morning Bangla Humanities Both 3.00 0.00 0.00 200
+Dhaka  Badda 131904 GULSHAN COMMERCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 1000
+Dhaka  Badda 134620 HARVARD INTERNATIONAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Badda 134620 HARVARD INTERNATIONAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Badda 134620 HARVARD INTERNATIONAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Badda 136858 MONPURA COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Badda 136858 MONPURA COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 150
+Dhaka  Badda 136858 MONPURA COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Badda 131945 NATIONAL COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 250
+Dhaka  Badda 131945 NATIONAL COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 170
+Dhaka  Badda 131945 NATIONAL COLLEGE Morning Bangla Science Both 3.30 1.00 0.00 200
+Dhaka  Badda 136913 ROTNOGORVA FARIDA ZAMAN SCHOOL & COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Badda 136913 ROTNOGORVA FA RI DA ZAMAN SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Badda 136913 ROTNOGORVA FARIDA ZAMAN SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Badda 108021 SATARKUL SCHOOL & COLLEGE Day Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Badda 108021 SATARKUL SCHOOL & COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Badda 108021 SATARKUL SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Badda 136285 UDAYAN IDEAL COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Badda 136285 UDAYAN IDEAL COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Badda 136285 UDAYAN IDEAL COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Cantonment 107855 ADAMJEE CANTONMENT COLLEGE Morning Bangla Humanities Both 4.75 0.00 1.00 100
+Dhaka  Cantonment 107855 ADAMJEE CANTONMENT COLLEGE Morning Bangla Science Both 5.00 0.00 1.00 1400
+Dhaka  Cantonment 107855 ADAMJEE CANTONMENT COLLEGE Morning English Business Studies Both 4.75 0.00 0.00 120
+Dhaka  Cantonment 107855 ADAMJEE CANTONMENT COLLEGE Morning Bangla Business Studies Both 4.75 0.00 1.00 300
+Dhaka  Cantonment 107855 ADAMJEE CANTONMENT COLLEGE Morning English Science Both 5.00 0.00 1.00 280
+Dhaka  Cantonment 107859 B. A. F. SHAHEEN COLLEGE (KURMITOLA) Morning Bangla Humanities Both 3.00 1.00 2.50 200
+Dhaka  Cantonment 107859 B. A. F. SHAHEEN COLLEGE (KURMITOLA) Morning Bangla Science Both 4.75 1.00 4.50 600
+Dhaka  Cantonment 107859 B. A. F. SHAHEEN COLLEGE (KURMITOLA) Morning English Science Both 4.75 1.00 4.50 120
+Dhaka  Cantonment 107859 B. A. F. SHAHEEN COLLEGE (KURMITOLA) Morning Bangla Business Studies Both 3.75 1.00 3.50 300
+Dhaka  Cantonment 107858 B. A. F. SHAHEEN COLLEGE DHAKA Morning English Business Studies Both 3.75 3.72 1.00 125
+Dhaka  Cantonment 107858 B. A. F. SHAHEEN COLLEGE DHAKA Morning English Science Both 5.00 4.11 1.00 140
+Dhaka  Cantonment 107858 B. A. F. SHAHEEN COLLEGE DHAKA Morning Bangla Business Studies Both 4.00 3.56 1.00 550
+Dhaka  Cantonment 107858 B. A. F. SHAHEEN COLLEGE DHAKA Morning Bangla Science Both 5.00 4.00 1.00 850
+Dhaka  Cantonment 107858 B. A. F. SHAHEEN COLLEGE DHAKA Morning Bangla Humanities Both 3.00 3.00 1.00 270
+Dhaka  Cantonment 107854 B. N. COLLEGE DHAKA CANTT. Morning Bangla Business Studies Both 4.00 1.00 3.50 390
+Dhaka  Cantonment 107854 B. N. COLLEGE DHAKA CANTT. Morning Bangla Humanities Both 3.00 1.00 3.00 120
+Dhaka  Cantonment 107854 B. N. COLLEGE DHAKA CANTT. Morning Bangla Science Both 5.00 1.00 4.50 440
+Dhaka  Cantonment 133937 BANGLADESH INTERNATIONAL SCHOOL & COLLEGE MOHAKHALI Morning English Business Studies Both 4.00 1.00 0.00 60
+Dhaka  Cantonment 133937 BANGLADESH INTERNATIONAL SCHOOL & COLLEGE MOHAKHALI Morning English Science Both 4.50 1.00 1.00 220
+Dhaka  Cantonment 138186 BANGLADESH INTERNATIONAL SCHOOL & COLLEGE NIRJHOR Morning English Science Both 4.50 1.00 1.00 120
+Dhaka  Cantonment 133988 BARIDHARA SCHOLARS INSTITUTION Morning English Business Studies Both 4.00 1.00 0.00 50
+Dhaka  Cantonment 133988 BA RI DHARA SCHOLARS INSTITUTION Morning English Science Both 4.50 1.00 0.00 50
+Dhaka  Cantonment 132090 DHAKA CANT. GIRLS PUBLIC SCHOOL & COLLEGE Morning Bangla Business Studies Female 3.50 1.00 1.00 150
+Dhaka  Cantonment 132090 DHAKA CANT. GIRLS PUBLIC SCHOOL & COLLEGE Morning Bangla Science Female 5.00 1.00 1.00 350
+Dhaka  Cantonment 138185 NIRJHOR CANTONMENT PUBLIC SCHOOL COLLEGE Day Bangla Business Studies Both 4.00 1.00 1.00 75
+Dhaka  Cantonment 138185 NIRJHOR CANTONMENT PUBLIC SCHOOL COLLEGE Day Bangla Science Both 5.00 4.50 1.00 225
+Dhaka  Cantonment 132143 SHAHEED BIR UTTAM LT ANWAR GIRLS COLLEGE Morning English Science Female 5.00 4.50 1.00 80
+Dhaka  Cantonment 132143 SHAHEED BIR UTTAM LT ANWAR GIRLS COLLEGE Morning Bangla Humanities Female 3.50 1.00 1.00 180
+Dhaka  Cantonment 132143 SHAHEED BIR UTTAM LT ANWAR GIRLS COLLEGE Morning Bangla Science Female 5.00 4.50 1.00 560
+Dhaka  Cantonment 132143 SHAHEED BIR UTTAM LT ANWAR GIRLS COLLEGE Morning Bangla Business Studies Female 3.83 4.11 1.00 300
+Dhaka  Cantonment 107857 SHAHEED RAMIZ UDDIN CANTONMENT COLLEGE Morning Bangla Science Both 4.50 0.00 1.00 320
+Dhaka  Cantonment 107857 SHAHEED RAMIZ UDDIN CANTONMENT COLLEGE Morning Bangla Humanities Both 3.00 0.00 1.00 240
+Dhaka  Cantonment 107857 SHAHEED RAMIZ UDDIN CANTONMENT COLLEGE Morning Bangla Business Studies Both 3.50 0.00 1.00 240
+Dhaka  Dakshinkhan 136579 JATIR JANAK BANGABANDHU SHEIKH MUJIBUR RAHMAN GOVT. COLLEGE Day Bangla Business Studies Both 4.00 0.00 0.00 310
+Dhaka  Dakshinkhan 136579 JATIR JANAK BANGABANDHU SHEIKH MUJIBUR RAHMAN GOVT. COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 315
+Dhaka  Dakshinkhan 136579 JATIR JANAK BANGABANDHU SHEIKH MUJIBUR RAHMAN GOVT. COLLEGE Day Bangla Science Both 4.50 0.00 0.00 306
+Dhaka  Dakshinkhan 137368 K C MODEL COLLEGE Day Bangla Science Both 2.00 0.00 0.00 150
+Dhaka  Dakshinkhan 137368 K C MODEL COLLEGE Day English Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Dakshinkhan 137368 K C MODEL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Dakshinkhan 137368 K C MODEL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Dakshinkhan 137368 K C MODEL COLLEGE Day English Science Both 2.00 1.00 0.00 50
+Dhaka  Dakshinkhan 137368 K C MODEL COLLEGE Day English Humanities Both 2.00 1.00 0.00 50
+Dhaka  Dakshinkhan 134195 MASCOT INNOVATIVE COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Dakshinkhan 134195 MASCOT INNOVATIVE COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Dakshinkhan 134195 MASCOT INNOVATIVE COLLEGE Day Bangla Science Both 1.00 1.00 0.00 150
+Dhaka  Dakshinkhan 136844 MILESTONE COLLEGE UTTARA Day Bangla Business Studies Both 2.00 0.00 0.00 50
+Dhaka  Dakshinkhan 136844 MILESTONE COLLEGE UTTARA Day Bangla Science Both 4.00 0.00 0.00 100
+Dhaka  Dakshinkhan 136844 M I LESTON E COLLEGE UTTARA Day Bangla Humanities Both 2.00 0.00 0.00 50
+Dhaka  Demra 108481 A. K. HIGH SCHOOL AND COLLEGE DANIA Day Bangla Science Both 2.50 1.00 0.00 100
+Dhaka  Demra 108481 A. K. HIGH SCHOOL AND COLLEGE DANIA Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Demra 108481 A. K. HIGH SCHOOL AND COLLEGE DANIA Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Demra 138848 BANGLADESH GLORIOUS COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Demra 138848 BANGLADESH GLORIOUS COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Demra 138848 BANGLADESH GLORIOUS COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Demra 107914 BARNAMALA UCHCHA MADHYAMIK BIDYALAYA Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Demra 107914 BARNAMALA UCHCHA MADHYAMIK BIDYALAYA Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Demra 107914 BARNAMALA UCHCHA MADHYAMIK BIDYALAYA Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Demra 107867 BAWANY SCHOOL & COLLEGE Morning Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Demra 107867 BAWANY SCHOOL & COLLEGE Morning Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Demra 107867 BAWANY SCHOOL & COLLEGE Morning Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Demra 107908 DEMRA COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Dhaka  Demra 107908 DEMRA COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 250
+Dhaka  Demra 107908 DEMRA COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Demra 137604 DEMRA IDEAL COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 150
+Dhaka  Demra 137604 DEMRA IDEAL COLLEGE Day Bangla Science Both 3.00 0.00 0.00 200
+Dhaka  Demra 137604 DEMRA IDEAL COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 200
+Dhaka  Demra 137057 DHAKA CHARTERED COMMERCE COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Dhaka  Demra 137057 DHAKA CHARTERED COMMERCE COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 50
+Dhaka  Demra 137057 DHAKA CHARTERED COMMERCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 50
+Dhaka  Demra 133965 DR. MAHBUBUR RAHMAN MOLLAH COLLEGE Morning Bangla Business Studies Female 3.50 0.00 0.00 225
+Dhaka  Demra 133965 DR. MAHBUBUR RAHMAN MOLLAH COLLEGE Morning Bangla Science Female 4.72 0.00 0.00 510
+Dhaka  Demra 133965 DR. MAHBUBUR RAHMAN MOLLAH COLLEGE Morning Bangla Humanities Female 3.50 0.00 0.00 150
+Dhaka  Demra 133965 DR. MAHBUBUR RAHMAN MOLLAH COLLEGE Day Bangla Science Male 4.72 0.00 0.00 1150
+Dhaka  Demra 133965 DR. MAHBUBUR RAHMAN MOLLAH COLLEGE Day Bangla Humanities Male 3.50 0.00 0.00 150
+Dhaka  Demra 133965 DR. MAHBUBUR RAHMAN MOLLAH COLLEGE Day Bangla Business Studies Male 3.50 0.00 0.00 300
+Dhaka  Demra 135190 E.HAQUE COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Demra 135190 E.HAQUE COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Demra 135190 E.HAQUE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Demra 134683 GOLAM MOSTAFA MODEL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Demra 134683 GOLAM MOSTAFA MODEL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 150
+Dhaka  Demra 134683 GOLAM MOSTAFA MODEL COLLEGE Day Bangla Science Both 2.50 1.00 0.00 100
+Dhaka  Demra 131457 I DEAL LABORATORY COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Demra 131457 IDEAL LABORATORY COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 75
+Dhaka  Demra 131457 IDEAL LABORATORY COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Demra 107911 MATUAIL HAH ABDUL LATIF BHUIYAN COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 50
+Dhaka  Demra l079l l MATUAIL HAH ABDUL LATIF BHUIYAN COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 200
+Dhaka  Demra 107911 MATUAIL HAH ABDUL LATIF BHUIYAN COLLEGE Morning Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Demra 107910 R. K. CHOWDHURY COLLEGE Day Bangla Science Both 3.00 0.00 0.00 50
+Dhaka  Demra 107910 R. K. CHOWDHURY COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 100
+Dhaka  Demra 107910 R. K. CHOWDHURY COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 150
+Dhaka  Demra 137075 RAFIQUL ISLAM COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Demra 137075 RAFIQUL ISLAM COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Demra 137075 RAFIQUL ISLAM COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Demra 107912 ROKEYA AHSAN COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 150
+Dhaka  Demra 107912 ROKEYA AHSAN COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Demra 107912 ROKEYA AHSAN COLLEGE Day Bangla Science Both 2.50 1.00 0.00 100
+Dhaka  Demra 107913 RONGMALA AKBAR MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 60
+Dhaka  Demra 107913 RONGMALA AKBAR MOHILA COLLEGE Day Bangla Science Female 2.00 0.00 0.00 50
+Dhaka  Demra 107913 RONGMALA AKBAR MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 60
+Dhaka  Demra 107916 SHAHID ZIA GIRLS SCHOOL AND COLLEGE JATRABARI Day Bangla Science Female 1.00 1.00 0.00 50
+Dhaka  Demra 107916 SHAHID ZIA GIRLS SCHOOL AND COLLEGE JATRABARI Day Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka  Demra 107916 SHAHID ZIA GIRLS SCHOOL AND COLLEGE JATRABARI Day Bangla Business Studies Female 1.00 1.00 0.00 50
+Dhaka  Demra 107915 SHAMSUL HOQUE KHAN SCHOOL & COLLEGE Day Bangla Science Female 4.72 1.00 0.00 775
+Dhaka  Demra 107915 SHAMSUL HOQUE KHAN SCHOOL & COLLEGE Day Bangla Business Studies Female 3.50 1.00 0.00 250
+Dhaka  Demra 107915 SHAMSUL HOQUE KHAN SCHOOL & COLLEGE Day Bangla Humanities Female 3.50 1.00 0.00 200
+Dhaka  Demra 134213 SHARULIA IDEAL GIRLS COLLEGE Day Bangla Business Studies Female 1.50 1.00 0.00 50
+Dhaka  Demra 134213 SHARULIA IDEAL GIRLS COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 50
+Dhaka  Demra 131759 VERSATILE MODEL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Demra 131759 VERSATILE MODEL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Dhanmondi 108162 BIR SHRESHTHA MUNSHI ABDUR ROUF PUBLIC COLLEGE Morning Bangla Science Female 5.00 4.50 4.50 440
+Dhaka  Dhanmondi 108162 BIR SHRESHTHA MUNSHI ABDUR ROUF PUBLI‘ COLLEGE Day Bangla Business Studies Male 3.00 3.00 3.00 300
+Dhaka  Dhanmondi 108162 BIR SHRESHTHA MUNSHI ABDUR ROUF PUBLIc COLLEGE Day Bangla Humanities Male 3.00 2.50 2.50 180
+Dhaka  Dhanmondi 108162 BIR SHRESHTHA MUNSHI ABDUR ROUF PUBLIc COLLEGE Day Bangla Science Male 5.00 4.50 4.50 660
+Dhaka  Dhanmondi 108162 BIR SHRESHTHA MUNSHI ABDUR ROUF PUBLI‘ COLLEGE Moming Bangla Business Studies Female 3.00 3.00 3.00 240
+Dhaka  Dhanmondi 108162 BIR SHRESHTHA MUNSHI ABDUR ROUF PUBLIC COLLEGE Morning Bangla Humanities Female 3.00 2.50 2.50 160
+Dhaka  Dhanmondi 135219 CHARTERED COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Dhanmondi 134168 COLLEGE OF DEVELOPMENT ALTERNATIVE (CODA) Day English Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 134168 COLLEGE OF DEVELOPMENT ALTERNATIVE (CODA) Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Dhanmondi 134168 COLLEGE OF DEVELOPMENT ALTERNATIVE (CODA) Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 134168 COLLEGE OF DEVELOPMENT ALTERNATIVE (CODA) Day English Science Both 2.00 1.00 0.00 100
+Dhaka  Dhanmondi 134168 COLLEGE OF DEVELOPMENT ALTERNATIVE (CODA) Day Bangla Science Both 2.00 1.00 0.00 100
+Dhaka  Dhanmondi 134564 DAFFODIL INTERNATIONAL COLLEGE Morning English Science Both 3.00 0.00 0.00 100
+Dhaka  Dhanmondi 134564 DAFFODIL INTERNATIONAL COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 300
+Dhaka  Dhanmondi 134564 DAFFODIL INTERNATIONAL COLLEGE Morning Bangla Business Studies Both 2.50 0.00 0.00 150
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Morning Bangla Science Female 5.00 0.00 0.00 600
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Morning Bangla Humanities Female 3.50 0.00 0.00 75
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Day English Business Studies Male 3.50 0.00 0.00 150
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Day English Science Male 4.75 0.00 0.00 150
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Morning Bangla Business Studies Female 3.50 0.00 0.00 700
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Day Bangla Humanities Male 3.50 0.00 0.00 87
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Day Bangla Science Male 5.00 0.00 0.00 1000
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Morning English Business Studies Female 3.50 0.00 0.00 150
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Morning English Science Female 4.75 0.00 0.00 150
+Dhaka  Dhanmondi 107975 DHAKA CITY COLLEGE Day Bangla Business Studies Male 3.50 0.00 0.00 700
+Dhaka  Dhanmondi 107977 DHAKA COLLEGE Day Bangla Business Studies Male 4.75 0.00 0.00 150
+Dhaka  Dhanmondi 107977 DHAKA COLLEGE Day Bangla Science Male 5.00 0.00 0.00 900
+Dhaka  Dhanmondi 107977 DHAKA COLLEGE Day Bangla Humanities Male 4.50 0.00 0.00 150
+Dhaka  Dhanmondi 107980 DHAKA MOH I LA COLLEGE Day Bangla Business Studies Female 2.00 0.00 0.00 100
+Dhaka  Dhanmondi 107980 DHAKA MOHILA COLLEGE Day Bangla Humanities Female 2.00 0.00 0.00 100
+Dhaka  Dhanmondi 107980 DHAKA MOH I LA COLLEGE Day Bangla Science Female 3.00 0.00 0.00 120
+Dhaka  Dhanmondi 107979 DHAKA PRESIDENCY COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Dhanmondi 107979 DHAKA PRESIDENCY COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Dhanmondi 107979 DHAKA PRESIDENCY COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Dhanmondi 133847 DHAKA PUBLIC COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 60
+Dhaka  Dhanmondi 133847 DHAKA PUBLIC COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Dhanmondi 133847 DHAKA PUBLIC COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Dhanmondi 133712 DHAKA PUBLIC SCHOOL & COLLEGE Day English Science Both 3.00 1.00 0.00 100
+Dhaka  Dhanmondi 133712 DHAKA PUBLIC SCHOOL & COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Dhanmondi 133712 DHAKA PUBLIC SCHOOL & COLLEGE Day English Humanities Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 133712 DHAKA PUBLIC SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Dhanmondi 133712 DHAKA PUBLIC SCHOOL & COLLEGE Day English Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Dhanmondi 107972 DR. MALEKA COLLEGE Day Bangla Science Both 2.50 0.00 0.00 80
+Dhaka  Dhanmondi 107972 DR. MALEKA COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 70
+Dhaka  Dhanmondi 107972 DR. MALEKA COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Dhaka  Dhanmondi 107962 GOVERNMENT LABORATORY HIGH SCHOOL Day Bangla Business Studies Male 3.50 3.00 0.00 102
+Dhaka  Dhanmondi 107962 GOVERNMENT LABORATORY HIGH SCHOOL Day Bangla Science Male 4.50 3.50 0.00 115
+Dhaka  Dhanmondi 134209 HAMDARD PUBLIC COLLEGE Day Bangla Science Both 4.50 1.00 4.25 600
+Dhaka  Dhanmondi 134209 HAMDARD PUBLIC COLLEGE Day Bangla Business Studies Both 3.00 1.00 3.25 200
+Dhaka  Dhanmondi 134605 HOLY FLOWER MODEL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 134605 HOLY FLOWER MODEL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Dhanmondi 107971 IDEAL COLLEGE Morning Bangla Science Both 4.00 0.00 0.00 1350
+Dhaka  Dhanmondi 107971 IDEAL COLLEGE Morning Bangla Business Studies Both 2.50 0.00 0.00 600
+Dhaka  Dhanmondi 107971 IDEAL COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 500
+Dhaka  Dhanmondi 107963 KAKOLI HIGH SCHOOL & COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Dhanmondi 107963 KAKOLI HIGH SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 107963 KAKOLI HIGH SCHOOL & COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 107985 MEHERUNNESA GIRLS HIGH SCHOOL AND COLLEGE Morning Bangla Humanities Female 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 107985 MEHERUNNESA GIRLS HIGH SCHOOL AND COLLEGE Moming Bangla Science Female 3.00 1.00 0.00 50
+Dhaka  Dhanmondi 107985 MEHERUNNESA GIRLS HIGH SCHOOL AND COLLEGE Morning Bangla Business Studies Female 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 108250 NEW MODEL DEGREE COLLEGE Day Bangla Science Both 4.00 0.00 0.00 100
+Dhaka  Dhanmondi 108250 NEW MODEL DEGREE COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 150
+Dhaka  Dhanmondi 108250 NEW MODEL DEGREE COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 100
+Dhaka  Dhanmondi 133717 SCHOLARS SCHOOL & COLLEGE Day English Business Studies Female 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 133717 SCHOLARS SCHOOL & COLLEGE Day English Science Female 3.00 1.00 0.00 125
+Dhaka  Dhanmondi 133717 SCHOLARS SCHOOL & COLLEGE Morning English Business Studies Male 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 133717 SCHOLARS SCHOOL & COLLEGE Morning English Science Male 3.00 1.00 0.00 175
+Dhaka  Dhanmondi 107973 STAMFORD COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka  Dhanmondi 107973 STAMFORD COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Dhanmondi 107973 STAMFORD COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Dhanmondi 134592 TRINITY COLLEGE DHAKA Day English Science Both 1.00 0.00 0.00 25
+Dhaka  Dhanmondi 134592 TRINITY COLLEGE DHAKA Day Bangla Science Both 1.00 0.00 0.00 25
+Dhaka  Dhanmondi 134592 TRINITY COLLEGE DHAKA Day English Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Dhanmondi 134592 TRINITY COLLEGE DHAKA Day Bangla Humanities Both 1.00 0.00 0.00 25
+Dhaka  Dhanmondi 134592 TRINITY COLLEGE DHAKA Day Bangla Business Studies Both 1.00 0.00 0.00 60
+Dhaka  Dhanmondi 134592 TRINITY COLLEGE DHAKA Day English Humanities Both 1.00 0.00 0.00 25
+Dhaka  Dhanmondi 107976 UNIVERSITY WOMENS FEDERATION COLLEGE Morning Bangla Science Female 3.00 0.00 0.00 100
+Dhaka  Dhanmondi 107976 UNIVERSITY WOMENS FEDERATION COLLEGE Morning Bangla Business Studies Female 2.50 0.00 0.00 150
+Dhaka  Dhanmondi 107976 UNIVERSITY WOMENS FEDERATION COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 100
+Dhaka  Dhanmondi 107984 YWCA HIGHER SECONDARY GIRLS SCHOOL Day Bangla Business Studies Female 3.00 1.00 0.00 60
+Dhaka  Dhanmondi 107984 YWCA HIGHER SECONDARY GIRLS SCHOOL Day Bangla Science Female 4.00 1.00 0.00 100
+Dhaka  Dhanmondi 107983 ZARINA SIKDER GIRLS SCHOOL & COLLEGE Morning Bangla Science Female 1.50 1.00 0.00 50
+Dhaka  Dhanmondi 107983 ZARINA SIKDER GIRLS SCHOOL & COLLEGE Morning Bangla Business Studies Female 1.50 1.00 0.00 90
+Dhaka  Dhanmondi 107983 ZARINA SIKDER GIRLS SCHOOL & COLLEGE Morning Bangla Humanities Female 1.00 1.00 0.00 60
+Dhaka  Gulshan 108031 A.K.M. RAHMATULLAH COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Dhaka  Gulshan 108031 A.K.M. RAHMATULLAH COLLEGE Day Bangla Science Both 2.00 0.00 0.00 150
+Dhaka  Gulshan 108031 A.K.M. RAHMATULLAH COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 250
+Dhaka  Gulshan 107841 BADDA ALATUNNESSA UCHCHA MADHYAMIC BIDHYALAYA Day Bangla Business Studies Female 2.50 1.00 0.00 50
+Dhaka  Gulshan 107841 BADDA ALATUNNESSA UCHCHA MADHYAMIc BIDHYALAYA Day Bangla Science Female 3.00 1.00 0.00 50
+Dhaka  Gulshan 107841 BADDA ALATUNNESSA UCHCHA MADHYAMic BIDHYALAYA Day Bangla Humanities Female 2.00 1.00 0.00 60
+Dhaka  Gulshan 108016 BANANI BIDYANIKETAN SCHOOL & COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 150
+Dhaka  Gulshan 108016 BANANI BIDYANIKETAN SCHOOL & COLLEGE Morning Bangla Business Studies Both 2.50 1.00 0.00 125
+Dhaka  Gulshan 132140 CAMBRIAN COLLEGE Day English Science Both 3.00 1.00 0.00 100
+Dhaka  Gulshan 132140 CAMBRIANCOLLEGE Day English Business Studies Both 3.00 1.00 0.00 50
+Dhaka  Gulshan 132140 CAMBRIAN COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 250
+Dhaka  Gulshan 132140 CAMBRIANCOLLEGE Day Bangla Science Both 3.00 1.00 0.00 900
+Dhaka  Gulshan 134566 CROWN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Gulshan 134566 CROWN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Gulshan 136932 GLASGOW COMMERCE COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Gulshan 136932 GLASGOW COMMERCE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Gulshan 108038 GOVT. KALACHANDPUR HIGH SCHOOL AND COLLEGE Morning Bangla Science Female 4.00 1.00 0.00 100
+Dhaka  Gulshan 108038 GOVT. KALACHANDPUR HIGH SCHOOL AND COLLEGE Morning Bangla Humanities Female 3.00 1.00 0.00 100
+Dhaka  Gulshan 108038 GOVT. KALACHANDPUR HIGH SCHOOL AND COLLEGE Morning Bangla Business Studies Female 3.50 1.00 0.00 200
+Dhaka  Gulshan 108032 GULSHAN COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 120
+Dhaka  Gulshan 108032 GULSHAN COLLEGE Morning Bangla Business Studies Both 2.50 0.00 0.00 100
+Dhaka  Gulshan 108032 GULSHAN COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 80
+Dhaka  Gulshan 108037 GULSHAN MODEL HIGH SCHOOL & COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 110
+Dhaka  Gulshan 108037 GULSHAN MODEL HIGH SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Gulshan 108037 GULSHAN MODEL HIGH SCHOOL & COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Gulshan 136873 GULSHAN PUBLIC COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Gulshan 136873 GULSHAN PUBLIC COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka  Gulshan 136873 GULSHAN PUBLIC COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Gulshan 108023 I.P.H. SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 70
+Dhaka  Gulshan 108023 I. P. H. SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 70
+Dhaka  Gulshan 108023 I. P. H. SCHOOL & COLLEGE Day Bangla Science Both 1.00 1.00 0.00 70
+Dhaka  Gulshan 131218 KINGS COLLEGE Day Bangla Business Studies Both 5.00 0.00 0.00 100
+Dhaka  Gulshan 131218 KINGS COLLEGE Day Bangla Science Both 5.00 0.00 0.00 100
+Dhaka  Gulshan 108033 MAHANAGAR COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Dhaka  Gulshan 108033 MAHANAGAR COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 250
+Dhaka  Gulshan 134239 MARTIN LUTHER COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 100
+Dhaka  Gulshan 134239 MARTIN LUTHER COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Gulshan 134239 MARTIN LUTHER COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Gulshan 108036 T & T MOHILA COLLEGE Day Bangla Science Female 3.50 0.00 0.00 100
+Dhaka  Gulshan 108036 T & T MOH I LA COLLEGE Day Bangla Humanities Female 2.50 0.00 0.00 100
+Dhaka  Gulshan 108036 T & T MOHILA COLLEGE Day Bangla Business Studies Female 3.00 0.00 0.00 100
+Dhaka  Hazaribagh 136260 BEGUM SHEIKH FAZILATUN NESSA MUJIB GOVT. COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 350
+Dhaka  Hazaribagh 136260 BEGUM SHEIKH FAZILATUN NESSA MUJIB GOVT. COLLEGE Day Bangla Business Studies Both 3.50 0.00 0.00 320
+Dhaka  Hazaribagh 136260 BEGUM SHEIKH FAZILATUN NESSA MUJIB GOVT. COLLEGE Day Bangla Science Both 4.00 0.00 0.00 320
+Dhaka  Hazaribagh 108356 NATIONAL BANK PUBLIC SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Hazaribagh 108356 NATIONAL BANK PUBLIC SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 50
+Dhaka  Hazaribagh 108356 NATIONAL BANK PUBLIC SCHOOL AND COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Jatrabari 138824 CAPITAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Jatrabari 138824 CAPITAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Jatrabari 136276 CCER MODEL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Jatrabari 136276 CCER MODEL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Dhaka  Jatrabari 136276 CCER MODEL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Jatrabari 107909 DANIA COLLEGE Day Bangla Business Studies Male 3.75 0.00 0.00 375
+Dhaka  Jatrabari 107909 DANIA COLLEGE Day Bangla Humanities Male 3.00 0.00 0.00 350
+Dhaka  Jatrabari 107909 DANIA COLLEGE Day Bangla Science Male 4.25 0.00 0.00 350
+Dhaka  Jatrabari 107909 DANIA COLLEGE Morning Bangla Business Studies Female 3.75 0.00 0.00 375
+Dhaka  Jatrabari 107909 DANIA COLLEGE Morning Bangla Science Female 4.25 0.00 0.00 350
+Dhaka  Jatrabari 107909 DANIA COLLEGE Morning Bangla Humanities Female 3.00 0.00 0.00 300
+Dhaka  Jatrabari 107877 JATRABARI IDEAL HIGH SCHOOL AND COLLEGE Morning Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Jatrabari 107877 JATRABARI IDEAL HIGH SCHOOL AND COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 100
+Dhaka  Jatrabari 107877 JATRABARI IDEAL HIGH SCHOOL AND COLLEGE Morning Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Jatrabari 108501 KARATITOLA C. M. S. MEMORIAL HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 50
+Dhaka  Jatrabari 108501 KARATITOLA C. M. S. MEMORIAL HIGH SCHOOL AND COLLEGE Day Bangla Science Female 1.00 1.00 0.00 50
+Dhaka  Jatrabari 107886 MANNAN HIGH SCHOOL & COLLEGE Day Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Jatrabari 107886 MANNAN HIGH SCHOOL & COLLEGE Day Bangla Business Studies Both 1.50 1.00 0.00 50
+Dhaka  Jatrabari 107886 MANNAN HIGH SCHOOL & COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 100
+Dhaka  Jatrabari 134265 METROPOLITAN COLLEGE DHAKA Day Bangla Science Both 2.00 1.00 0.00 200
+Dhaka  Jatrabari 134265 METROPOLITAN COLLEGE DHAKA Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Jatrabari 134265 METROPOLITAN COLLEGE DHAKA Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Jatrabari 107863 PARADOGAR IDEAL SCHOOL AND COLLEGE Morning Bangla Business Studies Female 2.00 1.00 0.00 50
+Dhaka  Jatrabari 107863 PARADOGAR IDEAL SCHOOL AND COLLEGE Morning Bangla Humanities Female 2.00 1.00 0.00 50
+Dhaka  Kadamtali 134716 BRIGHT SCHOOL AND COLLEGE Day Bangla Science Both 4.00 1.00 0.00 150
+Dhaka  Kadamtali 134716 BRIGHT SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Kadamtali 134716 BRIGHT SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.50 1.00 0.00 100
+Dhaka  Kadamtali 134228 MOHAMMEDBAG ADORSHO COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Kadamtali 134228 MOHAMMEDBAG ADORSHO COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Kadamtali 134228 MOHAMMEDBAG ADORSHO COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Kadamtali 136763 NEW VISION SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Kadamtali 136763 NEW VISION SCHOOL AND COLLEGE Day Bangla Science Both 2.00 1.00 0.00 100
+Dhaka  Kadamtali 136763 NEW VISION SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Kadamtali 108473 SAMPUR BAHUMUKHI HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Kadamtali 108473 SAMPUR BAHUMUKHI HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Kadamtali 108473 SAMPUR BAHUMUKHI HIGH SCHOOL AND COLLEGE Day Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Kadamtali 132066 SHAYMPUR GOVT. MODEL SCHOOL & COLLEGE Day Bangla Science Both 3.50 3.00 0.00 125
+Dhaka  Kadamtali 132066 SHAYMPUR GOVT. MODEL SCHOOL & COLLEGE Day Bangla Business Studies Both 3.00 2.50 0.00 150
+Dhaka  Kadamtali 132066 SHAYMPUR GOVT. MODEL SCHOOL & COLLEGE Day Bangla Humanities Both 2.50 2.00 0.00 100
+Dhaka  Kafrul 108048 BHASANTEK SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 100
+Dhaka  Kafrul 108048 BHASANTEK SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 100
+Dhaka  Kafrul 108048 BHASANTEK SCHOOL AND COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Kafrul 134578 GLORY COLLEGE Morning Bangla Science Both 2.50 1.00 0.00 75
+Dhaka  Kafrul 134578 GLORY COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 75
+Dhaka  Kafrul 136841 VASHANTEK GOVT. COLLEGE Day Bangla Business Studies Both 4.00 0.00 0.00 350
+Dhaka  Kafrul 136841 VASHANTEK GOVT. COLLEGE Day Bangla Science Both 4.50 0.00 0.00 300
+Dhaka  Kafrul 136841 VASHANTEK GOVT. COLLEGE Day Bangla Humanities Both 4.00 0.00 0.00 350
+Dhaka  Kamrangir Char 108057 HAJI ABDUL AWAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Kamrangir Char 108057 HAJI ABDUL AWAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 45
+Dhaka  Kamrangir Char 108057 HAJI ABDUL AWAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Dhaka  Khilgaon 108375 ALI AHMED SCHOOL & COLLEGE Day Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Khilgaon 108375 ALI AHMED SCHOOL & COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Khilgaon 108375 ALI AHMED SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Khilgaon 131901 BANGLADESH COMM ERCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Khilgaon 134462 CITY MODEL COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Khilgaon 134462 CITY MODEL COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Khilgaon 134462 CITY MODEL COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Khilgaon 108379 DAKHIN BANSREE MODEL HIGH SCHOOL AN‘ COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Khilgaon 108379 DAKHIN BANSREE MODEL HIGH SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Khilgaon 108379 DAKHIN BANSREE MODEL HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Khilgaon 132096 DHAKA EASTERN COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 70
+Dhaka  Khilgaon 132096 DHAKA EASTERN COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 120
+Dhaka  Khilgaon 132096 DHAKA EASTERN COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 70
+Dhaka  Khilgaon 131634 DHAKA IDEAL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Khilgaon 131634 DHAKA IDEAL COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Khilgaon 131634 DHAKA IDEAL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Khilgaon 133975 FUTURE COMMERCE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka  Khilgaon 108387 KHILGAON GIRLS SCHOOL AND COLLEGE Day Bangla Humanities Female 1.50 1.00 0.00 100
+Dhaka  Khilgaon 108387 KHILGAON GIRLS SCHOOL AND COLLEGE Day Bangla Science Female 3.50 1.00 0.00 125
+Dhaka  Khilgaon 108387 KHILGAON GIRLS SCHOOL AND COLLEGE Day Bangla Business Studies Female 2.50 1.00 0.00 250
+Dhaka  Khilgaon 108061 KHILGAON GOVT. COLONY HIGHER SECONDARY SCHOOL Day Bangla Science Both 1.00 1.00 0.00 200
+Dhaka  Khilgaon 108061 KHILGAON GOVT. COLONY HIGHER SECONDARY SCHOOL Day Bangla Humanities Both 1.00 1.00 0.00 200
+Dhaka  Khilgaon 108061 KHILGAON GOVT. COLONY HIGHER SECONDARY SCHOOL Day Bangla Business Studies Both 1.00 1.00 0.00 250
+Dhaka  Khilgaon 108376 KHILGAON GOVT. HIGH SCHOOL Day Bangla Business Studies Male 3.50 1.00 0.00 150
+Dhaka  Khilgaon 108376 KHILGAON GOVT. HIGH SCHOOL Day Bangla Science Male 4.00 1.00 0.00 100
+Dhaka  Khilgaon 132008 KHILGAON IDEAL COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Khilgaon 132008 KHILGAON IDEAL COLLEGE Morning Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Khilgaon 132008 KHILGAON IDEAL COLLEGE Morning Bangla Humanities Both 1.00 0.00 0.00 80
+Dhaka  Khilgaon 108385 KHILGAON MODEL COLLEGE Day Bangla Humanities Male 2.50 0.00 0.00 100
+Dhaka  Khilgaon 108385 KHILGAON MODEL COLLEGE Morning Bangla Business Studies Female 3.25 0.00 0.00 200
+Dhaka  Khilgaon 108385 KHILGAON MODEL COLLEGE Day Bangla Business Studies Male 3.25 0.00 0.00 300
+Dhaka  Khilgaon 108385 KHILGAON MODEL COLLEGE Morning Bangla Humanities Female 2.50 0.00 0.00 75
+Dhaka  Khilgaon 108385 KHILGAON MODEL COLLEGE Morning Bangla Science Female 4.00 0.00 0.00 50
+Dhaka  Khilgaon 108385 KHILGAON MODEL COLLEGE Day Bangla Science Male 4.00 0.00 0.00 100
+Dhaka  Khilgaon 136865 LIBERTY COLLEGE Day Bangla Science Both 2.50 0.00 0.00 100
+Dhaka  Khilgaon 136865 Ll BERTY COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Khilgaon 132078 NATIONAL IDEAL COLLEGE Day Bangla Business Studies Both 3.50 1.00 0.00 430
+Dhaka  Khilgaon 132078 NATIONAL IDEAL COLLEGE Day Bangla Humanities Both 2.50 1.00 0.00 100
+Dhaka  Khilgaon 132078 NATIONAL IDEAL COLLEGE Day Bangla Science Both 5.00 1.00 0.00 525
+Dhaka  Khilgaon 136306 NATIONAL IDEAL GIRLS COLLEGE Morning Bangla Humanities Female 1.00 1.00 0.00 50
+Dhaka  Khilgaon 136306 NATIONAL IDEAL GIRLS COLLEGE Morning Bangla Science Female 1.00 1.00 0.00 50
+Dhaka  Khilgaon 136306 NATIONAL IDEAL GIRLS COLLEGE Morning Bangla Business Studies Female 1.00 1.00 0.00 50
+Dhaka  Khilgaon 138476 NOVELTY COLLEGE Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka  Khilgaon 138476 NOVELTY COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Khilgaon 136862 OXFORDIAN LABORATORY COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Khilgaon 136862 OXFORDIAN LABORATORY COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Khilgaon 136862 OXFORDIAN LABORATORY COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Khilgaon 134172 QUALITY EDUCATION COLLEGE Morning Bangla Science Both 3.50 1.00 0.00 180
+Dhaka  Khilgaon 134172 QUALITY EDUCATION COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 60
+Dhaka  Khilgaon 134172 QUALITY EDUCATION COLLEGE Morning Bangla Business Studies Both 2.50 1.00 0.00 150
+Dhaka  Khilgaon 108040 SOUTH POINT COLLEGE Morning English Science Both 4.50 1.00 0.00 100
+Dhaka  Khilgaon 108040 SOUTH POINT COLLEGE Morning Bangla Business Studies Both 3.50 1.00 0.00 200
+Dhaka  Khilgaon 108040 SOUTH POINT COLLEGE Morning Bangla Science Both 4.50 1.00 0.00 400
+Dhaka  Khilkhat 135270 AMIRJAN COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 200
+Dhaka  Khilkhat 135270 AMIRJAN COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 250
+Dhaka  Khilkhat 135270 AMIRJAN COLLEGE Day Bangla Science Both 3.00 1.00 0.00 250
+Dhaka  Khilkhat 107820 DUMNI HIGHER SECONDARY SCHOOL Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Khilkhat 107820 DUMNI HIGHER SECONDARY SCHOOL Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Khilkhat 107823 KURMITOLA HIGH SCHOOL & COLLEGE Morning Bangla Humanities Female 2.00 1.00 0.00 150
+Dhaka  Khilkhat 107823 KURMITOLA HIGH SCHOOL & COLLEGE Morning Bangla Science Female 3.50 1.00 0.00 150
+Dhaka  Khilkhat 107823 KURMITOLA HIGH SCHOOL & COLLEGE Day Bangla Science Male 3.50 1.00 0.00 150
+Dhaka  Khilkhat 107823 KURMITOLA HIGH SCHOOL & COLLEGE Day Bangla Humanities Male 2.00 1.00 0.00 100
+Dhaka  Khilkhat 107823 KURMITOLA HIGH SCHOOL & COLLEGE Morning Bangla Business Studies Female 2.50 1.00 0.00 100
+Dhaka  Khilkhat 107823 KURMITOLA HIGH SCHOOL & COLLEGE Day Bangla Business Studies Male 2.50 1.00 0.00 100
+Dhaka  Khilkhat 135574 NAVY ANCHORAGE SCHOOL AND COLLEGE Morning English Science Both 4.50 2.00 2.00 50
+Dhaka  Khilkhat 134219 QUEEN MARY COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Khilkhat 134219 QUEEN MARY COLLEGE Day Bangla Science Both 2.00 1.00 0.00 100
+Dhaka  Kotwali 108139 AHMED BAWANI ACADEMY (MOHILA COLLEGE) Morning Bangla Science Female 2.00 1.00 0.00 60
+Dhaka  Kotwali 108139 AHMED BAWAN I ACADEMY (MOHILA COLLEGE) Morning Bangla Business Studies Female 1.50 1.00 0.00 150
+Dhaka  Kotwali 108139 AHMED BAWANI ACADEMY (MOHILA COLLEGE) Morning Bangla Humanities Female 1.50 1.00 0.00 150
+Dhaka  Kotwali 108494 EAST BENGAL INSTITUTION Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka  Kotwali 108494 EAST BENGAL INSTITUTION Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Kotwali 108494 EAST BENGAL INSTITUTION Day Bangla Humanities Both 1.00 1.00 0.00 150
+Dhaka  Kotwali 108498 MONIZA RAHMAN GIRLS SCHOOL & COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 50
+Dhaka  Kotwali 108498 MONIZA RAHMAN GIRLS SCHOOL & COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 50
+Dhaka  Kotwali 108127 POGOSE LABORATORY SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Kotwali 108127 POGOSE LABORATORY SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Kotwali 108127 POGOSE LABORATORY SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Kotwali 108510 SALIMULLAH COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 200
+Dhaka  Kotwali 108510 SALIMULLAH COLLEGE Day Bangla Science Both 2.50 0.00 0.00 75
+Dhaka  Kotwali 108510 SALIMULLAH COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Dhaka  Lalbagh 108164 AGRANI GIRLS SCHOOL AND COLLEGE Morning Bangla Science Female 4.00 1.00 0.00 100
+Dhaka  Lalbagh 108164 AGRANI GIRLS SCHOOL AND COLLEGE Morning Bangla Business Studies Female 2.50 1.00 0.00 100
+Dhaka  Lalbagh 108164 AGRANI GIRLS SCHOOL AND COLLEGE Morning Bangla Humanities Female 2.25 1.00 0.00 100
+Dhaka  Lalbagh 108138 ANWARA BEGUM MUSLIM GIRLS SCHOOL AND COLLEGE Day Bangla Science Female 1.00 1.00 0.00 60
+Dhaka  Lalbagh 108138 ANWARA BEGUM MUSLIM GIRLS SCHOOL AND COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 100
+Dhaka  Lalbagh 108138 ANWARA BEGUM MUSLIM GIRLS SCHOOL AND COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka  Lalbagh 108163 AZIMPUR GOVT. GIRLS SCHOOL AND COLLEGE Morning Bangla Humanities Female 3.00 1.00 0.00 340
+Dhaka  Lalbagh 108163 AZIMPUR GOVT. GIRLS SCHOOL AND COLLEGE Morning Bangla Business Studies Female 3.50 1.00 0.00 310
+Dhaka  Lalbagh 108163 AZIMPUR GOVT. GIRLS SCHOOL AND COLLEGE Morning Bangla Science Female 4.00 1.00 0.00 320
+Dhaka  Lalbagh 108155 BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE Day Bangla Business Studies Female 3.75 0.00 0.00 760
+Dhaka  Lalbagh 108155 BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE Day Bangla Science Female 4.25 0.00 0.00 551
+Dhaka  Lalbagh 108155 BEGUM BADRUNNESSA GOVT. GIRLS COLLEGE Day Bangla Humanities Female 3.25 0.00 0.00 751
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLIC COLLEGE Morning English Business Studies Both 3.00 1.00 2.50 100
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLic COLLEGE Day Bangla Science Male 5.00 1.00 4.50 520
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLIC COLLEGE Morning Bangla Science Female 5.00 1.00 4.50 520
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLI‘ COLLEGE Morning Bangla Humanities Female 3.00 1.00 2.50 125
+Dhaka  Lalbagh 108161 BI RSH RES HTHA NOOR MOHAMMAD PUBLIC COLLEGE Morning English Science Both 5.00 1.00 4.50 230
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLIC COLLEGE Morning Bangla Business Studies Female 3.00 1.00 2.50 200
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLI‘ COLLEGE Day Bangla Business Studies Male 3.00 1.00 2.50 200
+Dhaka  Lalbagh 108161 BIRSHRESHTHA NOOR MOHAMMAD PUBLIc COLLEGE Day Bangla Humanities Male 3.00 1.00 2.50 125
+Dhaka  Lalbagh 108146 ENGINEERING UNIVERSITY GIRLS SCHOOL COLLEGE Morning Bangla Business Studies Female 3.00 1.00 0.00 60
+Dhaka  Lalbagh 108146 ENGINEERING UNIVERSITY GIRLS SCHOOL COLLEGE Morning Bangla Humanities Female 2.50 1.00 0.00 60
+Dhaka  Lalbagh 108146 ENGINEERING UNIVERSITY GIRLS SCHOOL & COLLEGE Morning Bangla Science Female 3.50 1.00 0.00 120
+Dhaka  Lalbagh 108158 GOVT. COLLEGE OF APPLIED HUMAN SCIENCE Day Bangla Home Science Female 3.00 0.00 0.00 120
+Dhaka  Lalbagh 108156 HAJI SALIM DEGREE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  Lalbagh 108156 HAJI SALIM DEGREE COLLEGE Day Bangla Science Both 2.00 0.00 0.00 150
+Dhaka  Lalbagh 108156 HAJI SALIM DEGREE COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 200
+Dhaka  Lalbagh 134596 ISLAMBAGH IDEAL COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Lalbagh 134596 ISLAMBAGH IDEAL COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 75
+Dhaka  Lalbagh 134596 ISLAMBAGH IDEAL COLLEGE Day Bangla Science Both 1.00 1.00 0.00 75
+Dhaka  Lalbagh 13208 l LALBAGH GOVT. MODEL SCHOOL AND COLLEGE Day Bangla Humanities Both 3.00 1.94 0.00 250
+Dhaka  Lalbagh 132081 LALBAGH GOVT. MODEL SCHOOL AND COLLEGE Day Bangla Science Both 4.00 4.00 0.00 200
+Dhaka  Lalbagh 132081 LALBAGH GOVT. MODEL SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.50 3.00 0.00 200
+Dhaka  Lalbagh 108154 NABAKUMAR INSTITUTION & DR. SHAHIDULLAH COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 300
+Dhaka  Lalbagh 108154 NABAKUMAR INSTITUTION & DR. SHAHIDULLAH COLLEGE Day Bangla Science Both 3.00 1.00 0.00 75
+Dhaka  Lalbagh 108154 NABAKUMAR INSTITUTION & DR. SHAHIDULLAH COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 250
+Dhaka  Lalbagh 108166 NUTON PALTAN LINE UCCHA MADHYAMIC BIDYALAYA Morning Bangla Business Studies Both 2.00 1.00 0.00 60
+Dhaka  Lalbagh 108166 NUTON PALTAN LINE UCCHA MADHYAMIC BIDYALAYA Morning Bangla Science Both 2.50 1.00 0.00 60
+Dhaka  Lalbagh 108166 NUTON PALTAN LINE UCCHA MADHYAMIC BIDYALAYA Morning Bangla Humanities Both 1.50 1.00 0.00 100
+Dhaka  Lalbagh 108145 RAHMATULLAH MODEL HIGH SCHOOL AN‘ COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Lalbagh 108145 RAHMATULLAH MODEL HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 100
+Dhaka  Lalbagh 108145 RAHMATULLAH MODEL HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Lalbagh 130642 RAYHAN COLLEGE Day Bangla Business Studies Both 1.50 1.00 0.00 300
+Dhaka  Lalbagh 130642 RAYHAN COLLEGE Day Bangla Science Both 2.00 1.00 0.00 100
+Dhaka  Lalbagh 130642 RAYHAN COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 200
+Dhaka  Lalbagh 137786 SAFIR IDEAL SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 70
+Dhaka  Lalbagh 137786 SAFIR IDEAL SCHOOL & COLLEGE Day Bangla Science Both 1.50 0.00 0.00 50
+Dhaka  Lalbagh 137786 SAFIR IDEAL SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Lalbagh 108165 SALEHA UCHCHA MADHYAMIK BIDYALAYA Day Bangla Humanities Both 2.00 1.00 0.00 150
+Dhaka  Lalbagh 108165 SALEHA UCHCHA MADHYAMIK BIDYALAYA Day Bangla Business Studies Both 2.50 1.00 0.00 150
+Dhaka  Lalbagh 108165 SALEHA UCHCHA MADHYAMIK BIDYALAYA Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Lalbagh 108137 SHEIKH BORHANUDDIN COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 300
+Dhaka  Lalbagh 108137 SHEIKH BORHANUDDIN COLLEGE Day Bangla Science Both 3.50 0.00 0.00 200
+Dhaka  Lalbagh 108137 SHEIKH BORHANUDDIN COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 225
+Dhaka  Mirpur 132085 AHSANIA MISSION COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Mirpur 132085 AHSANIA MISSION COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka  Mirpur 108222 B C I C COLLEGE Morning Bangla Science Female 4.75 1.00 4.00 300
+Dhaka  Mirpur 108222 B C I C COLLEGE Day Bangla Humanities Male 2.50 1.00 2.50 60
+Dhaka  Mirpur 108222 B C I C COLLEGE Day Bangla Business Studies Male 3.00 1.00 3.00 180
+Dhaka  Mirpur 108222 B C I C COLLEGE Morning Bangla Business Studies Female 3.00 1.00 3.00 180
+Dhaka  Mirpur 108222 B C I C COLLEGE Morning Bangla Humanities Female 2.50 1.00 2.50 60
+Dhaka  Mirpur 108222 B C I C COLLEGE Day Bangla Science Male 4.75 1.00 4.00 300
+Dhaka  Mirpur 108214 BANOPHOOL ADIBASHI GREEN HEART COLLEGE Day Bangla Humanities Both 1.75 1.00 0.00 80
+Dhaka  Mirpur 108214 BANOPHOOL ADIBASHI GREEN HEART COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka  Mirpur 108214 BANOPHOOL ADIBASHI GREEN HEART COLLEGE Morning Bangla Science Both 3.50 1.00 0.00 150
+Dhaka  Mirpur 108214 BANOPHOOL ADIBASHI GREEN HEART COLLEGE Morning Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka  Mirpur 108214 BANOPHOOL ADIBASHI GREEN HEART COLLEGE Morning English Science Both 3.50 1.00 0.00 50
+Dhaka  Mirpur 108214 BANOPHOOL ADIBASHI GREEN HEART COLLEGE Day Bangla Science Both 3.50 1.00 0.00 100
+Dhaka  Mirpur 108217 BASHIRUDDIN ADARSHA UCHCHA MADHYAMIK BIDYALAYA MIRPUR Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Mirpur 108217 BASHIRUDDIN ADARSHA UCHCHA MADHYAMIK BIDYALAYA MIRPUR Day Bangla Business Studies Both 1.00 1.00 0.00 60
+Dhaka  Mirpur 108217 BASHIRUDDIN ADARSHA UCHCHA MADHYAMIK BIDYALAYA MIRPUR Day Bangla Humanities Both 1.00 1.00 0.00 60
+Dhaka  Mirpur 108207 DHAKA COMM ERCE COLLEGE Day English Science Both 4.00 0.00 0.00 100
+Dhaka  Mirpur 108207 DHAKA COMMERCE COLLEGE Day English Business Studies Both 3.50 0.00 0.00 100
+Dhaka  Mirpur 108207 DHAKA COMM ERCE COLLEGE Day Bangla Business Studies Both 3.50 0.00 0.00 2900
+Dhaka  Mirpur 108207 DHAKA COMMERCE COLLEGE Day Bangla Science Both 4.00 0.00 0.00 1600
+Dhaka  Mirpur 133798 DHAKA MODEL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Mirpur 133798 DHAKA MODEL COLLEGE Day Bangla Science Both 2.50 1.00 0.00 80
+Dhaka  Mirpur 133798 DHAKA MODEL COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 100
+Dhaka  Mirpur 108208 DHAKA MODERN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka  Mirpur 108208 DHAKA MODERN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Dhaka  Mirpur 108208 DHAKA MODERN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Mirpur 108223 DHAKA SHIKSHA BOARD LABORATORY SCHOOL & COLLEGE Morning Bangla Business Studies Female 2.50 1.00 2.50 150
+Dhaka  Mirpur 108223 DHAKA SHIKSHA BOARD LABORATORY SCHOOL & COLLEGE Morning Bangla Science Female 3.50 1.00 3.00 150
+Dhaka  Mirpur 108223 DHAKA SHIKSHA BOARD LABORATORY SCHOOL & COLLEGE Morning Bangla Humanities Female 2.00 1.00 2.00 150
+Dhaka  Mirpur 134478 FM INTERNATIONAL COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 100
+Dhaka  Mirpur 134478 FM INTERNATIONAL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Mirpur 132200 GOVERNMENT RUPNAGAR MODEL SCHOOL AND COLLEGE Day Bangla Humanities Both 2.50 1.00 0.00 400
+Dhaka  Mirpur 132200 GOVERNMENT RUPNAGAR MODEL SCHOOL AND COLLEGE Day Bangla Science Both 4.00 1.00 0.00 400
+Dhaka  Mirpur 132200 GOVERNMENT RUPNAGAR MODEL SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 400
+Dhaka  Mirpur 108210 GOVT. BANGLA COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 750
+Dhaka  Mirpur 108210 GOVT. BANGLA COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 500
+Dhaka  Mirpur 108210 GOVT. BANGLA COLLEGE Day Bangla Science Both 4.00 0.00 0.00 400
+Dhaka  Mirpur 134180 GREEN FIELD COLLEGE Morning English Science Both 3.00 1.00 0.00 100
+Dhaka  Mirpur 134180 GREEN FIELD COLLEGE Morning Bangla Humanities Both 1.50 1.00 0.00 100
+Dhaka  Mirpur 134180 GREEN FIELD COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 150
+Dhaka  Mirpur 134180 GREEN FIELD COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Mirpur 131878 HARUN MOLLAH COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 300
+Dhaka  Mirpur 131878 HARUN MOLLAH COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Mirpur 131878 HARUN MOLLAH COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 250
+Dhaka  Mirpur 108209 HAZRAT SHAH ALI GIRLS SCHOOL AND COLLEGE Day Bangla Business Studies Female 2.50 1.00 0.00 150
+Dhaka  Mirpur 108209 HAZRAT SHAH ALI GIRLS SCHOOL AND COLLEGE Day Bangla Humanities Female 2.00 1.00 0.00 150
+Dhaka  Mirpur 108209 HAZRAT SHAH ALI GIRLS SCHOOL AND COLLEGE Day Bangla Science Female 3.00 1.00 0.00 75
+Dhaka  Mirpur 108218 KALLYANPUR GIRLS SCHOOL & COLLEGE Day Bangla Science Female 3.50 1.00 0.00 60
+Dhaka  Mirpur 108218 KALLYANPUR GIRLS SCHOOL & COLLEGE Day Bangla Business Studies Female 2.50 1.00 0.00 70
+Dhaka  Mirpur 108218 KALLYANPUR GIRLS SCHOOL & COLLEGE Day Bangla Humanities Female 2.00 1.00 0.00 60
+Dhaka  Mirpur 108188 MIRPUR BANGLA HIGHER SECONDARY SCHOOL Morning Bangla Science Both 1.50 1.00 0.00 50
+Dhaka  Mirpur 108188 MIRPUR BANGLA HIGHER SECONDARY SCHOOL Morning Bangla Humanities Both 1.00 1.00 0.00 60
+Dhaka  Mirpur 108188 MIRPUR BANGLA HIGHER SECONDARY SCHOOL Morning Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Mirpur 136788 MIRPUR CANTONMENT PUBLIC SCHOOL & COLLEGE Day English Science Both 4.50 1.00 1.00 80
+Dhaka  Mirpur 136788 MIRPUR CANTONMENT PUBLIC SCHOOL & COLLEGE Day Bangla Business Studies Both 4.00 1.00 1.00 80
+Dhaka  Mirpur 136788 MIRPUR CANTONMENT PUBLIC SCHOOL & COLLEGE Day Bangla Humanities Both 3.00 1.00 1.00 80
+Dhaka  Mirpur 136788 MIRPUR CANTONMENT PUBLIC SCHOOL & COLLEGE Day Bangla Science Both 5.00 1.00 1.00 370
+Dhaka  Mirpur 108206 MIRPUR COLLEGE Morning Bangla Humanities Both 2.50 1.00 0.00 260
+Dhaka  Mirpur 108206 MIRPUR COLLEGE Moming Bangla Business Studies Both 3.00 1.00 0.00 500
+Dhaka  Mirpur 108206 MIRPUR COLLEGE Morning Bangla Science Both 3.50 1.00 0.00 350
+Dhaka  Mirpur 138449 MIRPUR ENGLISH VERSION COLLEGE Morning English Science Both 1.00 1.00 0.00 60
+Dhaka  Mirpur 138449 MIRPUR ENGLISH VERSION COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 40
+Dhaka  Mirpur 138449 MIRPUR ENGLISH VERSION COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 40
+Dhaka  Mirpur 138449 MIRPUR ENGLISH VERSION COLLEGE Morning Bangla Humanities Both 1.00 1.00 0.00 80
+Dhaka  Mirpur 138449 MIRPUR ENGLISH VERSION COLLEGE Morning English Business Studies Both 2.00 1.00 0.00 60
+Dhaka  Mirpur 138449 MIRPUR ENGLISH VERSION COLLEGE Morning English Humanities Both 3.00 1.00 0.00 20
+Dhaka  Mirpur 138960 MIRPUR SCIENCE COLLEGE Morning Bangla Science Both 4.00 0.00 0.00 200
+Dhaka  Mirpur 108181 MONIPUR UCCHA BIDDALAYA & COLLEGE Day English Business Studies Both 3.00 1.00 0.00 50
+Dhaka  Mirpur 108181 MONIPUR UCCHA BIDDALAYA & COLLEGE Day Bangla Science Both 4.00 1.00 0.00 450
+Dhaka  Mirpur 108181 MONIPUR UCCHA BIDDALAYA & COLLEGE Day English Science Both 4.00 1.00 0.00 100
+Dhaka  Mirpur 108181 MONIPUR UCCHA BIDDALAYA & COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 100
+Dhaka  Mirpur 136850 NORTH WESTERN COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Mirpur 136850 NORTH WESTERN COLLEGE Morning Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Mirpur 136850 NORTH WESTERN COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 100
+Dhaka  Mirpur 134216 PRIME CITY INTERNATIONAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Mirpur 134216 PRIME CITY INTERNATIONAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Mirpur 134216 PRI M E CITY INTERNATIONAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Mirpur 137677 PRIME SCHOLARS COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Mirpur 137677 PRI M E SCHOLARS COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Mirpur 137677 PRIME SCHOLARS COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Mirpur 108216 RAJDHANI MOHILA COLLEGE Day Bangla Science Female 1.00 0.00 0.00 50
+Dhaka  Mirpur 108216 RAJDHANI MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 60
+Dhaka  Mirpur 108216 RAJDHANI MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 60
+Dhaka  Mirpur 108215 S O S HERMANN GMEINER COLLEGE Morning Bangla Science Both 5.00 1.00 0.00 110
+Dhaka  Mirpur 132127 SHAHEED POLICE SMRITY COLLEGE Morning Bangla Humanities Female 3.00 1.00 2.50 40
+Dhaka  Mirpur 132127 SHAHEED POLICE SMRITY COLLEGE Day Bangla Science Male 4.89 1.00 4.50 320
+Dhaka  Mirpur 132127 SHAHEED POLICE SMRITY COLLEGE Day Bangla Humanities Male 3.00 1.00 2.50 40
+Dhaka  Mirpur 132127 SHAHEED POLICE SMRITY COLLEGE Morning Bangla Business Studies Female 3.25 1.00 3.00 80
+Dhaka  Mirpur 132127 SHAHEED POLICE SMRITY COLLEGE Day Bangla Business Studies Male 3.25 1.00 3.00 80
+Dhaka  Mirpur 132127 SHAHEED POLICE SMRITY COLLEGE Morning Bangla Science Female 4.89 1.00 4.50 320
+Dhaka  Mirpur 132141 SHAROJ INTERNATIONAL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Mirpur 132141 SHAROJ INTERNATIONAL COLLEGE Day Bangla Science Both 2.50 1.00 0.00 50
+Dhaka  Mirpur 108212 SHEIKH FAZILATUNNES SA MOHILA COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka  Mirpur 108212 SHEIKH FAZILATUNNES SA MOHILA COLLEGE Day Bangla Science Female 1.50 1.00 0.00 50
+Dhaka  Mirpur 108212 SHEIKH FAZILATUNNES SA MOHILA COLLEGE Day Bangla Business Studies Female 1.50 1.00 0.00 100
+Dhaka  Mirpur 130926 UNIVERSE COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Mirpur 130926 UNIVERSE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Mirpur 130926 UNIVERSE COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Mohammadpur 108252 ALHAZ MOCKBUL HOSSAIN COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 300
+Dhaka  Mohammadpur 108252 ALHAZ MOCKBUL HOSSAIN COLLEGE Day Bangla Science Both 3.00 1.00 0.00 100
+Dhaka  Mohammadpur 108252 ALHAZ MOCKBUL HOSSAIN COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 300
+Dhaka  Mohammadpur 131919 ALHERA COLLEGE Day Bangla Science Both 2.00 0.00 0.00 45
+Dhaka  Mohammadpur 131919 ALHERA COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Mohammadpur 131919 ALHERA COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 60
+Dhaka  Mohammadpur 108263 BADSHAH FAISAL INSTITUTE (HIGHER SECONDARY SCHOOL) Day Bangla Business Studies Both 2.50 1.00 0.00 70
+Dhaka  Mohammadpur 108263 BADSHAH FAISAL INSTITUTE (HIGHER SECONDARY SCHOOL) Day Bangla Science Both 3.00 1.00 0.00 60
+Dhaka  Mohammadpur 107981 DHAKA STATE COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 250
+Dhaka  Mohammadpur 107981 DHAKA STATE COLLEGE Day Bangla Science Both 3.50 0.00 0.00 150
+Dhaka  Mohammadpur 107981 DHAKA STATE COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 125
+Dhaka  Mohammadpur 137590 DHAKA UDYAN GOVT. COLLEGE Day Bangla Business Studies Both 3.25 0.00 0.00 300
+Dhaka  Mohammadpur 137590 DHAKA UDYAN GOVT. COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 300
+Dhaka  Mohammadpur 137590 DHAKA UDYAN GOVT. COLLEGE Day Bangla Science Both 4.00 0.00 0.00 300
+Dhaka  Mohammadpur 131916 FIROZA BASHAR IDEAL COLLEGE Day Bangla Business Studies Male 3.00 3.00 0.00 120
+Dhaka  Mohammadpur 131916 FIROZA BASHAR IDEAL COLLEGE Day Bangla Humanities Male 2.50 2.50 0.00 30
+Dhaka  Mohammadpur 131916 FIROZA BASHAR IDEAL COLLEGE Morning Bangla Business Studies Female 3.00 3.00 0.00 120
+Dhaka  Mohammadpur 131916 FIROZA BASHAR IDEAL COLLEGE Day Bangla Science Male 4.00 4.00 0.00 70
+Dhaka  Mohammadpur 131916 FIROZA BASHAR IDEAL COLLEGE Morning Bangla Science Female 4.00 4.00 0.00 60
+Dhaka  Mohammadpur 131916 FIROZA BASHAR IDEAL COLLEGE Morning Bangla Humanities Female 2.50 2.50 0.00 40
+Dhaka  Mohammadpur 108239 GOVT. JAMILA AYEENUL ANANDA BIDDALAY COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 50
+Dhaka  Mohammadpur 108239 GOVT. JAMILA AYEENUL ANANDA BIDDALAY COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Mohammadpur 108239 GOVT. JAMILA AYEENUL ANANDA BIDDALAY COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Mohammadpur 108264 GOVT. MOHAMMADPUR MODEL SCHOOL COLLEGE Day Bangla Humanities Male 3.50 1.00 0.00 60
+Dhaka  Mohammadpur 108264 GOVT. MOHAMMADPUR MODEL SCHOOL COLLEGE Morning Bangla Business Studies Female 3.50 1.00 0.00 120
+Dhaka  Mohammadpur 108264 GOVT. MOHAMMADPUR MODEL SCHOOL COLLEGE Day Bangla Science Male 4.75 1.00 0.00 220
+Dhaka  Mohammadpur 108264 GOVT. MOHAMMADPUR MODEL SCHOOL COLLEGE Morning Bangla Science Female 4.50 1.00 0.00 180
+Dhaka  Mohammadpur 108264 GOVT. MOHAMMADPUR MODEL SCHOOL COLLEGE Morning Bangla Humanities Female 3.25 1.00 0.00 60
+Dhaka  Mohammadpur 108264 GOVT. MOHAMMADPUR MODEL SCHOOL COLLEGE Day Bangla Business Studies Male 3.75 1.00 0.00 120
+Dhaka  Mohammadpur 108260 KISHOLOY BALIKA BIDDALOY O COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 60
+Dhaka  Mohammadpur 108260 KISHOLOY BALIKA BIDDALOY O COLLEGE Day Bangla Science Female 3.00 2.50 0.00 50
+Dhaka  Mohammadpur 108260 KISHOLOY BALIKA BIDDALOY O COLLEGE Day Bangla Business Studies Female 2.50 2.00 0.00 60
+Dhaka  Mohammadpur 108261 LALMATIA HOUSING SOCIETY BOYS UCHCHA MADHYAMIK BIDYALAYA Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Mohammadpur 108261 LALMATIA HOUSING SOCIETY BOYS UCHCHA MADHYAMIK BIDYALAYA Day Bangla Business Studies Both 2.00 1.00 0.00 60
+Dhaka  Mohammadpur 108261 LALMATIA HOUSING SOCIETY BOYS UCHCHA MADHYAMIK BIDYALAYA Day Bangla Humanities Both 1.50 1.00 0.00 60
+Dhaka  Mohammadpur 108251 LALMATIA MOHILA COLLEGE Day Bangla Humanities Female 3.00 0.00 0.00 200
+Dhaka  Mohammadpur 108251 LALMATIA MOHILA COLLEGE Day Bangla Business Studies Female 3.50 0.00 0.00 150
+Dhaka  Mohammadpur 108251 LALMATIA MOHILA COLLEGE Day Bangla Science Female 4.50 0.00 0.00 300
+Dhaka  Mohammadpur 130583 LAUREL INTERNATIONAL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Mohammadpur 130583 LAUREL INTERNATIONAL COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 90
+Dhaka  Mohammadpur 130583 LAUREL INTERNATIONAL COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 60
+Dhaka  Mohammadpur 133997 LYCEUM COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 50
+Dhaka  Mohammadpur 133997 LYCEUM COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka  Mohammadpur 134614 MISSION INTERNATIONAL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Mohammadpur 134614 MISSION INTERNATIONAL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 60
+Dhaka  Mohammadpur 134614 MISSION INTERNATIONAL COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 60
+Dhaka  Mohammadpur 132162 MOHAMMADPUR GOVT. COLLEGE Day Bangla Business Studies Both 3.75 0.00 0.00 400
+Dhaka  Mohammadpur 132162 MOHAMMADPUR GOVT. COLLEGE Day Bangla Humanities Both 3.50 0.00 0.00 175
+Dhaka  Mohammadpur 132162 MOHAMMADPUR GOVT. COLLEGE Day Bangla Science Both 4.75 0.00 0.00 410
+Dhaka  Mohammadpur 108254 MOHAMMADPUR KENDRYO COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 500
+Dhaka  Mohammadpur 108254 MOHAMMADPUR KENDRYO COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 500
+Dhaka  Mohammadpur 108254 MOHAMMADPUR KENDRYO COLLEGE Day Bangla Science Both 4.00 0.00 0.00 400
+Dhaka  Mohammadpur 108255 MOHAMMADPUR MOHILA COLLEGE Morning Bangla Science Female 3.00 0.00 0.00 150
+Dhaka  Mohammadpur 108255 MOHAMMADPUR MOHILA COLLEGE Morning Bangla Business Studies Female 2.50 0.00 0.00 150
+Dhaka  Mohammadpur 108255 MOHAMMADPUR MOHILA COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 150
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Day English Science Female 4.50 4.00 0.00 140
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Morning Bangla Business Studies Female 3.00 3.00 0.00 180
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Morning Bangla Science Female 4.75 4.00 0.00 280
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL & COLLEGE Morning Male Bangla Business Studies Male 3.00 3.00 0.00 100
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Morning Bangla Humanities Female 2.75 1.00 0.00 70
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Day English Business Studies Female 3.00 3.00 0.00 70
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Day Male English Science Male 4.50 4.00 0.00 1 20
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL COLLEGE Day Male English Business Studies Male 3.00 3.00 0.00 70
+Dhaka  Mohammadpur 132107 MOHAMMADPUR PREPARATORY SCHOOL & COLLEGE Morning Male Bangla Science Male 4.50 4.00 0.00 250
+Dhaka  Mohammadpur 134610 NORTHERN UNIVERSITY LABORATORY COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 60
+Dhaka  Mohammadpur 134610 NORTHERN UNIVERSITY LABORATORY COLLEGE Day Bangla Business Studies Both 1.50 1.00 0.00 90
+Dhaka  Mohammadpur 134610 NORTHERN UNIVERSITY LABORATORY COLLEGE Day Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Mohammadpur 108256 PIONEER COLLEGE DHAKA Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Mohammadpur 108256 PIONEER COLLEGE DHAKA Day Bangla Science Both 2.00 0.00 0.00 50
+Dhaka  Mohammadpur 108256 PIONEER COLLEGE DHAKA Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Mohammadpur 130560 QUEENS COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Mohammadpur 130560 QUEENS COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 150
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Day Bangla Business Studies Male 4.50 4.25 0.00 55
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Day Bangla Humanities Male 4.00 4.00 0.00 55
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Day Bangla Science Male 5.00 4.50 0.00 326
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Morning Bangla Business Studies Male 4.50 4.50 0.00 55
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Morning English Science Male 5.00 4.75 0.00 71
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Morning Bangla Humanities Male 4.25 4.25 0.00 58
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Morning Bangla Science Male 5.00 4.75 0.00 324
+Dhaka  Mohammadpur 108258 RESIDENTIAL MODEL COLLEGE Day English Science Male 5.00 4.50 0.00 70
+Dhaka  Mohammadpur 138808 SHURER DHARA COLLEGE OF MUSIC Day Bangla Music Both 1.00 0.00 0.00 100
+Dhaka  Mohammadpur 136907 SHYAMOLI IDEAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Mohammadpur 136907 SHYAMOLI IDEAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Mohammadpur 136907 SHYAMOLI IDEAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Mohammadpur 136836 SUNWAY SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.80 1.00 0.00 50
+Dhaka  Mohammadpur 136836 SUNWAY SCHOOL AND COLLEGE Day Bangla Science Both 2.50 1.00 0.00 50
+Dhaka  Mohammadpur 134446 WINSOME COLLEGE Day Bangla Science Both 1.00 1.00 0.00 150
+Dhaka  Mohammadpur 134446 WINSOME COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Motijheel 108589 ARAMBAG HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 60
+Dhaka  Motijheel 108589 ARAMBAG HIGH SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Motijheel 108589 ARAMBAG HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 60
+Dhaka  Motijheel 108586 DHAKA CITY INTERNATIONAL COLLEGE SHAHIDBAGH Day Bangla Humanities Both 1.00 0.00 0.00 60
+Dhaka  Motijheel 108586 DHAKA CITY INTERNATIONAL COLLEGE SHAHIDBAGH Day Bangla Business Studies Both 1.00 0.00 0.00 60
+Dhaka  Motijheel 108586 DHAKA CITY INTERNATIONAL COLLEGE SHAHIDBAGH Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Motijheel 108277 IDEAL SCHOOL AND COLLEGE MOTIJHEEL Morning English Science Female 5.00 1.00 0.00 85
+Dhaka  Motijheel 108277 IDEAL SCHOOL AND COLLEGE MOTIJHEEL Morning Bangla Science Female 5.00 4.50 0.00 650
+Dhaka  Motijheel 108277 IDEAL SCHOOL AND COLLEGE MOTIJHEEL Morning Bangla Business Studies Female 4.50 4.00 0.00 240
+Dhaka  Motijheel 108277 IDEAL SCHOOL AND COLLEGE MOTIJHEEL Morning Bangla Humanities Female 3.00 3.00 0.00 190
+Dhaka  Motijheel 108579 KAMALAPUR SHER-E-BANGLA RAILWAY SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Motijheel 108579 KAMALAPUR SHER-E-BANGLA RAILWAY SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Motijheel 108579 KAMALAPUR SHER-E-BANGLA RAILWAY SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Motijheel 132088 MOTIJHEEL GOVT. BOYS HIGH SCHOOL Day Bangla Business Studies Male 4.00 1.00 0.00 125
+Dhaka  Motijheel 132088 MOTIJHEEL GOVT. BOYS HIGH SCHOOL Day Bangla Science Male 4.50 1.00 0.00 140
+Dhaka  Motijheel 130865 MOTIJHEEL MODEL SCHOOL AND COLLEGE Morning Bangla Business Studies Female 3.00 1.00 0.00 200
+Dhaka  Motijheel 130865 MOTIJHEEL MODEL SCHOOL AND COLLEGE Morning Bangla Science Female 4.00 1.00 0.00 550
+Dhaka  Motijheel 130865 MOTIJHEEL MODEL SCHOOL AND COLLEGE Morning Bangla Humanities Female 2.00 1.00 0.00 150
+Dhaka  Motijheel 108276 PURANA PALTAN COLLEGE Morning Bangla Science Both 1.50 0.00 0.00 50
+Dhaka  Motijheel 108276 PURANA PALTAN COLLEGE Morning Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Motijheel 108276 PURANA PALTAN COLLEGE Morning Bangla Business Studies Both 1.50 0.00 0.00 50
+Dhaka  Motijheel 108279 RAJARBAG POLICE LINES SCHOOL & COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Motijheel 108279 RAJARBAG POLICE LINES SCHOOL & COLLEGE Day Bangla Science Both 4.00 1.00 0.00 225
+Dhaka  Motijheel 108279 RAJARBAG POLICE LINES SCHOOL & COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 225
+Dhaka  Motijheel 108585 T & T COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Motijheel 108585 T & T COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Motijheel 108585 T & T COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  NewMarket 107961 B C S I R SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  NewMarket 107961 B C S I R SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  NewMarket 107961 B C S I R SCHOOL & COLLEGE Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka  NewMarket 135247 DHAKA GOLDEN COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Dhaka  NewMarket 135247 DHAKA GOLDEN COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 50
+Dhaka  NewMarket 134594 WESTERN COLLEGE Day Bangla Humanities Both 1.90 0.00 0.00 100
+Dhaka  NewMarket 134594 WESTERN COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Dhaka  NewMarket 134594 WESTERN COLLEGE Day Bangla Science Both 3.00 0.00 0.00 150
+Dhaka  Pallabi 134634 BELAL AHMED COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Pallabi 134634 BELAL AHMED COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 60
+Dhaka  Pallabi 134634 BELAL AHMED COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 60
+Dhaka  Pallabi 108337 DR. MOHAMMAD SHAHIDULLAH ADARSHA UCHCHA MADYMIC BIDYAPITH Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Pallabi 108337 DR. MOHAMMAD SHAHIDULLAH ADARSHA UCHCHA MADYMIC BIDYAPITH Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Pallabi 108337 DR. MOHAMMAD SHAHIDULLAH ADARSHA UCHCHA MADYMIC BIDYAPITH Day Bangla Science Both 2.50 1.00 0.00 50
+Dhaka  Pallabi 138380 DUARIPARA GOVERNMENT COLLEGE Day Bangla Science Both 4.00 0.00 0.00 300
+Dhaka  Pallabi 138380 DUARI PARA GOVERNM ENT COLLEGE Day Bangla Humanities Both 3.25 0.00 0.00 300
+Dhaka  Pallabi 138380 DUARIPARA GOVERNMENT COLLEGE Day Bangla Business Studies Both 3.50 0.00 0.00 300
+Dhaka  Pallabi 108211 GOVT. BANGABANDHU COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 300
+Dhaka  Pallabi 108211 GOVT. BANGABANDHU COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 450
+Dhaka  Pallabi 108211 GOVT. BANGABANDHU COLLEGE Day Bangla Science Both 4.00 0.00 0.00 300
+Dhaka  Pallabi 138894 MIRPUR GIRLS IDEAL COLLEGE Morning Bangla Business Studies Female 3.00 1.00 0.00 550
+Dhaka  Pallabi 138894 MIRPUR GIRLS IDEAL COLLEGE Morning Bangla Humanities Female 2.50 1.00 0.00 300
+Dhaka  Pallabi 138894 MIRPUR GIRLS IDEAL COLLEGE Morning Bangla Science Female 4.00 1.00 0.00 450
+Dhaka  Pallabi 108335 PALLABI COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Pallabi 108335 PALLABI COLLEGE Day Bangla Science Both 1.50 0.00 0.00 40
+Dhaka  Pallabi 108335 PALLABI COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Pallabi 108334 PALLABI MOHILA DEGREE COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 150
+Dhaka  Pallabi 108334 PALLABI MOHILA DEGREE COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 150
+Dhaka  Pallabi 108334 PALLABI MOHILA DEGREE COLLEGE Day Bangla Science Female 1.00 0.00 0.00 50
+Dhaka  Pallabi 133925 THE AUSTRALASIAN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Pallabi 133925 THE AUSTRALASIAN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Pallabi 133925 THE AUSTRALASIAN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Ramna 132367 BIAM MODEL SCHOOL & COLLEGE Day English Science Both 4.00 1.00 0.00 100
+Dhaka  Ramna 132367 BIAM MODEL SCHOOL & COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 50
+Dhaka  Ramna 132367 BIAM MODEL SCHOOL & COLLEGE Day English Business Studies Both 3.00 1.00 0.00 50
+Dhaka  Ramna 132367 BIAM MODEL SCHOOL & COLLEGE Day Bangla Science Both 4.00 1.00 0.00 100
+Dhaka  Ramna 108358 ENGINEERING UNIVERSITY SCHOOL AND COLLEGE Morning Bangla Science Both 5.00 1.00 4.75 300
+Dhaka  Ramna 108358 ENGINEERING UNIVERSITY SCHOOL AND COLLEGE Morning Bangla Business Studies Both 3.50 1.00 3.50 75
+Dhaka  Ramna 108351 HABIBULLAH BAHAR COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 200
+Dhaka  Ramna 108351 HABIBULLAH BAHAR COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 300
+Dhaka  Ramna 108351 HABIBULLAH BAHAR COLLEGE Day Bangla Science Both 4.00 0.00 0.00 200
+Dhaka  Ramna 108360 ISPAHANI GIRLS SCHOOL AND COLLEGE Morning Bangla Humanities Female 2.00 1.00 0.00 100
+Dhaka  Ramna 108360 ISPAHANI GIRLS SCHOOL AND COLLEGE Morning Bangla Business Studies Female 2.50 1.00 0.00 100
+Dhaka  Ramna 108360 ISPAHANI GIRLS SCHOOL AND COLLEGE Morning Bangla Science Female 3.50 1.00 0.00 150
+Dhaka  Ramna 108340 SHER-E-BANGLA SCHOOL AND COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 60
+Dhaka  Ramna 108340 SHER-E-BANGLA SCHOOL AND COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Ramna 108340 SHER-E-BANGLA SCHOOL AND COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Ramna 108353 SIDDHESWARI COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 250
+Dhaka  Ramna 108353 SIDDHESWARI COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 300
+Dhaka  Ramna 108353 SIDDHESWARI COLLEGE Day Bangla Science Both 3.50 0.00 0.00 300
+Dhaka  Ramna 108352 SIDDHESWARI GIRLS COLLEGE Day Bangla Business Studies Female 3.50 0.00 0.00 450
+Dhaka  Ramna 108352 SIDDHESWARI GIRLS COLLEGE Day Bangla Humanities Female 2.50 0.00 0.00 180
+Dhaka  Ramna 108352 SIDDHESWARI GIRLS COLLEGE Day Bangla Science Female 4.00 0.00 0.00 460
+Dhaka  Ramna 108355 UDAYAN UCHCHA MADHYAMIK BIDYALAYA Morning Bangla Science Both 5.00 4.56 1.00 300
+Dhaka  Ramna 108355 UDAYAN UCHCHA MADHYAMIK BIDYALAYA Morning Bangla Business Studies Both 3.50 3.33 1.00 200
+Dhaka  Ramna 108362 UNIVERSITY LABORATORY COLLEGE Day Bangla Humanities Both 3.30 3.00 3.30 50
+Dhaka  Ramna 108362 UNIVERSITY LABORATORY COLLEGE Day Bangla Business Studies Both 3.50 3.00 2.70 75
+Dhaka  Ramna 108362 UNIVERSITY LABORATORY COLLEGE Day Bangla Science Both 4.70 4.50 4.70 150
+Dhaka  Ramna 108357 VIQARUNNISA NOON SCHOOL AND COLLEGE Morning Bangla Humanities Female 4.00 3.50 0.00 249
+Dhaka  Ramna 108357 VIQARUNNISA NOON SCHOOL AND COLLEGE Morning Bangla Business Studies Female 4.50 3.00 0.00 301
+Dhaka  Ramna 108357 VIQARUNNISA NOON SCHOOL AND COLLEGE Morning Bangla Science Female 5.00 3.50 0.00 1666
+Dhaka  Ramna 108357 VIQARUNNISA NOON SCHOOL AND COLLEGE Morning English Science Female 5.00 3.50 0.00 160
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Day Bangla Business Studies Male 3.00 1.00 0.00 250
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Day English Science Male 4.00 1.00 0.00 100
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Day Bangla Humanities Male 2.50 1.00 0.00 50
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Day Bangla Science Male 4.00 1.00 0.00 350
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Morning English Science Female 4.00 1.00 0.00 100
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Morning Bangla Business Studies Female 3.00 1.00 0.00 100
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Morning Bangla Humanities Female 2.50 1.00 0.00 50
+Dhaka  Ramna 108359 WILLES LITTLE FLOWER SCHOOL & COLLEGE Morning Bangla Science Female 4.00 1.00 0.00 200
+Dhaka  Rampura 134136 AL FURQAN ENGLISH HIGH SCHOOL AND GIRL' COLLEGE Day Bangla Science Female 1.00 1.00 0.00 100
+Dhaka  Rampura 134136 AL FURQAN ENGLISH HIGH SCHOOL AND GIRL' COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka  Rampura 134136 AL FURQAN ENGLISH HIGH SCHOOL AND GIRL' COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 100
+Dhaka  Rampura 134255 RAJDHANI IDEAL COLLEGE Morning Bangla Science Both 3.50 1.00 0.00 150
+Dhaka  Rampura 134255 RAJDHANI IDEAL COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Rampura 134255 RAJDHANI IDEAL COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Rampura 108034 RAMPURA EKRAMUNNESA COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Rampura 108034 RAMPURA EKRAMUNNESA COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 90
+Dhaka  Rampura 108034 RAMPURA EKRAMUNNESA COLLEGE Day Bangla Science Both 1.00 0.00 0.00 40
+Dhaka  SHER_E_BANGLA_NAGAR 108262 BANGABANDHU SHEIKH MUJIB ACADEMY Day Bangla Business Studies Male 1.00 1.00 0.00 150
+Dhaka  SHER_E_BANGLA_NAGAR 108262 BANGABANDHU SHEIKH MUJIB ACADEMY Morning Bangla Business Studies Female 1.00 1.00 0.00 150
+Dhaka  SHER_E_BANGLA_NAGAR 108262 BANGABANDHU SHEIKH MUJIB ACADEMY Morning Bangla Science Female 1.00 1.00 0.00 50
+Dhaka  SHER_E_BANGLA_NAGAR 108262 BANGABANDHU SHEIKH MUJIB ACADEMY Day Bangla Humanities Male 1.00 1.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108262 BANGABANDHU SHEIKH MUJIB ACADEMY Morning Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108262 BANGABANDHU SHEIKH MUJIB ACADEMY Day Bangla Science Male 1.00 1.00 0.00 50
+Dhaka  SHER_E_BANGLA_NAGAR 108249 GOVT. SANGEET COLLEGE Day Bangla Music Both 1.00 0.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108249 GOVT. SANGEET COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108534 SHER_E_BANGLA_NAGAR ADARSHA MAHILA COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 60
+Dhaka  SHER_E_BANGLA_NAGAR 108534 SHER_E_BANGLA_NAGAR ADARSHA MAHILA COLLEGE Morning Bangla Science Female 3.00 0.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108534 SHER_E_BANGLA_NAGAR ADARSHA MAHILA COLLEGE Morning Bangla Business Studies Female 2.50 0.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108241 SHER_E_BANGLA_NAGAR GOVT. BOYS HIGH SCHOOL Day Bangla Science Male 4.00 1.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108241 SHER_E_BANGLA_NAGAR GOVT. BOYS HIGH SCHOOL Day Bangla Business Studies Male 3.50 1.00 0.00 125
+Dhaka  SHER_E_BANGLA_NAGAR 108518 SHER_E_BANGLA_NAGAR GOVT. GIRLS HIGH SCHOOL Day Bangla Business Studies Female 3.50 1.00 0.00 100
+Dhaka  SHER_E_BANGLA_NAGAR 108518 SHER_E_BANGLA_NAGAR GOVT. GIRLS HIGH SCHOOL Day Bangla Science Female 4.00 1.00 0.00 60
+Dhaka  Sabujbagh 136874 ASIAN IDEAL COLLEGE Morning Bangla Science Female 3.00 0.00 0.00 100
+Dhaka  Sabujbagh 136874 ASIAN IDEAL COLLEGE Day Bangla Business Studies Male 2.00 0.00 0.00 100
+Dhaka  Sabujbagh 136874 ASIAN IDEAL COLLEGE Morning Bangla Business Studies Female 2.00 0.00 0.00 100
+Dhaka  Sabujbagh 136874 ASIAN IDEAL COLLEGE Day Bangla Science Male 3.00 0.00 0.00 100
+Dhaka  Sabujbagh 130930 CENTRAL IDEAL COLLEGE Morning Bangla Business Studies Female 2.50 0.00 0.00 25
+Dhaka  Sabujbagh 130930 CENTRAL IDEAL COLLEGE Morning Bangla Science Female 3.50 0.00 0.00 25
+Dhaka  Sabujbagh 130930 CENTRAL IDEAL COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 25
+Dhaka  Sabujbagh 130930 CENTRAL IDEAL COLLEGE Day Bangla Business Studies Male 2.50 0.00 0.00 25
+Dhaka  Sabujbagh 130930 CENTRAL IDEAL COLLEGE Day Bangla Humanities Male 2.00 0.00 0.00 25
+Dhaka  Sabujbagh 130930 CENTRAL IDEAL COLLEGE Day Bangla Science Male 3.50 0.00 0.00 25
+Dhaka  Sabujbagh 134570 DHAKA BIGYAN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 150
+Dhaka  Sabujbagh 134570 DHAKA BIGYAN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka  Sabujbagh 108386 H R MEMORIAL COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka  Sabujbagh 108386 H R MEMORIAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Sabujbagh 108386 H R MEMORIAL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Sabujbagh 108368 HAIDER ALI SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Sabujbagh 108368 HAIDER ALI SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Sabujbagh 108368 HAIDER ALI SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Sabujbagh 108388 KADAMTOLA PURBO BASHABO SCHOOL & COLLEGE Day English Business Studies Both 3.00 1.00 0.00 50
+Dhaka  Sabujbagh 108388 KADAMTOLA PURBO BASHABO SCHOOL & COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 200
+Dhaka  Sabujbagh 108388 KADAMTOLA PURBO BASHABO SCHOOL & COLLEGE Day Bangla Humanities Both 2.50 1.00 0.00 100
+Dhaka  Sabujbagh 108388 KADAMTOLA PURBO BASHABO SCHOOL & COLLEGE Day English Humanities Both 2.50 1.00 0.00 50
+Dhaka  Sabujbagh 108388 KADAMTOLA PURBO BASHABO SCHOOL & COLLEGE Day English Science Both 3.50 1.00 0.00 50
+Dhaka  Sabujbagh 108388 KADAMTOLA PURBO BASHABO SCHOOL & COLLEGE Day Bangla Science Both 3.50 1.00 0.00 100
+Dhaka  Sabujbagh 108393 KAMALAPUR SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Sabujbagh 108393 KAMALAPUR SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Sabujbagh 108393 KAMALAPUR SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 90
+Dhaka  Sabujbagh 134220 METROPOLITAN CREATIVE COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 150
+Dhaka  Sabujbagh 134220 METROPOLITAN CREATIVE COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Sabujbagh 134220 METROPOLITAN CREATIVE COLLEGE Day Bangla Science Both 2.00 1.00 0.00 150
+Dhaka  Sabujbagh 134579 MOHANAGAR IDEAL COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 40
+Dhaka  Sabujbagh 134579 MOHANAGAR IDEAL COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 40
+Dhaka  Sabujbagh 134579 MOHANAGAR IDEAL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 40
+Dhaka  Sabujbagh 134579 MOHANAGAR IDEAL COLLEGE Day Bangla Science Both 3.00 1.00 0.00 40
+Dhaka  Sabujbagh 134579 MOHANAGAR IDEAL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 40
+Dhaka  Sabujbagh 134579 MOHANAGAR IDEAL COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 40
+Dhaka  Sabujbagh 108391 MOTHERTEK ABDUL AZIZ UCHCHA MADHYAMIK BIDYALYA Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Sabujbagh 108391 MOTHERTEK ABDUL AZIZ UCHCHA MADHYAMIK BIDYALYA Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Sabujbagh 108391 MOTHERTEK ABDUL AZIZ UCHCHA MADHYAMIK BIDYALYA Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Sabujbagh 138382 SABUJBAGH GOVERNMENT COLLEGE DHAKA Day Bangla Humanities Both 3.50 0.00 0.00 160
+Dhaka  Sabujbagh 138382 SABUJBAGH GOVERNMENT COLLEGE DHAKA Day Bangla Science Both 5.00 0.00 0.00 313
+Dhaka  Sabujbagh 138382 SABUJBAGH GOVERNMENT COLLEGE DHAKA Day Bangla Business Studies Both 4.25 0.00 0.00 160
+Dhaka  Shahjahanpur 108272 ABUDHARR GHIFARI COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 100
+Dhaka  Shahjahanpur 108272 ABUDHARR GHIFARI COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 150
+Dhaka  Shahjahanpur 108272 ABUDHARR GHIFARI COLLEGE Day Bangla Science Both 3.50 0.00 0.00 100
+Dhaka  Shahjahanpur 137719 DHAKA OXFORD INTERNATIONAL COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Shahjahanpur 137719 DHAKA OXFORD INTERNATIONAL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Shahjahanpur 137719 DHAKA OXFORD INTERNATIONAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Shahjahanpur 108275 MIRZA ABBAS MOHILA COLLEGE Day Bangla Science Female 2.00 0.00 0.00 50
+Dhaka  Shahjahanpur 108275 MIRZA ABBAS MOHILA COLLEGE Day Bangla Business Studies Female 1.50 0.00 0.00 90
+Dhaka  Shahjahanpur 108275 MIRZA ABBAS MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 60
+Dhaka  Sutrapur 108512 CENTRAL WOMENS COLLEGE Morning Bangla Business Studies Female 3.00 0.00 0.00 660
+Dhaka  Sutrapur 108512 CENTRAL WOMENS COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 400
+Dhaka  Sutrapur 108512 CENTRAL WOMENS COLLEGE Morning Bangla Science Female 3.50 0.00 0.00 750
+Dhaka  Sutrapur 137718 CITY INTERNATIONAL COLLEGE Day Bangla Science Male 2.00 0.00 0.00 50
+Dhaka  Sutrapur 137718 CITY INTERNATIONAL COLLEGE Day Bangla Business Studies Male 1.00 0.00 0.00 50
+Dhaka  Sutrapur 137718 CITY INTERNATIONAL COLLEGE Day Bangla Humanities Male 1.00 0.00 0.00 50
+Dhaka  Sutrapur 137718 CITY INTERNATIONAL COLLEGE Morning Bangla Humanities Female 1.00 0.00 0.00 50
+Dhaka  Sutrapur 137718 CITY INTERNATIONAL COLLEGE Morning Bangla Science Female 2.00 0.00 0.00 50
+Dhaka  Sutrapur 137718 CITY INTERNATIONAL COLLEGE Morning Bangla Business Studies Female 1.00 0.00 0.00 50
+Dhaka  Sutrapur 132087 COSMOPOLITAN COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Sutrapur 132087 COSMOPOLITAN COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Sutrapur 132087 COSMOPOLITAN COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Sutrapur 108509 DHAKA MAHANAGAR GIRLS COLLEGE Day Bangla Science Female 3.00 1.00 0.00 300
+Dhaka  Sutrapur 108509 DHAKA MAHANAGAR GIRLS COLLEGE Day Bangla Business Studies Female 2.50 1.00 0.00 500
+Dhaka  Sutrapur 108509 DHAKA MAHANAGAR GIRLS COLLEGE Day Bangla Humanities Female 2.00 1.00 0.00 600
+Dhaka  Sutrapur 108511 FAZLUL HAQUE MOHILA COLLEGE Day Bangla Humanities Female 2.00 0.00 0.00 250
+Dhaka  Sutrapur 108511 FAZLUL HAQUE MOHILA COLLEGE Day Bangla Business Studies Female 2.00 0.00 0.00 200
+Dhaka  Sutrapur 108511 FAZLUL HAQUE MOHILA COLLEGE Day Bangla Science Female 3.00 0.00 0.00 100
+Dhaka  Sutrapur 108508 GOVT. SHAHID SOHRAWARDI COLLEGE Day Bangla Science Both 4.00 0.00 0.00 350
+Dhaka  Sutrapur 108508 GOVT. SHAHID SOHRAWARDI COLLEGE Day Bangla Business Studies Both 4.00 0.00 0.00 900
+Dhaka  Sutrapur 108508 GOVT. SHAH I D SOH RAWARDI COLLEGE Day Bangla Humanities Both 3.50 0.00 0.00 555
+Dhaka  Sutrapur 108513 K. L. JUBILEE SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 200
+Dhaka  Sutrapur 108513 K. L. JUB I LEE SCHOOL AND COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Sutrapur 108513 K. L. JUBILEE SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 300
+Dhaka  Sutrapur 108507 KABI NAZRUL GOVT. COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 507
+Dhaka  Sutrapur 108507 KABI NAZRUL GOVT. COLLEGE Day Bangla Business Studies Both 3.50 0.00 0.00 614
+Dhaka  Sutrapur 108507 KABI NAZRUL GOVT. COLLEGE Day Bangla Science Both 4.00 0.00 0.00 500
+Dhaka  Sutrapur 108514 SHER-E-BANGLA BALIKA MAHAVIDYALAYA Morning Bangla Business Studies Female 2.50 1.00 0.00 150
+Dhaka  Sutrapur 108514 SHER—E-BANGLA BALIKA MAHAVIDYALAYA Morning Bangla Humanities Female 2.00 1.00 0.00 100
+Dhaka  Sutrapur 108514 SHER-E-BANGLA BALIKA MAHAVIDYALAYA Morning Bangla Science Female 3.00 1.00 0.00 100
+Dhaka  Sutrapur 108489 ST. FRANCIS XAVIERS GIRLS SCHOOL & COLLEGE Day Bangla Humanities Female 2.50 1.00 0.00 100
+Dhaka  Sutrapur 108489 ST. FRANCIS XAVIERS GIRLS SCHOOL & COLLEGE Day Bangla Business Studies Female 3.00 1.00 0.00 100
+Dhaka  Sutrapur 108489 ST. FRANCIS XAVIERS GIRLS SCHOOL & COLLEGE Day Bangla Science Female 4.25 1.00 0.00 100
+Dhaka  Tejgaon 108517 CIVIL AVIATION SCHOOL & COLLEGE Day Bangla Science Both 3.50 2.50 0.00 100
+Dhaka  Tejgaon 108517 CIVIL AVIATION SCHOOL & COLLEGE Day Bangla Humanities Both 2.00 1.50 0.00 100
+Dhaka  Tejgaon 108517 CIVIL AVIATION SCHOOL & COLLEGE Day Bangla Business Studies Both 3.00 2.00 0.00 100
+Dhaka  Tejgaon 137676 DHAKA IDEAL COLLEGE TEJGAON Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Tejgaon 137676 DHAKA IDEAL COLLEGE TEJGAON Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka  Tejgaon 137676 DHAKA IDEAL COLLEGE TEJGAON Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Tejgaon 137670 DHAKA INDEPENDENT COLLEGE Day Bangla Science Both 1.50 0.00 0.00 100
+Dhaka  Tejgaon 137670 DHAKA INDEPENDENT COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Tejgaon 137670 DHAKA INDEPENDENT COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Tejgaon 108253 DHAKA ORIENTAL COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 100
+Dhaka  Tejgaon 108253 DHAKA ORIENTAL COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Dhaka  Tejgaon 108253 DHAKA ORIENTAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Tejgaon 108535 GOVT. SCIENCE COLLEGE Day Bangla Science Male 5.00 0.00 0.00 1245
+Dhaka  Tejgaon 134207 IDEAL COMMERCE COLLEGE FARMGATE Morning Bangla Science Both 3.50 0.00 0.00 150
+Dhaka  Tejgaon 134207 IDEAL COMMERCE COLLEGE FARMGATE Morning Bangla Business Studies Both 2.50 0.00 0.00 400
+Dhaka  Tejgaon 108523 NAZNEEN SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Tejgaon 108523 NAZNEEN SCHOOL & COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Tejgaon 108523 NAZNEEN SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Tejgaon 134571 NORTHERN COLLEGE BANGLADESH Day Bangla Science Both 2.00 0.00 0.00 100
+Dhaka  Tejgaon 134571 NORTH ERN COLLEGE BANGLADESH Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka  Tejgaon 108527 TEJGAON ADARSHA SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Tejgaon 108527 TEJGAON ADARSHA SCHOOL AN D COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Tejgaon 108527 TEJGAON ADARSHA SCHOOL AND COLLEGE Day Bangla Science Both 2.50 1.00 0.00 50
+Dhaka  Tejgaon 108533 TEJGAON COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 350
+Dhaka  Tejgaon 108533 TEJGAON COLLEGE Morning Bangla Business Studies Both 2.50 0.00 0.00 400
+Dhaka  Tejgaon 108533 TEJGAON COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 500
+Dhaka  Tejgaon 108536 TEJGAON MOHILA COLLEGE Morning Bangla Science Female 3.00 0.00 0.00 200
+Dhaka  Tejgaon 108536 TEJGAON MOHILA COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 250
+Dhaka  Tejgaon 108536 TEJGAON MOHILA COLLEGE Morning Bangla Business Studies Female 2.50 0.00 0.00 150
+Dhaka  UttarKhan 134536 B. B. M. HIGH SCHOOL & COLLEGE Day Bangla Science Both 1.00 1.00 0.00 75
+Dhaka  UttarKhan 134536 B. B. M. HIGH SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  UttarKhan 134536 B. B. M. HIGH SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  UttarKhan 108566 KANCHKURA COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 60
+Dhaka  UttarKhan 108566 KANCHKURA COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka  UttarKhan 108566 KANCHKURA COLLEGE Day Bangla Business Studies Both 1.80 0.00 0.00 200
+Dhaka  UttarKhan 108548 MAINARTEK HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  UttarKhan 108548 MAINARTEK HIGH SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  UttarKhan 108548 MAINARTEK HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Uttara 136318 AKIJ FOUNDATION COLLEGE Morning Bangla Business Studies Both 3.00 0.00 0.00 100
+Dhaka  Uttara 136318 AKIJ FOUNDATION COLLEGE Morning English Science Both 3.50 0.00 0.00 20
+Dhaka  Uttara 136318 AKIJ FOUNDATION COLLEGE Morning Bangla Science Both 3.50 0.00 0.00 100
+Dhaka  Uttara 136675 AMERICAN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Uttara 136675 AMERICAN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Uttara 136675 AMERICAN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Uttara 134587 ANWARA-MANNAF GIRLS SCHOOL & COLLEGE Morning Bangla Business Studies Female 2.50 0.00 0.00 50
+Dhaka  Uttara 134587 ANWARA-MANNAF GIRLS SCHOOL & COLLEGE Morning Bangla Humanities Female 2.00 0.00 0.00 50
+Dhaka  Uttara 134587 ANWARA-MANNAF GIRLS SCHOOL & COLLEGE Morning Bangla Science Female 3.00 0.00 0.00 50
+Dhaka  Uttara 108542 ARMED POLICE BATTALION SCHOOL AND COLLEGE Day Bangla Humanities Both 2.50 1.00 0.00 50
+Dhaka  Uttara 108542 ARMED POLICE BATTALION SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.75 1.00 0.00 50
+Dhaka  Uttara 108542 ARMED POLICE BATTALION SCHOOL AND COLLEGE Day Bangla Science Both 4.50 1.00 0.00 150
+Dhaka  Uttara 132080 BAIKAL COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 50
+Dhaka  Uttara 132080 BAIKAL COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Uttara 132169 BCI COLLEGE Morning English Science Both 2.00 1.00 0.00 20
+Dhaka  Uttara 132169 BCI COLLEGE Morning Bangla Humanities Both 1.00 1.00 0.00 150
+Dhaka  Uttara 132169 BCI COLLEGE Morning Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Uttara 132169 BCI COLLEGE Morning English Business Studies Both 1.00 1.00 0.00 20
+Dhaka  Uttara 132169 BCI COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 80
+Dhaka  Uttara 132050 C S D COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 60
+Dhaka  Uttara 132050 C S D COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Uttara 132050 C S D COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 60
+Dhaka  Uttara 133980 COLLEGE OF HUMAN DEVELOPMENT Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Uttara 133980 COLLEGE OF HUMAN DEVELOPMENT Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Uttara 108569 DHAKA BOYS AND GIRLS COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Dhaka  Uttara 108569 DHAKA BOYS AND GIRLS COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Dhaka  Uttara 108569 DHAKA BOYS AND GIRLS COLLEGE Day Bangla Science Both 1.00 0.00 0.00 250
+Dhaka  Uttara 134389 DHAKA MEGACITY COLLEGE Morning English Business Studies Both 1.50 1.00 0.00 25
+Dhaka  Uttara 134389 DHAKA MEGACITY COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 125
+Dhaka  Uttara 134389 DHAKA MEGACITY COLLEGE Morning Bangla Business Studies Both 1.50 1.00 0.00 100
+Dhaka  Uttara 134389 DHAKA MEGACITY COLLEGE Morning English Science Both 2.00 1.00 0.00 50
+Dhaka  Uttara 108567 DHAKA NORTHERN CITY COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Uttara 108567 DHAKA NORTHERN CITY COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Uttara 108567 DHAKA NORTHERN CITY COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Uttara 108563 DHAKA WOMENS COLLEGE Day Bangla Business Studies Female 2.00 1.00 0.00 50
+Dhaka  Uttara 108563 DHAKA WOMENS COLLEGE Day Bangla Humanities Female 2.00 1.00 0.00 100
+Dhaka  Uttara 108563 DHAKA WOMENS COLLEGE Day Bangla Science Female 3.00 1.00 0.00 70
+Dhaka  Uttara 137594 EMINENCE COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 100
+Dhaka  Uttara 137594 EMINENCE COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Uttara 108571 GOVT. MOLLARTEK UDAYAN HIGHER SECONDARY SCHOOL Day Bangla Business Studies Both 3.00 2.50 0.00 150
+Dhaka  Uttara 108571 GOVT. MOLLARTEK UDAYAN HIGHER SECONDARY SCHOOL Day Bangla Humanities Both 2.50 2.00 0.00 100
+Dhaka  Uttara 108571 GOVT. MOLLARTEK UDAYAN HIGHER SECONDARY SCHOOL Day Bangla Science Both 4.00 3.50 0.00 100
+Dhaka  Uttara 134599 HAZI COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Uttara 134599 HAZI COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Uttara 134599 HAZI COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Uttara 132122 HOLY CHILD COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Uttara 132122 HOLY CHILD COLLEGE Morning Bangla Business Studies Both 2.50 1.00 0.00 40
+Dhaka  Uttara 132122 HOLY CHILD COLLEGE Morning English Business Studies Both 2.50 1.00 0.00 40
+Dhaka  Uttara 132122 HOLY CHILD COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Dhaka  Uttara 132122 HOLY CHILD COLLEGE Morning Bangla Humanities Both 2.50 1.00 0.00 25
+Dhaka  Uttara 132122 HOLY CHILD COLLEGE Morning English Science Both 3.00 1.00 0.00 50
+Dhaka  Uttara 108570 I.E.S. UCHCHA MADYAMIC BIDYALAYA Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka  Uttara 108570 I.E.S. UCHCHA MADYAMIC BIDYALAYA Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Uttara 108193 KAMARPARA SCHOOL & COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Uttara 108193 KAMARPARA SCHOOL & COLLEGE Morning Bangla Science Both 2.50 1.00 0.00 100
+Dhaka  Uttara 108193 KAMARPARA SCHOOL & COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 150
+Dhaka  Uttara 131763 LIGHTHOUSE CAREER COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 50
+Dhaka  Uttara 131763 LIGHTHOUSE CAREER COLLEGE Day Bangla Science Both 1.50 1.00 0.00 100
+Dhaka  Uttara 131763 LIGHTHOUSE CAREER COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Dhaka  Uttara 108572 MILESTONE COLLEGE Morning English Science Both 4.00 1.00 0.00 450
+Dhaka  Uttara 108572 MILESTONE COLLEGE Morning Bangla Science Both 4.00 1.00 0.00 2400
+Dhaka  Uttara 108572 MILESTONE COLLEGE Morning English Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Uttara 108572 MILESTONE COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 400
+Dhaka  Uttara 108572 MILESTONE COLLEGE Morning Bangla Humanities Both 2.00 1.00 0.00 350
+Dhaka  Uttara 137680 MOAZZEM HOSSAIN IDEAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 125
+Dhaka  Uttara 137680 MOAZZEM HOSSAIN IDEAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 75
+Dhaka  Uttara 137680 MOAZZEM HOSSAIN IDEAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Uttara 136871 MYLASHIUM COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Dhaka  Uttara 136871 MYLASHIUM COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Uttara 136871 MYLASHIUM COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Uttara 137667 NATIONAL PUBLIC COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Dhaka  Uttara 137667 NATIONAL PUBLIC COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Uttara 137667 NATIONAL PUBLIC COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Uttara 108540 NAWAB HABIBULLAH MODEL SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Uttara 108540 JAWAB HABIBULLAH MODEL SCHOOL & COLLEGE Morning Bangla Science Both 3.00 1.00 0.00 350
+Dhaka  Uttara 108540 NAWAB HABIBULLAH MODEL SCHOOL & COLLEGE Morning Bangla Business Studies Both 2.00 1.00 0.00 200
+Dhaka  Uttara 108540 NAWAB HABIBULLAH MODEL SCHOOL & COLLEGE Morning Bangla Humanities Both 1.50 1.00 0.00 150
+Dhaka  Uttara 108540 NAWAB HAB I BU LLAH MODEL SCHOOL & COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 150
+Dhaka  Uttara 108540 NAWAB HABIBULLAH MODEL SCHOOL & COLLEGE Day Bangla Science Both 3.00 1.00 0.00 350
+Dhaka  Uttara 131989 NIKUNJA MODEL COLLEGE Morning Bangla Business Studies Both 1.50 1.00 0.00 100
+Dhaka  Uttara 131989 NIKUNJA MODEL COLLEGE Morning Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Uttara 131989 NIKUNJA MODEL COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 50
+Dhaka  Uttara 137099 NORTH CITY COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Dhaka  Uttara 137099 NORTH CITY COLLEGE Day Bangla Science Both 2.00 0.00 0.00 125
+Dhaka  Uttara 132047 OASIS INTERMEDIATE COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Uttara 132047 OASIS INTERMEDIATE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 60
+Dhaka  Uttara 132047 OASIS INTERMEDIATE COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 40
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Morning Bangla Humanities Both 4.00 3.00 0.00 70
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Morning Bangla Science Both 5.00 4.00 0.00 332
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Morning Bangla Business Studies Both 4.25 3.00 0.00 241
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Morning English Science Both 5.00 4.00 0.00 177
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Day English Science Both 5.00 4.00 0.00 177
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Day Bangla Science Both 5.00 4.00 0.00 415
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Day Bangla Humanities Both 4.00 3.00 0.00 70
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Day Bangla Business Studies Both 4.25 3.00 0.00 164
+Dhaka  Uttara 108573 RAJUK UTTARA MODEL COLLEGE Morning English Business Studies Both 4.25 3.00 0.00 58
+Dhaka  Uttara 108568 SARDAR SURUZZAMAN MOHILA COLLEGE Morning Bangla Humanities Female 1.00 0.00 0.00 150
+Dhaka  Uttara 108568 SARDAR SURUZZAMAN MOHILA COLLEGE Morning Bangla Science Female 2.00 0.00 0.00 100
+Dhaka  Uttara 108568 SARDAR SURUZZAMAN MOHILA COLLEGE Morning Bangla Business Studies Female 1.50 0.00 0.00 160
+Dhaka  Uttara 131893 SCHOLARS CITY COLLEGE Day Bangla Science Both 1.00 1.00 0.00 100
+Dhaka  Uttara 131893 SCHOLARS CITY COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Uttara 131893 SCHOLARS CITY COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Dhaka  Uttara 131890 SRISTY CENTRAL COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 200
+Dhaka  Uttara 131890 SRISTY CENTRAL COLLEGE Morning Bangla Business Studies Both 1.00 1.00 0.00 150
+Dhaka  Uttara 137717 STAMFORD COLLEGE UTTARA Day Bangla Humanities Both 1.50 0.00 0.00 50
+Dhaka  Uttara 137717 STAMFORD COLLEGE UTTARA Day Bangla Business Studies Both 1.50 0.00 0.00 50
+Dhaka  Uttara 137717 STAMFORD COLLEGE UTTARA Day Bangla Science Both 3.00 0.00 0.00 50
+Dhaka  Uttara 136886 SUNRISE COLLEGE Morning Bangla Business Studies Both 2.00 0.00 0.00 300
+Dhaka  Uttara 136886 SUNRISE COLLEGE Morning Bangla Humanities Both 1.00 0.00 0.00 200
+Dhaka  Uttara 136886 SUNRISE COLLEGE Morning Bangla Science Both 2.00 0.00 0.00 200
+Dhaka  Uttara 132049 TALENT CAMPUS COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 50
+Dhaka  Uttara 132049 TALENT CAMPUS COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 50
+Dhaka  Uttara 132049 TALENT CAMPUS COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Dhaka  Uttara 135478 THE BRILLIANT COLLEGE Morning Bangla Science Both 2.00 0.00 0.00 100
+Dhaka  Uttara 135478 THE BRILLIANT COLLEGE Morning Bangla Humanities Both 1.00 0.00 0.00 100
+Dhaka  Uttara 135478 THE BRILLIANT COLLEGE Morning Bangla Business Studies Both 1.50 0.00 0.00 100
+Dhaka  Uttara 137629 TOUCHSTONE COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Dhaka  Uttara 137629 TOUCHSTONE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Dhaka  Uttara 137629 TOUCHSTONE COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Dhaka  Uttara 134221 TRUST COLLEGE Day English Science Both 2.50 1.50 0.00 100
+Dhaka  Uttara 134221 TRUST COLLEGE Day Bangla Business Studies Both 2.00 1.50 0.00 150
+Dhaka  Uttara 134221 TRUST COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 100
+Dhaka  Uttara 134221 TRUST COLLEGE Day Bangla Science Both 2.50 1.50 0.00 500
+Dhaka  Uttara 134221 TRUST COLLEGE Day English Business Studies Both 2.00 1.50 0.00 50
+Dhaka  Uttara 134463 UTTARA ANNESION MODEL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Dhaka  Uttara 134463 UTTARA ANNESION MODEL COLLEGE Day Bangla Science Both 2.00 1.00 0.00 100
+Dhaka  Uttara 134463 UTTARA ANNESION MODEL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Dhaka  Uttara 108565 UTTARA ANWARA MODEL COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 70
+Dhaka  Uttara 108565 UTTARA ANWARA MODEL COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Dhaka  Uttara 108565 UTTARA ANWARA MODEL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Uttara 134006 UTTARA CITY COLLEGE Day Bangla Humanities Both 1.50 1.00 0.00 150
+Dhaka  Uttara 134006 UTTARA CITY COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Uttara 134006 UTTARA CITY COLLEGE Day Bangla Science Both 2.50 1.00 0.00 100
+Dhaka  Uttara 131849 UTTARA COMMERCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 400
+Dhaka  Uttara 134005 UTTARA CREDENCE COLLEGE Day Bangla Science Both 2.00 0.00 0.00 120
+Dhaka  Uttara 134005 UTTARA CREDENCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Dhaka  Uttara 134005 UTTARA CREDENCE COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 190
+Dhaka  Uttara 107845 UTTARA GIRLS HIGH SCHOOL & COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 100
+Dhaka  Uttara 107845 UTTARA GIRLS HIGH SCHOOL & COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 100
+Dhaka  Uttara 107845 UTTARA GIRLS HIGH SCHOOL & COLLEGE Day Bangla Science Female 1.00 1.00 0.00 150
+Dhaka  Uttara 108538 UTTARA HIGH SCHOOL & COLLEGE Morning Bangla Humanities Female 2.00 2.00 0.00 200
+Dhaka  Uttara 108538 UTTARA HI GH SCHOOL & COLLEGE Morning Bangla Science Female 4.50 4.00 0.00 550
+Dhaka  Uttara 108538 UTTARA HIGH SCHOOL & COLLEGE Morning Bangla Business Studies Female 2.75 2.50 0.00 325
+Dhaka  Uttara 108538 UTTARA HI GH SCHOOL & COLLEGE Day Bangla Science Male 4.50 4.00 0.00 550
+Dhaka  Uttara 108538 UTTARA HIGH SCHOOL & COLLEGE Day Bangla Humanities Male 2.00 2.00 0.00 200
+Dhaka  Uttara 108538 UTTARA HIGH SCHOOL & COLLEGE Day Bangla Business Studies Male 2.75 2.50 0.00 300
+Dhaka  Uttara 132039 UTTARA IDEAL COMMERCE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 200
+Dhaka  Uttara 130586 UTTARA MODEL COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 300
+Dhaka  Uttara 130586 UTTARA MODEL COLLEGE Morning Bangla Business Studies Both 2.00 0.00 0.00 100
+Dhaka  Uttara 130586 UTTARA MODEL COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 100
+Dhaka  Uttara 132056 UTTARA PUBLIC COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 60
+Dhaka  Uttara 132056 UTTARA PUBLIC COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Dhaka  Uttara 132056 UTTARA PUBLIC COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Dhaka  Uttara 134526 UTTARA RESIDENTIAL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Dhaka  Uttara 134526 UTTARA RESIDENTIAL COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 150
+Dhaka  Uttara 134526 UTTARA RESIDENTIAL COLLEGE Day Bangla Science Both 2.00 1.00 0.00 150
+Dhaka  Uttara 108564 UTTARA TOWN COLLEGE Morning Bangla Humanities Both 2.00 0.00 0.00 60
+Dhaka  Uttara 108564 UTTARA TOWN COLLEGE Morning Bangla Science Both 3.00 0.00 0.00 100
+Dhaka  Uttara 108564 UTTARA TOWN COLLEGE Morning Bangla Business Studies Both 2.50 0.00 0.00 100
+Dhaka  Uttara 134558 UTTARA UNITED COLLEGE Morning Bangla Humanities Both 1.00 1.00 0.00 300
+Dhaka  Uttara 134558 UTTARA UNITED COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 250
+Dhaka  Uttara 134558 UTTARA UNITED COLLEGE Morning Bangla Business Studies Both 1.00 1.00 0.00 600
+Dhaka  Uttara 136256 WIDE VISION COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 150
+Dhaka  Uttara 136256 WIDE VISION COLLEGE Morning Bangla Business Studies Both 1.50 1.00 0.00 150
+Dhaka  Uttara 136256 WIDE VISION COLLEGE Morning Bangla Humanities Both 1.50 1.00 0.00 150
+Faridpur Alfadanga 108620 ALFADANGA ADARSHA COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Faridpur Alfadanga 108620 ALFADANGA ADARSHA COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur Alfadanga 108620 ALFADANGA ADARSHA COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Faridpur Alfadanga 108618 ALFADANGA GOVT. COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Alfadanga 108618 ALFADANGA GOVT. COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 600
+Faridpur Alfadanga 108618 ALFADANGA GOVT. COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur Alfadanga 138790 BIR MUKTIJUDDHA SIRAJUL ISLAM MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 50
+Faridpur Alfadanga 138790 BIR MUKTIJUDDHA SIRAJUL ISLAM MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 50
+Faridpur Alfadanga 138358 HAZI AFIZ UDDIN ALEKZAN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Faridpur Alfadanga 138358 HAZI AFIZ UDDIN ALEKZAN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 300
+Faridpur Alfadanga 138358 HAZI AFIZ UDDIN ALEKZAN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Bhanga 108659 GOVT. KAZI MAHBUBULLAH (K.M) COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 200
+Faridpur Bhanga 108659 GOVT. KAZI MAHBUBULLAH (K.M) COLLEGE Day Bangla Science Both 1.50 0.00 0.00 100
+Faridpur Bhanga 108659 GOVT. KAZI MAHBUBULLAH (K.M) COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 905
+Faridpur Bhanga 108633 SHARIFABAD HIGH SCHOOL AND COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 50
+Faridpur Bhanga 108633 SHARIFABAD HIGH SCHOOL AND COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 50
+Faridpur Bhanga 108660 VANGA MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 150
+Faridpur Bhanga 108660 VANGA MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 50
+Faridpur Bhanga 108660 VANGA MOHILA COLLEGE Day Bangla Science Female 1.00 0.00 0.00 50
+Faridpur Boalmari 108711 BANGABANDHU COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur Boalmari l087l 1 BANGABANDHU COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Boalmari 108711 BANGABANDHU COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 175
+Faridpur Boalmari 138783 BIR MUKTIJUDDHA ENG. DR. SHAFIUDDIN SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Faridpur Boalmari 138783 BIR MUKTIJUDDHA ENG. DR. SHAFIUDDIN SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Faridpur Boalmari 137592 BONDAPASHA HAZERA MOKBUL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Boalmari 137592 BONDAPASHA HAZERA MOKBUL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Faridpur Boalmari 108708 GOVT. BOALMARI COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Faridpur Boalmari 108708 GOVT. BOALMARI COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 150
+Faridpur Boalmari 108708 GOVT. BOALMARI COLLEGE Day Bangla Science Both 3.00 0.00 0.00 50
+Faridpur Boalmari 108710 KADIRDI COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 500
+Faridpur Boalmari 108710 KADIRDI COLLEGE Day Bangla Science Both 1.00 0.00 0.00 125
+Faridpur Boalmari 108710 KADIRDI COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 230
+Faridpur Boalmari 108709 KAZI SHIRAJ UL ISLAM MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 100
+Faridpur Boalmari 108709 KAZI SHIRAJUL ISLAM MOHILA COLLEGE Day Bangla Science Female 1.00 0.00 0.00 100
+Faridpur Boalmari 108709 KAZI SHIRAJ UL ISLAM MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 400
+Faridpur CharBhadrasan 108728 GOVT. CHARBHADRASAN COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur CharBhadrasan 108728 GOVT. CHARBHADRASAN COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur CharBhadrasan 108728 GOVT. CHARBHADRASAN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 450
+Faridpur Faridpur  108803 ALHAJ ABDUL KHALEQUE COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 350
+Faridpur Faridpur  108803 ALHAJ ABDUL KHALEQUE COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 100
+Faridpur Faridpur  108803 ALHAJ ABDUL KHALEQU E COLLEGE Day Bangla Science Both 3.00 0.00 0.00 50
+Faridpur Faridpur  108801 BAKHUNDA COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur Faridpur  108801 BAKH UN DA COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Faridpur Faridpur  108801 BAKHUNDA COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Faridpur Faridpur  108796 ENGINEER KHANDKER MOSHARRAF HOSSA‘ COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 500
+Faridpur Faridpur  108796 ENGINEER KHANDKER MOSHARRAF HOSSA‘ COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Faridpur Faridpur  108796 ENGINEER KHANDKER MOSHARRAF HOSSAIN COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Faridpur Faridpur  108798 FARIDPUR CITY COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 450
+Faridpur Faridpur  108798 FARIDPUR CITY COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Faridpur  108798 FARIDPUR CITY COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Faridpur Faridpur  132785 FARIDPUR GOVT. COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 150
+Faridpur Faridpur  132785 FARIDPUR GOVT. COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 300
+Faridpur Faridpur  132785 FARIDPUR GOVT. COLLEGE Day Bangla Science Both 2.50 0.00 0.00 150
+Faridpur Faridpur  108800 FARIDPUR MUSLIM MISSION COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 50
+Faridpur Faridpur  108800 FARIDPUR MUSLIM MISSION COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 400
+Faridpur Faridpur  108800 FARIDPUR MUSLIM MISSION COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Faridpur Faridpur  108797 GOVT. RAJENDRA COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 220
+Faridpur Faridpur  108797 GOVT. RAJENDRA COLLEGE Day Bangla Business Studies Both 3.50 0.00 0.00 250
+Faridpur Faridpur  108797 GOVT. RAJENDRA COLLEGE Day Bangla Science Both 5.00 0.00 0.00 300
+Faridpur Faridpur  108794 GOVT. SARADA SUNDARI MOHILA COLLEGE Day Bangla Business Studies Female 2.50 0.00 0.00 400
+Faridpur Faridpur  108794 GOVT. SARADA SUNDARI MOHILA COLLEGE Day Bangla Humanities Female 2.50 0.00 0.00 575
+Faridpur Faridpur  108794 GOVT. SARADA SUNDARI MOHILA COLLEGE Day Bangla Science Female 4.00 0.00 0.00 475
+Faridpur Faridpur  108795 GOVT. YASIN COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 500
+Faridpur Faridpur  108795 GOVT. YASIN COLLEGE Day Bangla Science Both 3.50 0.00 0.00 550
+Faridpur Faridpur  108795 GOVT. YASIN COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 800
+Faridpur Faridpur  108804 HALIMA GIRLS SCHOOL AND COLLEGE FARIDPUR Day Bangla Business Studies Female 2.00 1.00 0.00 50
+Faridpur Faridpur  108804 HALIMA GIRLS SCHOOL AND COLLEGE FARIDPUR Day Bangla Humanities Female 1.50 1.00 0.00 350
+Faridpur Faridpur  135343 HAZI ABUL HOSSAIN COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 120
+Faridpur Faridpur  135343 HAZI ABUL HOSSAIN COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 50
+Faridpur Faridpur  135343 HAZI ABUL HOSSAIN COLLEGE Day Bangla Science Both 3.00 0.00 0.00 50
+Faridpur Faridpur  108775 KABI JASIM UDDIN SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Faridpur Faridpur  108775 KABI JASIM UDDIN SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Faridpur Faridpur  108802 LATIFUNNESA RESIDENTIAL COLLEGE FARIDPUR Day Bangla Humanities Both 1.00 0.00 0.00 150
+Faridpur Faridpur  108802 LATIFUNNESA RESIDENTIAL COLLEGE FARIDPUR Day Bangla Science Both 2.00 0.00 0.00 50
+Faridpur Faridpur  108802 LATIFUNNESA RESIDENTIAL COLLEGE FARIDPUR Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Faridpur Madhukhali 108855 AKHCHASI MAHILA COLLEGE MODHUKHAL' FARIDPUR Day Bangla Science Female 1.50 0.00 0.00 50
+Faridpur Madhukhali 108855 AKHCHASI MAHILA COLLEGE MODHUKHALI FARIDPUR Day Bangla Business Studies Female 1.50 0.00 0.00 50
+Faridpur Madhukhali 108855 AKHCHASI MAHILA COLLEGE MODHUKHALI FARIDPUR Day Bangla Humanities Female 1.50 0.00 0.00 200
+Faridpur Madhukhali 136494 AYSHA-SAMI COLLEGE Day Bangla Science Both 2.50 0.00 0.00 50
+Faridpur Madhukhali 136494 AYSHA-SAMI COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Madhukhali 136494 AYSHA-SAMI COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Faridpur Madhukhali 108854 BIR SRESTHA ABDUR RAUF COLLEGE KAMARKHALI Day Bangla Humanities Both 2.50 0.00 0.00 400
+Faridpur Madhukhali 108854 BIR SRESTHA ABDUR RAUF COLLEGE KAMARKHALI Day Bangla Business Studies Both 2.50 0.00 0.00 150
+Faridpur Madhukhali 108854 BIR SRESTHA ABDUR RAUF COLLEGE KAMARKHALI Day Bangla Science Both 3.00 0.00 0.00 100
+Faridpur Madhukhali 136884 DR. NAHIDA RAHMAN GENERAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Faridpur Madhukhali 136884 DR. NAHIDA RAHMAN GENERAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Madhukhali 136884 DR. NAHIDA RAHMAN GENERAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur Madhukhali 108853 GOVT. AIN UDDIN COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 500
+Faridpur Madhukhali 108853 GOVT. AIN UDDIN COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 200
+Faridpur Madhukhali 108853 GOVT. AIN UDDIN COLLEGE Day Bangla Science Both 3.50 0.00 0.00 150
+Faridpur Madhukhali 108856 HAH ABDUR RAHMAN ABDUL KARIM COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Faridpur Madhukhali 108856 HAJI ABDUR RAHMAN ABDUL KARIM COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Madhukhali 108856 HAH ABDUR RAHMAN ABDUL KARIM COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Faridpur Madhukhali 108840 KAZI SIRAJUL ISLAM GIRLS SCHOOL AND COLLEGE Day Bangla Science Female 1.00 1.00 0.00 50
+Faridpur Madhukhali 108840 KAZI SIRAJUL ISLAM GIRLS SCHOOL AND COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 50
+Faridpur Madhukhali 108840 KAZI SIRAJUL ISLAM GIRLS SCHOOL AND COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 100
+Faridpur Madhukhali 108828 MEGCHAMI ADARSHA SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Faridpur Madhukhali 108828 MEGCHAMI ADARSHA SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Faridpur Madhukhali 108807 SUKUR MAMUD HIGHER SECONDARY SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Faridpur Madhukhali 108807 SU KUR MAMU D HIGHER SECONDARY SCHOO' AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Faridpur Madhukhali 108807 SUKUR MAMUD HIGHER SECONDARY SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Faridpur Nagarkanda 108900 GOVT. NAGARKANDA COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Faridpur Nagarkanda 108900 GOVT. NAGARKANDA COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 650
+Faridpur Nagarkanda 108900 GOVT. NAGARKANDA COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 150
+Faridpur Nagarkanda 137995 M. A. SAKUR MOHILA COLLEGE Day Bangla Humanities Female 1.00 0.00 0.00 150
+Faridpur Nagarkanda 137995 M. A. SAKUR MOHILA COLLEGE Day Bangla Business Studies Female 1.00 0.00 0.00 100
+Faridpur Nagarkanda 108901 NOBAKAM PALLI COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Faridpur Nagarkanda 108901 NOBAKAM PALLI COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Faridpur Nagarkanda 108901 NOBAKAM PALLI COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 250
+Faridpur Nagarkanda 130656 SAYEDA SAJEDA CHOWDHURY HIGH SCHOOL AND COLLEGE Morning Bangla Humanities Both 1.00 1.00 0.00 100
+Faridpur Nagarkanda 130656 SAYEDA SAJEDA CHOWDHURY HIGH SCHOOL AND COLLEGE Morning Bangla Science Both 2.00 1.00 0.00 50
+Faridpur Nagarkanda 130656 SAYEDA SAJEDA CHOWDHURY HIGH SCHOOL AND COLLEGE Morning Bangla Business Studies Both 1.50 1.00 0.00 100
+Faridpur pur 108933 GOVT. PUR COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Faridpur pur 108933 GOVT. PUR COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Faridpur pur 108933 GOVT. PUR COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 750
+Faridpur pur 108934 MAHILA COLLEGE PUR Day Bangla Business Studies Female 1.00 0.00 0.00 50
+Faridpur pur 108934 MAHILA COLLEGE PUR Day Bangla Humanities Female 1.00 0.00 0.00 200
+Faridpur Saltha 138397 BIBHAGDI SHAHIDSMRITI MAHABIDYALAY Day Bangla Humanities Both 1.00 1.00 0.00 200
+Faridpur Saltha 138397 BIBHAGDI SHAHIDSMRITI MAHABIDYALAY Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Faridpur Saltha 108902 SALTHA COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 450
+Faridpur Saltha 108902 SALTHA COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Faridpur Saltha 108902 SALTHA COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Gazipur Gazipur  131762 AGRANI MODEL COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 150
+Gazipur Gazipur  131762 AGRANI MODEL COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 150
+Gazipur Gazipur  131762 AGRANI MODEL COLLEGE Day Bangla Science Both 3.00 0.00 0.00 150
+Gazipur Gazipur  108950 ALEKJAN GIRLS SCHOOL & COLLEGE Day Bangla Business Studies Female 1.00 1.00 0.00 50
+Gazipur Gazipur  108950 ALEKJAN GIRLS SCHOOL & COLLEGE Day Bangla Humanities Female 1.00 1.00 0.00 50
+Gazipur Gazipur  136165 AMBAG UNIQUE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Gazipur Gazipur  136165 AMBAG UNIQUE COLLEGE Day Bangla Science Both 3.00 0.00 0.00 150
+Gazipur Gazipur  109038 BANGABANDHU COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Gazipur Gazipur  109038 BANGABANDHU COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Gazipur Gazipur  109038 BANGABANDHU COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Gazipur Gazipur  108941 BHADUN MULTILATERAL SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 50
+Gazipur Gazipur  108941 BHADUN MULTILATERAL SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 50
+Gazipur Gazipur  138062 BHASHA SHAHID COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Gazipur Gazipur  138062 BHASHA SHAHID COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Gazipur Gazipur  138062 BHASHA SHAHID COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Gazipur Gazipur  109035 BHAWAL MIRZAPUR COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Gazipur Gazipur  109035 BHAWAL MIRZAPUR COLLEGE Day Bangla Science Both 1.00 0.00 0.00 100
+Gazipur Gazipur  109035 BHAWAL MIRZAPUR COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Gazipur Gazipur  108935 BHAWAL MIRZAPUR HAZI JAMIR UDDIN SCHOOL AND COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 100
+Gazipur Gazipur  108935 BHAWAL MIRZAPUR HAZI JAMIR UDDIN SCHOOL AND COLLEGE Day Bangla Science Both 4.00 1.00 0.00 100
+Gazipur Gazipur  108935 BHAWAL MIRZAPUR HAZI JAMIR UDDIN SCHOOL AND COLLEGE Day Bangla Humanities Both 3.00 1.00 0.00 200
+Gazipur Gazipur  134109 BHAWAL MIRZAPUR PUBLIC SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Gazipur Gazipur  134109 BHAWAL MIRZAPUR PUBLIC SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Gazipur Gazipur  130693 CHANDANA HIGH SCHOOL & COLLEGE Day Bangla Science Both 2.00 1.00 0.00 100
+Gazipur Gazipur  130693 CHANDANA HIGH SCHOOL & COLLEGE Day Bangla Business Studies Both 2.00 1.00 0.00 100
+Gazipur Gazipur  130693 CHANDANA HIGH SCHOOL & COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 100
+Gazipur Gazipur  109033 GAZIPUR CANTONMENT COLLEGE Day Bangla Science Both 4.50 1.00 1.00 400
+Gazipur Gazipur  109033 GAZIPUR CANTONMENT COLLEGE Day Bangla Business Studies Both 4.00 1.00 1.00 300
+Gazipur Gazipur  109033 GAZIPUR CANTONMENT COLLEGE Day Bangla Humanities Both 3.00 1.00 1.00 200
+Gazipur Gazipur  138372 GAZIPUR CANTONMENT PUBLIC SCHOOL COLLEGE Day Bangla Science Both 4.50 1.00 1.00 100
+Gazipur Gazipur  131217 GAZIPUR CENTRAL PUBLIC COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Gazipur Gazipur  131217 GAZIPUR CENTRAL PUBLIC COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Gazipur Gazipur  131217 GAZIPUR CENTRAL PUBLIC COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Gazipur Gazipur  131978 GAZIPUR CITY COLLEGE Day Bangla Science Both 2.50 0.00 0.00 250
+Gazipur Gazipur  131978 GAZIPUR CITY COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Gazipur Gazipur  131978 GAZIPUR CITY COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 250
+Gazipur Gazipur  130632 GAZIPUR COMMERCE COLLEGE Morning Bangla Science Both 3.50 0.00 0.00 50
+Gazipur Gazipur  130632 GAZIPUR COMMERCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 250
+Gazipur Gazipur  130632 GAZIPUR COMMERCE COLLEGE Morning Bangla Humanities Both 2.50 0.00 0.00 100
+Gazipur Gazipur  137652 GAZIPUR COSMIC COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 100
+Gazipur Gazipur  137652 GAZIPUR COSMIC COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Gazipur Gazipur  137652 GAZIPUR COSMIC COLLEGE Day Bangla Science Both 3.50 0.00 0.00 100
+Gazipur Gazipur  109030 GAZIPUR GOVT. MOHILA COLLEGE Day Bangla Science Female 4.00 0.00 0.00 350
+Gazipur Gazipur  109030 GAZIPUR GOVT. MOHILA COLLEGE Day Bangla Humanities Female 3.00 0.00 0.00 425
+Gazipur Gazipur  109030 GAZIPUR GOVT. MOHILA COLLEGE Day Bangla Business Studies Female 3.50 0.00 0.00 450
+Gazipur Gazipur  134619 GAZIPUR IDEAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 150
+Gazipur Gazipur  134619 GAZIPUR IDEAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 150
+Gazipur Gazipur  134619 GAZIPUR IDEAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Gazipur Gazipur  136859 GAZIPUR MAHANAGAR COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Gazipur Gazipur  136859 GAZIPUR MAHANAGAR COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 200
+Gazipur Gazipur  136859 GAZIPUR MAHANAGAR COLLEGE Day Bangla Science Both 2.00 0.00 0.00 120
+Gazipur Gazipur  135793 GAZIPUR METROPOLITAN COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 250
+Gazipur Gazipur  135793 GAZIPUR METROPOLITAN COLLEGE Day Bangla Science Both 3.00 0.00 0.00 450
+Gazipur Gazipur  135793 GAZIPUR METROPOLITAN COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 200
+Gazipur Gazipur  136327 GAZIPUR MODEL COLLEGE Day Bangla Science Both 1.00 1.00 0.00 50
+Gazipur Gazipur  136327 GAZIPUR MODEL COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 150
+Gazipur Gazipur  136327 GAZIPUR MODEL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Gazipur Gazipur  l380ll GAZIPUR PRESIDENCY COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 100
+Gazipur Gazipur  138011 GAZIPUR PRESIDENCY COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Gazipur Gazipur  l380ll GAZIPUR PRESIDENCY COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Gazipur Gazipur  132208 GAZIPUR RESIDENTIAL MODEL SCHOOL & COLLEGE Day Bangla Humanities Both 2.50 0.00 0.00 50
+Gazipur Gazipur  132208 GAZIPUR RESIDENTIAL MODEL SCHOOL & COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 50
+Gazipur Gazipur  132208 GAZIPUR RESIDENTIAL MODEL SCHOOL & COLLEGE Day Bangla Science Both 3.00 0.00 0.00 50
+Gazipur Gazipur  137079 GAZIPUR SCIENCE COLLEGE Day Bangla Science Both 2.50 0.00 0.00 200
+Gazipur Gazipur  137079 GAZIPUR SCIENCE COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 200
+Gazipur Gazipur  137079 GAZIPUR SCIENCE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 175
+Gazipur Gazipur  135317 GAZIPUR UNITED COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Gazipur Gazipur  135317 GAZIPUR UNITED COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Gazipur Gazipur  135317 GAZIPUR UNITED COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Gazipur Gazipur  137644 GAZIPUR ZILLA COLLEGE Day Bangla Science Both 1.50 0.00 0.00 150
+Gazipur Gazipur  137644 GAZIPUR ZILLA COLLEGE Day Bangla Humanities Both 1.50 0.00 0.00 150
+Gazipur Gazipur  137644 GAZIPUR ZILLA COLLEGE Day Bangla Business Studies Both 1.50 0.00 0.00 150
+Gazipur Gazipur  136275 GENUINE RESIDENTIAL COLLEGE Day Bangla Science Both 3.00 0.00 0.00 175
+Gazipur Gazipur  136275 GENUINE RESIDENTIAL COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Gazipur Gazipur  109031 GOVT. BHAWAL BADRE ALAM COLLEGE Day Bangla Science Both 4.50 0.00 0.00 250
+Gazipur Gazipur  109031 GOVT. BHAWAL BADRE ALAM COLLEGE Day Bangla Business Studies Both 4.00 0.00 0.00 350
+Gazipur Gazipur  109031 GOVT. BHAWAL BADRE ALAM COLLEGE Day Bangla Humanities Both 4.00 0.00 0.00 400
+Gazipur Gazipur  108978 HARBAID SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Gazipur Gazipur  108978 HARBAID SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Gazipur Gazipur  109028 HATIMARA UCHCHA MADHYAMIK VIDYALAYA Day Bangla Science Both 3.00 1.00 0.00 230
+Gazipur Gazipur  109028 HATIMARA UCHCHA MADHYAMIK VIDYALAYA Day Bangla Business Studies Both 2.50 1.00 0.00 250
+Gazipur Gazipur  109028 HATIMARA UCHCHA MADHYAMIK VIDYALAYA Day Bangla Humanities Both 2.00 1.00 0.00 250
+Gazipur Gazipur  134482 IQBAL SIDDIQUEE COLLEGE Day Bangla Humanities Both 3.00 1.00 0.00 200
+Gazipur Gazipur  134482 IQBAL SIDDIQUEE COLLEGE Day Bangla Science Both 4.00 1.00 0.00 150
+Gazipur Gazipur  134482 IQBAL SIDDIQUEE COLLEGE Day Bangla Business Studies Both 3.00 1.00 0.00 100
+Gazipur Gazipur  109032 KAZI AZIM UDDIN COLLEGE Day Bangla Science Both 3.00 0.00 0.00 245
+Gazipur Gazipur  109032 KAZI AZIM UDDIN COLLEGE Day Bangla Business Studies Both 2.50 0.00 0.00 550
+Gazipur Gazipur  109032 KAZI AZIM UDDIN COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 445
+Gazipur Gazipur  108961 KAZIMUDDIN CHOWDHURY SCHOOL & COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 50
+Gazipur Gazipur  108961 KAZIMUDDIN CHOWDHURY SCHOOL & COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 100
+Gazipur Gazipur  137600 KONABARI CAMBRIDGE COLLEGE Day Bangla Science Both 2.00 0.00 0.00 75
+Gazipur Gazipur  137600 KONABARI CAMBRIDGE COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 125
+Gazipur Gazipur  137600 KONABARI CAMBRIDGE COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 125
+Gazipur Gazipur  109037 KONABARI COLLEGE GAZIPUR Day Bangla Science Both 3.50 0.00 0.00 125
+Gazipur Gazipur  109037 KONABARI COLLEGE GAZIPUR Day Bangla Humanities Both 2.50 0.00 0.00 300
+Gazipur Gazipur  109037 KONABARI COLLEGE GAZIPUR Day Bangla Business Studies Both 3.00 0.00 0.00 250
+Gazipur Gazipur  137603 KONABARI IDEAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 300
+Gazipur Gazipur  137603 KONABARI IDEAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 275
+Gazipur Gazipur  137603 KONABARI IDEAL COLLEGE Day Bangla Science Both 1.00 0.00 0.00 220
+Gazipur Gazipur  131631 LINCOLN COLLEGE Day Bangla Science Both 3.00 1.00 0.00 50
+Gazipur Gazipur  131631 LINCOLN COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 50
+Gazipur Gazipur  131631 LINCOLN COLLEGE Day Bangla Humanities Both 2.50 1.00 0.00 50
+Gazipur Gazipur  136926 LINCOLN MILLENNIUM COLLEGE Day Bangla Science Both 2.50 0.00 0.00 150
+Gazipur Gazipur  136926 LINCOLN MILLENNIUM COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 100
+Gazipur Gazipur  136926 LINCOLN MILLENNIUM COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 100
+Gazipur Gazipur  134567 M.A. MAZID COLLEGE Day Bangla Science Both 2.00 0.00 0.00 100
+Gazipur Gazipur  134567 M.A. MAZID COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Gazipur Gazipur  134567 M.A. MAZID COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 200
+Gazipur Gazipur  109043 M.E.H. ARIF COLLEGE Day Bangla Business Studies Both 3.00 3.00 0.00 250
+Gazipur Gazipur  109043 M.E.H. ARIF COLLEGE Day Bangla Science Both 4.50 4.00 0.00 555
+Gazipur Gazipur  109029 MUKTIJODDHA COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 150
+Gazipur Gazipur  109029 MUKTIJODDHA COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Gazipur Gazipur  109029 MUKTIJODDHA COLLEGE Day Bangla Humanities Both 3.00 0.00 0.00 200
+Gazipur Gazipur  137695 OXFORD COLLEGE Day Bangla Science Both 1.00 0.00 0.00 50
+Gazipur Gazipur  137695 OXFORD COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 75
+Gazipur Gazipur  137695 OXFORD COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Gazipur Gazipur  109036 PUBAIL ADARSHA COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 460
+Gazipur Gazipur  109036 PUBAIL ADARSHA COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 300
+Gazipur Gazipur  109036 PUBAIL ADARSHA COLLEGE Day Bangla Science Both 3.00 0.00 0.00 100
+Gazipur Gazipur  136312 PUBAIL CENTRAL COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 100
+Gazipur Gazipur  136312 PUBAIL CENTRAL COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 100
+Gazipur Gazipur  135193 PUBAIL COMMERCE COLLEGE Day Bangla Business Studies Both 1.00 0.00 0.00 150
+Gazipur Gazipur  109039 RAJENDRAPUR CANTONMENT PUBLIC COLLEGE Day Bangla Humanities Both 3.50 1.00 1.00 70
+Gazipur Gazipur  109039 RAJENDRAPUR CANTONMENT PUBLIC COLLEGE Day Bangla Science Both 5.00 1.00 1.00 220
+Gazipur Gazipur  109039 RAJENDRAPUR CANTONMENT PUBLIC COLLEGE Day Bangla Business Studies Both 3.50 1.00 1.00 140
+Gazipur Gazipur  109034 ROVER PALLI COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Gazipur Gazipur  109034 ROVER PALLI COLLEGE Day Bangla Science Both 2.00 0.00 0.00 50
+Gazipur Gazipur  109034 ROVER PALLI COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 150
+Gazipur Gazipur  109042 SALNA NASIRUDDIN MEMORIAL UCHCHA BIDYALAYA AND COLLEGE GAZIPUR Day Bangla Business Studies Both 2.00 1.00 0.00 60
+Gazipur Gazipur  109042 SALNA NASIRUDDIN MEMORIAL UCHCHA BIDYALAYA AND COLLEGE GAZIPUR Day Bangla Humanities Both 1.50 1.00 0.00 90
+Gazipur Gazipur  109042 SALNA NASIRUDDIN MEMORIAL UCHCHA BIDYALAYA AND COLLEGE GAZIPUR Day Bangla Science Both 2.00 1.00 0.00 50
+Gazipur Gazipur  134509 SIRAJ UDDIN SARKER MODEL SCHOOL AND COLLEGE Day Bangla Humanities Both 1.00 1.00 0.00 150
+Gazipur Gazipur  134509 SIRAJ UDDIN SARKER MODEL SCHOOL AND COLLEGE Day Bangla Science Both 1.00 1.00 0.00 100
+Gazipur Gazipur  134509 SIRAJ UDDIN SARKER MODEL SCHOOL AND COLLEGE Day Bangla Business Studies Both 1.00 1.00 0.00 100
+Gazipur Kaliakair 137637 AFAJUDDIN MEMORIAL COLLEGE Day Bangla Humanities Both 2.00 1.00 0.00 150
+Gazipur Kaliakair 137637 AFAJUDDIN MEMORIAL COLLEGE Day Bangla Business Studies Both 2.50 1.00 0.00 150
+Gazipur Kaliakair 137637 AFAJUDDIN MEMORIAL COLLEGE Day Bangla Science Both 3.50 1.00 0.00 150
+Gazipur Kaliakair 109113 BARAIBARI A.K.U. INSTITUTION KALIAKAIR Day Bangla Science Both 3.00 1.00 0.00 50
+Gazipur Kaliakair 109113 BARAIBARI A.K.U. INSTITUTION KALIAKAIR Day Bangla Business Studies Both 2.50 1.00 0.00 115
+Gazipur Kaliakair 109113 BARAIBARI A.K.U. INSTITUTION KALIAKAIR Day Bangla Humanities Both 2.00 1.00 0.00 150
+Gazipur Kaliakair 109111 BARAIBARI ADARSHA COLLEGE KALIAKAIR Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Gazipur Kaliakair 109111 BARAIBARI ADARSHA COLLEGE KALIAKAIR Day Bangla Humanities Both 1.00 0.00 0.00 250
+Gazipur Kaliakair 109111 BARAIBARI ADARSHA COLLEGE KALIAKAIR Day Bangla Science Both 3.00 0.00 0.00 100
+Gazipur Kaliakair 134178 HABEZ UDDIN SARKAR COLLEGE Day Bangla Humanities Both 1.00 0.00 0.00 300
+Gazipur Kaliakair 134178 HABEZ UDDIN SARKAR COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 150
+Gazipur Kaliakair 134178 HABEZ UDDIN SARKAR COLLEGE Day Bangla Science Both 3.00 0.00 0.00 60
+Gazipur Kaliakair 109112 JATIR PITA BANGABANDHU COLLEGE Day Bangla Business Studies Both 3.00 0.00 0.00 300
+Gazipur Kaliakair 109112 JATIR PITA BANGABANDHU COLLEGE Day Bangla Humanities Both 4.00 0.00 0.00 300
+Gazipur Kaliakair 109112 JATIR PITA BANGABANDHU COLLEGE Day Bangla Science Both 4.50 0.00 0.00 100
+Gazipur Kaliakair 109110 KALIAKOIR COLLEGE Day Bangla Humanities Both 2.00 0.00 0.00 550
+Gazipur Kaliakair 109110 KALIAKOIR COLLEGE Day Bangla Science Both 2.50 0.00 0.00 150
+Gazipur Kaliakair 109110 KALIAKOIR COLLEGE Day Bangla Business Studies Both 2.00 0.00 0.00 300
+Gazipur Kaliakair 134184 MISIR ALI KHAN MEMORIAL COLLEGE BRABO Day Bangla Science Both 4.00 0.00 0.00 250
+Gazipur Kaliakair 134184 MISIR ALI KHAN MEMORIAL COLLEGE BRABO Day Bangla Business Studies Both 3.00 0.00 0.00 150
